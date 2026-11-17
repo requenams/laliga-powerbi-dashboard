@@ -1,0 +1,130 @@
+// =====================================================================
+//  Measures for the LaLiga 2015/16 scouting dashboard
+//  Create an empty table called "metrics" (Home > Enter data > Load)
+//  and add each measure below with Modeling > New measure.
+// =====================================================================
+
+// ----------------------------------------------------------- players
+
+Minutes = SUM ( fact_player_match[minutes] )
+
+Matches Played = DISTINCTCOUNT ( fact_player_match[match_id] )
+
+Starts = CALCULATE ( COUNTROWS ( fact_player_match ), fact_player_match[started] = TRUE () )
+
+Goals = SUM ( fact_player_match[goals] )
+Non Penalty Goals = SUM ( fact_player_match[np_goals] )
+xG = SUM ( fact_player_match[xg] )
+Non Penalty xG = SUM ( fact_player_match[np_xg] )
+Assists = SUM ( fact_player_match[assists] )
+xA = SUM ( fact_player_match[xa] )
+Shots = SUM ( fact_player_match[shots] )
+Key Passes = SUM ( fact_player_match[key_passes] )
+Progressive Passes = SUM ( fact_player_match[progressive_passes] )
+Passes into Final Third = SUM ( fact_player_match[passes_final_third] )
+Progressive Carries = SUM ( fact_player_match[progressive_carries] )
+Successful Dribbles = SUM ( fact_player_match[dribbles_completed] )
+Tackles Won = SUM ( fact_player_match[tackles_won] )
+Interceptions = SUM ( fact_player_match[interceptions] )
+Pressures = SUM ( fact_player_match[pressures] )
+
+Pass Completion % =
+DIVIDE ( SUM ( fact_player_match[passes_completed] ), SUM ( fact_player_match[passes] ) )
+
+Goals minus xG = [Goals] - [xG]
+
+// per 90 minutes
+Goals p90 = DIVIDE ( [Goals] * 90, [Minutes] )
+Non Penalty Goals p90 = DIVIDE ( [Non Penalty Goals] * 90, [Minutes] )
+xG p90 = DIVIDE ( [xG] * 90, [Minutes] )
+Non Penalty xG p90 = DIVIDE ( [Non Penalty xG] * 90, [Minutes] )
+Assists p90 = DIVIDE ( [Assists] * 90, [Minutes] )
+xA p90 = DIVIDE ( [xA] * 90, [Minutes] )
+Shots p90 = DIVIDE ( [Shots] * 90, [Minutes] )
+Key Passes p90 = DIVIDE ( [Key Passes] * 90, [Minutes] )
+Progressive Passes p90 = DIVIDE ( [Progressive Passes] * 90, [Minutes] )
+Progressive Carries p90 = DIVIDE ( [Progressive Carries] * 90, [Minutes] )
+Successful Dribbles p90 = DIVIDE ( [Successful Dribbles] * 90, [Minutes] )
+Tackles and Interceptions p90 = DIVIDE ( ( [Tackles Won] + [Interceptions] ) * 90, [Minutes] )
+Pressures p90 = DIVIDE ( [Pressures] * 90, [Minutes] )
+
+// Only show players with enough minutes. Requires the what if parameter
+// "Min Minutes" (see GUIDE.md), which creates [Min Minutes Value].
+Eligible Player = IF ( [Minutes] >= [Min Minutes Value], 1, 0 )
+
+// ----------------------------------------------------------- teams
+
+Points = SUM ( fact_team_match[points] )
+Team Matches = COUNTROWS ( fact_team_match )
+Wins = CALCULATE ( COUNTROWS ( fact_team_match ), fact_team_match[result] = "W" )
+Draws = CALCULATE ( COUNTROWS ( fact_team_match ), fact_team_match[result] = "D" )
+Losses = CALCULATE ( COUNTROWS ( fact_team_match ), fact_team_match[result] = "L" )
+Goals For = SUM ( fact_team_match[goals_for] )
+Goals Against = SUM ( fact_team_match[goals_against] )
+Goal Difference = [Goals For] - [Goals Against]
+xG For = SUM ( fact_team_match[xg_for] )
+xG Against = SUM ( fact_team_match[xg_against] )
+xG Difference = [xG For] - [xG Against]
+Points per Match = DIVIDE ( [Points], [Team Matches] )
+Average Pass Share = AVERAGE ( fact_team_match[pass_share] )
+
+Cumulative Points =
+VAR lastWeek = MAX ( dim_match[matchweek] )
+RETURN
+    CALCULATE (
+        [Points],
+        FILTER ( ALL ( dim_match[matchweek] ), dim_match[matchweek] <= lastWeek )
+    )
+
+// ----------------------------------------------------------- shots
+
+Shot Count = COUNTROWS ( fact_shots )
+Shot xG = SUM ( fact_shots[xg] )
+xG per Shot = DIVIDE ( [Shot xG], [Shot Count] )
+Shot Goals = CALCULATE ( COUNTROWS ( fact_shots ), fact_shots[is_goal] = TRUE () )
+Conversion Rate = DIVIDE ( [Shot Goals], [Shot Count] )
+
+// ----------------------------------------------------------- dashboard helpers
+
+// Value of the metric chosen in the "Parameter" field parameter, only for
+// players above the minutes threshold. Used by the Top 10 chart and its Top N filter.
+Selected Metric Value =
+VAR metric =
+    SWITCH (
+        SELECTEDVALUE ( Parameter[Parameter Order] ),
+        0, [xG p90],
+        1, [Non Penalty Goals p90],
+        2, [xA p90],
+        3, [Key Passes p90],
+        4, [Progressive Passes p90],
+        5, [Progressive Carries p90],
+        6, [Successful Dribbles p90],
+        7, [Tackles and Interceptions p90],
+        8, [Pressures p90]
+    )
+RETURN
+    IF ( [Eligible Player] = 1, metric )
+
+// Dynamic title for the Top 10 chart (Title > fx > Field value)
+Top 10 Title =
+"Top 10 · "
+    & SWITCH (
+        SELECTEDVALUE ( Parameter[Parameter Order], 0 ),
+        0, "xG p90",
+        1, "Non penalty goals p90",
+        2, "xA p90",
+        3, "Key passes p90",
+        4, "Progressive passes p90",
+        5, "Progressive carries p90",
+        6, "Successful dribbles p90",
+        7, "Tackles and interceptions p90",
+        8, "Pressures p90"
+    )
+
+// Text versions for the new card visual, which otherwise shows 1K or 3K
+Goals Scored Label = FORMAT ( [Goals For], "#,##0" )
+Total xG Label = FORMAT ( [Shot xG], "#,##0" )
+Minutes Label = FORMAT ( [Minutes], "#,##0" )
+
+// Marker colour for the shot map (Markers > Color > fx > Field value)
+Shot Colour = IF ( MAX ( fact_shots[is_goal] ), "#FFD400", "#FFFFFF" )

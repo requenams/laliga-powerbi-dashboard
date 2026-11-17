@@ -1,0 +1,117 @@
+// Paste into the DAX query view, Run, then "Update model with changes".
+// Requires the table "metrics" and the numeric parameter "Min Minutes".
+DEFINE
+    MEASURE metrics[Minutes] =
+        SUM ( fact_player_match[minutes] )
+    MEASURE metrics[Matches Played] =
+        DISTINCTCOUNT ( fact_player_match[match_id] )
+    MEASURE metrics[Starts] =
+        CALCULATE ( COUNTROWS ( fact_player_match ), fact_player_match[started] = TRUE () )
+    MEASURE metrics[Goals] =
+        SUM ( fact_player_match[goals] )
+    MEASURE metrics[Non Penalty Goals] =
+        SUM ( fact_player_match[np_goals] )
+    MEASURE metrics[xG] =
+        SUM ( fact_player_match[xg] )
+    MEASURE metrics[Non Penalty xG] =
+        SUM ( fact_player_match[np_xg] )
+    MEASURE metrics[Assists] =
+        SUM ( fact_player_match[assists] )
+    MEASURE metrics[xA] =
+        SUM ( fact_player_match[xa] )
+    MEASURE metrics[Shots] =
+        SUM ( fact_player_match[shots] )
+    MEASURE metrics[Key Passes] =
+        SUM ( fact_player_match[key_passes] )
+    MEASURE metrics[Progressive Passes] =
+        SUM ( fact_player_match[progressive_passes] )
+    MEASURE metrics[Passes into Final Third] =
+        SUM ( fact_player_match[passes_final_third] )
+    MEASURE metrics[Progressive Carries] =
+        SUM ( fact_player_match[progressive_carries] )
+    MEASURE metrics[Successful Dribbles] =
+        SUM ( fact_player_match[dribbles_completed] )
+    MEASURE metrics[Tackles Won] =
+        SUM ( fact_player_match[tackles_won] )
+    MEASURE metrics[Interceptions] =
+        SUM ( fact_player_match[interceptions] )
+    MEASURE metrics[Pressures] =
+        SUM ( fact_player_match[pressures] )
+    MEASURE metrics[Pass Completion %] =
+        DIVIDE ( SUM ( fact_player_match[passes_completed] ), SUM ( fact_player_match[passes] ) )
+    MEASURE metrics[Goals minus xG] =
+        [Goals] - [xG]
+    MEASURE metrics[Goals p90] =
+        DIVIDE ( [Goals] * 90, [Minutes] )
+    MEASURE metrics[Non Penalty Goals p90] =
+        DIVIDE ( [Non Penalty Goals] * 90, [Minutes] )
+    MEASURE metrics[xG p90] =
+        DIVIDE ( [xG] * 90, [Minutes] )
+    MEASURE metrics[Non Penalty xG p90] =
+        DIVIDE ( [Non Penalty xG] * 90, [Minutes] )
+    MEASURE metrics[Assists p90] =
+        DIVIDE ( [Assists] * 90, [Minutes] )
+    MEASURE metrics[xA p90] =
+        DIVIDE ( [xA] * 90, [Minutes] )
+    MEASURE metrics[Shots p90] =
+        DIVIDE ( [Shots] * 90, [Minutes] )
+    MEASURE metrics[Key Passes p90] =
+        DIVIDE ( [Key Passes] * 90, [Minutes] )
+    MEASURE metrics[Progressive Passes p90] =
+        DIVIDE ( [Progressive Passes] * 90, [Minutes] )
+    MEASURE metrics[Progressive Carries p90] =
+        DIVIDE ( [Progressive Carries] * 90, [Minutes] )
+    MEASURE metrics[Successful Dribbles p90] =
+        DIVIDE ( [Successful Dribbles] * 90, [Minutes] )
+    MEASURE metrics[Tackles and Interceptions p90] =
+        DIVIDE ( ( [Tackles Won] + [Interceptions] ) * 90, [Minutes] )
+    MEASURE metrics[Pressures p90] =
+        DIVIDE ( [Pressures] * 90, [Minutes] )
+    MEASURE metrics[Eligible Player] =
+        IF ( [Minutes] >= [Min Minutes Value], 1, 0 )
+    MEASURE metrics[Points] =
+        SUM ( fact_team_match[points] )
+    MEASURE metrics[Team Matches] =
+        COUNTROWS ( fact_team_match )
+    MEASURE metrics[Wins] =
+        CALCULATE ( COUNTROWS ( fact_team_match ), fact_team_match[result] = "W" )
+    MEASURE metrics[Draws] =
+        CALCULATE ( COUNTROWS ( fact_team_match ), fact_team_match[result] = "D" )
+    MEASURE metrics[Losses] =
+        CALCULATE ( COUNTROWS ( fact_team_match ), fact_team_match[result] = "L" )
+    MEASURE metrics[Goals For] =
+        SUM ( fact_team_match[goals_for] )
+    MEASURE metrics[Goals Against] =
+        SUM ( fact_team_match[goals_against] )
+    MEASURE metrics[Goal Difference] =
+        [Goals For] - [Goals Against]
+    MEASURE metrics[xG For] =
+        SUM ( fact_team_match[xg_for] )
+    MEASURE metrics[xG Against] =
+        SUM ( fact_team_match[xg_against] )
+    MEASURE metrics[xG Difference] =
+        [xG For] - [xG Against]
+    MEASURE metrics[Points per Match] =
+        DIVIDE ( [Points], [Team Matches] )
+    MEASURE metrics[Average Pass Share] =
+        AVERAGE ( fact_team_match[pass_share] )
+    MEASURE metrics[Cumulative Points] =
+        VAR lastWeek = MAX ( dim_match[matchweek] )
+        RETURN
+            CALCULATE (
+                [Points],
+                FILTER ( ALL ( dim_match[matchweek] ), dim_match[matchweek] <= lastWeek )
+            )
+    MEASURE metrics[Shot Count] =
+        COUNTROWS ( fact_shots )
+    MEASURE metrics[Shot xG] =
+        SUM ( fact_shots[xg] )
+    MEASURE metrics[xG per Shot] =
+        DIVIDE ( [Shot xG], [Shot Count] )
+    MEASURE metrics[Shot Goals] =
+        CALCULATE ( COUNTROWS ( fact_shots ), fact_shots[is_goal] = TRUE () )
+    MEASURE metrics[Conversion Rate] =
+        DIVIDE ( [Shot Goals], [Shot Count] )
+
+EVALUATE
+    ROW ( "Measures defined", 53 )

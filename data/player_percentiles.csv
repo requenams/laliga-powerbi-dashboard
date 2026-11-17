@@ -1,0 +1,5832 @@
+player_id,metric,metric_order,value,percentile
+3023,Goals,1,0.0,30.0
+3063,Goals,1,0.085,92.0
+3160,Goals,1,0.0,15.0
+3253,Goals,1,0.0,30.0
+3292,Goals,1,0.0,15.0
+3302,Goals,1,0.0,15.0
+3324,Goals,1,0.0,30.0
+3379,Goals,1,0.0,52.0
+3486,Goals,1,0.302,55.0
+3497,Goals,1,0.353,98.0
+3601,Goals,1,0.071,53.0
+3610,Goals,1,0.031,32.0
+3637,Goals,1,0.0,15.0
+3638,Goals,1,0.065,80.0
+4320,Goals,1,0.688,93.0
+4324,Goals,1,0.0,30.0
+4353,Goals,1,0.118,98.0
+4406,Goals,1,0.0,30.0
+4498,Goals,1,0.116,98.0
+4546,Goals,1,0.056,75.0
+4691,Goals,1,0.0,52.0
+4711,Goals,1,0.137,77.0
+4926,Goals,1,0.144,79.0
+5199,Goals,1,0.147,81.0
+5200,Goals,1,0.278,52.0
+5201,Goals,1,0.09,94.0
+5202,Goals,1,0.0,30.0
+5203,Goals,1,0.0,15.0
+5207,Goals,1,0.96,95.0
+5211,Goals,1,0.0,30.0
+5213,Goals,1,0.068,82.0
+5216,Goals,1,0.039,37.0
+5217,Goals,1,0.462,75.0
+5246,Goals,1,1.11,100.0
+5249,Goals,1,0.033,65.0
+5259,Goals,1,0.036,69.0
+5456,Goals,1,0.0,15.0
+5463,Goals,1,0.067,51.0
+5470,Goals,1,0.239,92.0
+5485,Goals,1,0.0,30.0
+5487,Goals,1,0.634,91.0
+5503,Goals,1,0.834,94.0
+5504,Goals,1,0.254,95.0
+5506,Goals,1,0.0,30.0
+5539,Goals,1,0.057,44.0
+5552,Goals,1,0.071,87.0
+5560,Goals,1,0.159,29.0
+5574,Goals,1,0.032,34.0
+5577,Goals,1,0.0,52.0
+5582,Goals,1,0.137,77.0
+5588,Goals,1,0.0,30.0
+5597,Goals,1,0.0,52.0
+5598,Goals,1,0.072,88.0
+5633,Goals,1,0.233,91.0
+5671,Goals,1,0.058,45.0
+5678,Goals,1,0.032,34.0
+5687,Goals,1,0.161,32.0
+5695,Goals,1,0.404,100.0
+5718,Goals,1,0.126,24.0
+5719,Goals,1,0.124,76.0
+5721,Goals,1,0.0,30.0
+5724,Goals,1,0.153,83.0
+5737,Goals,1,0.141,79.0
+5741,Goals,1,0.0,15.0
+6038,Goals,1,0.474,79.0
+6320,Goals,1,0.031,63.0
+6356,Goals,1,0.052,6.0
+6357,Goals,1,0.0,15.0
+6375,Goals,1,0.029,61.0
+6376,Goals,1,0.0,30.0
+6377,Goals,1,0.444,72.0
+6378,Goals,1,0.0,52.0
+6379,Goals,1,0.0,15.0
+6381,Goals,1,0.149,82.0
+6382,Goals,1,0.563,86.0
+6384,Goals,1,0.03,30.0
+6386,Goals,1,0.0,30.0
+6389,Goals,1,0.065,49.0
+6390,Goals,1,0.137,25.0
+6391,Goals,1,0.257,96.0
+6392,Goals,1,0.075,9.0
+6393,Goals,1,0.437,71.0
+6394,Goals,1,0.626,89.0
+6396,Goals,1,0.03,30.0
+6399,Goals,1,0.963,96.0
+6401,Goals,1,0.666,92.0
+6402,Goals,1,0.466,76.0
+6557,Goals,1,0.197,86.0
+6559,Goals,1,0.069,52.0
+6561,Goals,1,0.0,30.0
+6563,Goals,1,0.215,89.0
+6566,Goals,1,0.611,88.0
+6569,Goals,1,0.0,30.0
+6573,Goals,1,0.065,80.0
+6576,Goals,1,0.0,52.0
+6580,Goals,1,0.0,15.0
+6581,Goals,1,0.153,28.0
+6592,Goals,1,0.0,30.0
+6593,Goals,1,0.0,30.0
+6594,Goals,1,0.222,44.0
+6595,Goals,1,0.254,95.0
+6596,Goals,1,0.0,30.0
+6599,Goals,1,0.0,15.0
+6602,Goals,1,0.16,31.0
+6605,Goals,1,0.0,30.0
+6608,Goals,1,0.102,69.0
+6609,Goals,1,0.146,80.0
+6610,Goals,1,0.0,52.0
+6612,Goals,1,0.0,30.0
+6614,Goals,1,0.064,79.0
+6622,Goals,1,0.0,15.0
+6624,Goals,1,0.086,14.0
+6625,Goals,1,0.0,52.0
+6626,Goals,1,0.093,65.0
+6627,Goals,1,0.0,30.0
+6630,Goals,1,0.093,16.0
+6633,Goals,1,0.065,49.0
+6647,Goals,1,0.034,67.0
+6649,Goals,1,0.03,62.0
+6651,Goals,1,0.045,41.0
+6654,Goals,1,0.0,52.0
+6659,Goals,1,0.082,60.0
+6663,Goals,1,0.0,30.0
+6665,Goals,1,0.032,64.0
+6666,Goals,1,0.383,67.0
+6668,Goals,1,0.229,90.0
+6669,Goals,1,0.078,11.0
+6671,Goals,1,0.031,32.0
+6672,Goals,1,0.05,73.0
+6673,Goals,1,0.0,15.0
+6674,Goals,1,0.0,30.0
+6675,Goals,1,0.0,30.0
+6677,Goals,1,0.972,98.0
+6679,Goals,1,0.034,67.0
+6680,Goals,1,0.212,88.0
+6685,Goals,1,0.347,60.0
+6690,Goals,1,0.11,71.0
+6694,Goals,1,0.0,52.0
+6697,Goals,1,0.0,15.0
+6699,Goals,1,0.056,75.0
+6700,Goals,1,0.323,58.0
+6702,Goals,1,0.0,30.0
+6707,Goals,1,0.348,61.0
+6712,Goals,1,0.093,65.0
+6713,Goals,1,0.06,77.0
+6718,Goals,1,0.074,89.0
+6720,Goals,1,0.242,93.0
+6721,Goals,1,0.448,73.0
+6724,Goals,1,0.423,68.0
+6727,Goals,1,0.068,82.0
+6728,Goals,1,0.194,35.0
+6730,Goals,1,0.0,52.0
+6732,Goals,1,0.472,78.0
+6733,Goals,1,0.0,15.0
+6734,Goals,1,0.0,30.0
+6736,Goals,1,0.117,74.0
+6738,Goals,1,0.033,65.0
+6740,Goals,1,0.062,47.0
+6742,Goals,1,0.114,20.0
+6744,Goals,1,0.091,15.0
+6745,Goals,1,0.0,15.0
+6751,Goals,1,0.0,15.0
+6752,Goals,1,0.0,30.0
+6758,Goals,1,0.038,36.0
+6761,Goals,1,0.204,38.0
+6762,Goals,1,0.0,30.0
+6764,Goals,1,0.066,50.0
+6766,Goals,1,0.318,56.0
+6771,Goals,1,0.082,60.0
+6772,Goals,1,0.06,77.0
+6775,Goals,1,0.0,15.0
+6776,Goals,1,0.0,30.0
+6777,Goals,1,0.0,30.0
+6778,Goals,1,0.0,30.0
+6784,Goals,1,0.0,30.0
+6787,Goals,1,0.067,81.0
+6788,Goals,1,0.0,30.0
+6789,Goals,1,0.0,30.0
+6791,Goals,1,0.0,30.0
+6792,Goals,1,0.0,52.0
+6794,Goals,1,0.0,30.0
+6796,Goals,1,0.0,15.0
+6797,Goals,1,0.065,49.0
+6801,Goals,1,0.076,55.0
+6802,Goals,1,0.029,61.0
+6804,Goals,1,0.0,30.0
+6805,Goals,1,0.03,62.0
+6823,Goals,1,0.0,52.0
+6825,Goals,1,0.082,91.0
+6827,Goals,1,0.0,30.0
+6828,Goals,1,0.056,75.0
+6829,Goals,1,0.051,43.0
+6832,Goals,1,0.49,80.0
+6837,Goals,1,0.0,30.0
+6838,Goals,1,0.249,47.0
+6841,Goals,1,0.085,13.0
+6842,Goals,1,0.171,34.0
+6847,Goals,1,0.262,49.0
+6852,Goals,1,0.381,99.0
+6856,Goals,1,0.073,88.0
+6861,Goals,1,0.045,71.0
+6862,Goals,1,0.56,85.0
+6865,Goals,1,0.0,30.0
+6867,Goals,1,0.105,70.0
+6869,Goals,1,0.064,79.0
+6872,Goals,1,0.0,30.0
+6873,Goals,1,0.0,15.0
+6878,Goals,1,0.0,30.0
+6880,Goals,1,0.429,69.0
+6884,Goals,1,0.0,52.0
+6898,Goals,1,0.0,52.0
+6899,Goals,1,0.0,15.0
+6907,Goals,1,0.095,18.0
+6913,Goals,1,0.0,30.0
+6914,Goals,1,0.035,68.0
+6918,Goals,1,0.217,41.0
+6926,Goals,1,0.111,73.0
+6927,Goals,1,0.109,96.0
+6928,Goals,1,0.208,87.0
+6929,Goals,1,0.059,46.0
+6932,Goals,1,0.0,30.0
+6934,Goals,1,0.0,15.0
+6935,Goals,1,0.0,30.0
+7005,Goals,1,0.041,70.0
+7034,Goals,1,0.086,93.0
+7105,Goals,1,0.21,39.0
+7141,Goals,1,0.458,74.0
+7154,Goals,1,0.0,15.0
+7158,Goals,1,0.0,30.0
+7161,Goals,1,0.12,99.0
+7577,Goals,1,0.0,30.0
+7781,Goals,1,0.328,59.0
+7782,Goals,1,0.25,93.0
+7900,Goals,1,0.117,21.0
+7906,Goals,1,0.038,70.0
+7907,Goals,1,0.111,97.0
+8167,Goals,1,0.237,45.0
+8234,Goals,1,0.087,64.0
+8419,Goals,1,0.302,55.0
+8440,Goals,1,0.0,30.0
+8522,Goals,1,0.118,22.0
+8523,Goals,1,0.212,40.0
+8584,Goals,1,0.375,66.0
+8697,Goals,1,0.0,52.0
+8801,Goals,1,0.0,30.0
+8818,Goals,1,0.0,30.0
+10037,Goals,1,0.0,15.0
+10476,Goals,1,0.0,30.0
+10609,Goals,1,0.0,30.0
+10755,Goals,1,0.281,97.0
+10763,Goals,1,0.0,52.0
+10802,Goals,1,0.11,71.0
+11298,Goals,1,0.0,30.0
+11539,Goals,1,0.095,18.0
+11542,Goals,1,0.501,81.0
+11634,Goals,1,0.0,30.0
+11675,Goals,1,0.185,85.0
+13107,Goals,1,0.08,58.0
+15805,Goals,1,0.093,65.0
+15893,Goals,1,0.076,55.0
+16332,Goals,1,0.0,30.0
+16456,Goals,1,0.07,86.0
+16539,Goals,1,0.075,90.0
+16622,Goals,1,0.0,30.0
+17054,Goals,1,0.269,100.0
+18398,Goals,1,0.0,15.0
+18724,Goals,1,0.068,7.0
+18867,Goals,1,0.0,15.0
+18925,Goals,1,0.044,40.0
+19431,Goals,1,0.0,15.0
+19454,Goals,1,0.069,84.0
+19668,Goals,1,0.04,39.0
+19677,Goals,1,1.07,99.0
+20016,Goals,1,0.046,72.0
+20064,Goals,1,0.0,30.0
+20542,Goals,1,0.369,65.0
+20669,Goals,1,0.082,60.0
+21210,Goals,1,0.0,30.0
+22819,Goals,1,0.167,84.0
+23416,Goals,1,0.283,53.0
+23785,Goals,1,0.146,27.0
+23791,Goals,1,0.267,51.0
+23800,Goals,1,0.0,30.0
+23806,Goals,1,0.1,68.0
+23816,Goals,1,0.073,8.0
+23843,Goals,1,0.0,52.0
+23848,Goals,1,0.145,26.0
+23943,Goals,1,0.084,12.0
+23994,Goals,1,0.165,33.0
+24035,Goals,1,0.22,42.0
+24070,Goals,1,0.248,46.0
+24132,Goals,1,0.0,30.0
+24138,Goals,1,0.0,30.0
+24149,Goals,1,0.082,60.0
+24173,Goals,1,0.587,87.0
+24255,Goals,1,0.0,52.0
+24263,Goals,1,0.07,86.0
+24783,Goals,1,0.0,15.0
+25134,Goals,1,0.363,64.0
+25144,Goals,1,0.0,52.0
+25707,Goals,1,0.118,75.0
+25859,Goals,1,0.079,57.0
+25881,Goals,1,0.0,15.0
+25921,Goals,1,0.0,2.0
+26009,Goals,1,0.195,36.0
+26012,Goals,1,0.0,30.0
+26020,Goals,1,0.261,48.0
+26023,Goals,1,0.0,30.0
+26087,Goals,1,0.0,30.0
+26103,Goals,1,0.0,52.0
+26211,Goals,1,0.095,67.0
+26222,Goals,1,0.102,95.0
+26448,Goals,1,0.0,30.0
+26607,Goals,1,0.047,42.0
+26633,Goals,1,0.0,30.0
+26669,Goals,1,0.0,30.0
+26685,Goals,1,0.508,82.0
+26690,Goals,1,0.349,62.0
+26723,Goals,1,0.046,5.0
+26753,Goals,1,0.0,52.0
+26780,Goals,1,0.0,30.0
+26848,Goals,1,0.084,63.0
+27054,Goals,1,0.0,30.0
+27092,Goals,1,0.0,30.0
+27109,Goals,1,0.551,84.0
+27122,Goals,1,0.04,39.0
+27144,Goals,1,0.084,91.0
+27148,Goals,1,0.078,56.0
+27184,Goals,1,0.0,30.0
+27239,Goals,1,0.0,30.0
+27241,Goals,1,0.045,4.0
+27250,Goals,1,0.0,2.0
+27305,Goals,1,0.0,52.0
+27335,Goals,1,0.0,30.0
+27341,Goals,1,0.0,15.0
+27346,Goals,1,0.037,36.0
+27347,Goals,1,0.101,95.0
+27349,Goals,1,0.053,73.0
+27403,Goals,1,0.0,30.0
+27482,Goals,1,0.0,30.0
+27483,Goals,1,0.0,30.0
+27526,Goals,1,0.0,15.0
+27656,Goals,1,0.069,84.0
+3023,Non penalty goals,2,0.0,30.0
+3063,Non penalty goals,2,0.085,92.0
+3160,Non penalty goals,2,0.0,15.0
+3253,Non penalty goals,2,0.0,30.0
+3292,Non penalty goals,2,0.0,15.0
+3302,Non penalty goals,2,0.0,15.0
+3324,Non penalty goals,2,0.0,30.0
+3379,Non penalty goals,2,0.0,52.0
+3486,Non penalty goals,2,0.302,56.0
+3497,Non penalty goals,2,0.353,98.0
+3601,Non penalty goals,2,0.071,56.0
+3610,Non penalty goals,2,0.031,33.0
+3637,Non penalty goals,2,0.0,15.0
+3638,Non penalty goals,2,0.065,80.0
+4320,Non penalty goals,2,0.545,88.0
+4324,Non penalty goals,2,0.0,30.0
+4353,Non penalty goals,2,0.118,98.0
+4406,Non penalty goals,2,0.0,30.0
+4498,Non penalty goals,2,0.116,98.0
+4546,Non penalty goals,2,0.056,75.0
+4691,Non penalty goals,2,0.0,52.0
+4711,Non penalty goals,2,0.137,78.0
+4926,Non penalty goals,2,0.144,80.0
+5199,Non penalty goals,2,0.147,82.0
+5200,Non penalty goals,2,0.278,54.0
+5201,Non penalty goals,2,0.09,94.0
+5202,Non penalty goals,2,0.0,30.0
+5203,Non penalty goals,2,0.0,15.0
+5207,Non penalty goals,2,0.795,95.0
+5211,Non penalty goals,2,0.0,30.0
+5213,Non penalty goals,2,0.068,82.0
+5216,Non penalty goals,2,0.039,38.0
+5217,Non penalty goals,2,0.429,76.0
+5246,Non penalty goals,2,1.027,99.0
+5249,Non penalty goals,2,0.033,65.0
+5259,Non penalty goals,2,0.036,69.0
+5456,Non penalty goals,2,0.0,15.0
+5463,Non penalty goals,2,0.067,54.0
+5470,Non penalty goals,2,0.239,94.0
+5485,Non penalty goals,2,0.0,30.0
+5487,Non penalty goals,2,0.605,93.0
+5503,Non penalty goals,2,0.737,94.0
+5504,Non penalty goals,2,0.203,89.0
+5506,Non penalty goals,2,0.0,30.0
+5539,Non penalty goals,2,0.057,46.0
+5552,Non penalty goals,2,0.071,87.0
+5560,Non penalty goals,2,0.159,31.0
+5574,Non penalty goals,2,0.032,35.0
+5577,Non penalty goals,2,0.0,52.0
+5582,Non penalty goals,2,0.137,78.0
+5588,Non penalty goals,2,0.0,30.0
+5597,Non penalty goals,2,0.0,52.0
+5598,Non penalty goals,2,0.072,88.0
+5633,Non penalty goals,2,0.233,93.0
+5671,Non penalty goals,2,0.058,47.0
+5678,Non penalty goals,2,0.032,35.0
+5687,Non penalty goals,2,0.161,34.0
+5695,Non penalty goals,2,0.404,100.0
+5718,Non penalty goals,2,0.126,25.0
+5719,Non penalty goals,2,0.124,77.0
+5721,Non penalty goals,2,0.0,30.0
+5724,Non penalty goals,2,0.153,84.0
+5737,Non penalty goals,2,0.141,79.0
+5741,Non penalty goals,2,0.0,15.0
+6038,Non penalty goals,2,0.406,74.0
+6320,Non penalty goals,2,0.031,63.0
+6356,Non penalty goals,2,0.052,6.0
+6357,Non penalty goals,2,0.0,15.0
+6375,Non penalty goals,2,0.029,61.0
+6376,Non penalty goals,2,0.0,30.0
+6377,Non penalty goals,2,0.444,79.0
+6378,Non penalty goals,2,0.0,52.0
+6379,Non penalty goals,2,0.0,15.0
+6381,Non penalty goals,2,0.149,83.0
+6382,Non penalty goals,2,0.563,91.0
+6384,Non penalty goals,2,0.03,31.0
+6386,Non penalty goals,2,0.0,30.0
+6389,Non penalty goals,2,0.065,50.0
+6390,Non penalty goals,2,0.137,26.0
+6391,Non penalty goals,2,0.257,97.0
+6392,Non penalty goals,2,0.075,11.0
+6393,Non penalty goals,2,0.437,78.0
+6394,Non penalty goals,2,0.532,87.0
+6396,Non penalty goals,2,0.03,31.0
+6399,Non penalty goals,2,0.963,96.0
+6401,Non penalty goals,2,0.5,82.0
+6402,Non penalty goals,2,0.394,73.0
+6557,Non penalty goals,2,0.197,88.0
+6559,Non penalty goals,2,0.069,55.0
+6561,Non penalty goals,2,0.0,30.0
+6563,Non penalty goals,2,0.215,92.0
+6566,Non penalty goals,2,0.509,86.0
+6569,Non penalty goals,2,0.0,30.0
+6573,Non penalty goals,2,0.065,80.0
+6576,Non penalty goals,2,0.0,52.0
+6580,Non penalty goals,2,0.0,15.0
+6581,Non penalty goals,2,0.153,29.0
+6592,Non penalty goals,2,0.0,30.0
+6593,Non penalty goals,2,0.0,30.0
+6594,Non penalty goals,2,0.222,45.0
+6595,Non penalty goals,2,0.19,87.0
+6596,Non penalty goals,2,0.0,30.0
+6599,Non penalty goals,2,0.0,15.0
+6602,Non penalty goals,2,0.16,33.0
+6605,Non penalty goals,2,0.0,30.0
+6608,Non penalty goals,2,0.102,71.0
+6609,Non penalty goals,2,0.146,81.0
+6610,Non penalty goals,2,0.0,52.0
+6612,Non penalty goals,2,0.0,30.0
+6614,Non penalty goals,2,0.064,79.0
+6622,Non penalty goals,2,0.0,15.0
+6624,Non penalty goals,2,0.086,15.0
+6625,Non penalty goals,2,0.0,52.0
+6626,Non penalty goals,2,0.093,67.0
+6627,Non penalty goals,2,0.0,30.0
+6630,Non penalty goals,2,0.093,18.0
+6633,Non penalty goals,2,0.065,50.0
+6647,Non penalty goals,2,0.034,67.0
+6649,Non penalty goals,2,0.03,62.0
+6651,Non penalty goals,2,0.045,43.0
+6654,Non penalty goals,2,0.0,52.0
+6659,Non penalty goals,2,0.082,64.0
+6663,Non penalty goals,2,0.0,30.0
+6665,Non penalty goals,2,0.032,64.0
+6666,Non penalty goals,2,0.383,69.0
+6668,Non penalty goals,2,0.229,93.0
+6669,Non penalty goals,2,0.078,12.0
+6671,Non penalty goals,2,0.031,33.0
+6672,Non penalty goals,2,0.05,73.0
+6673,Non penalty goals,2,0.0,15.0
+6674,Non penalty goals,2,0.0,30.0
+6675,Non penalty goals,2,0.0,30.0
+6677,Non penalty goals,2,0.972,98.0
+6679,Non penalty goals,2,0.034,67.0
+6680,Non penalty goals,2,0.212,91.0
+6685,Non penalty goals,2,0.347,62.0
+6690,Non penalty goals,2,0.073,57.0
+6694,Non penalty goals,2,0.0,52.0
+6697,Non penalty goals,2,0.0,15.0
+6699,Non penalty goals,2,0.056,75.0
+6700,Non penalty goals,2,0.323,60.0
+6702,Non penalty goals,2,0.0,30.0
+6707,Non penalty goals,2,0.319,59.0
+6712,Non penalty goals,2,0.093,67.0
+6713,Non penalty goals,2,0.06,77.0
+6718,Non penalty goals,2,0.074,89.0
+6720,Non penalty goals,2,0.242,95.0
+6721,Non penalty goals,2,0.448,81.0
+6724,Non penalty goals,2,0.387,71.0
+6727,Non penalty goals,2,0.068,82.0
+6728,Non penalty goals,2,0.194,40.0
+6730,Non penalty goals,2,0.0,52.0
+6732,Non penalty goals,2,0.444,79.0
+6733,Non penalty goals,2,0.0,15.0
+6734,Non penalty goals,2,0.0,30.0
+6736,Non penalty goals,2,0.117,75.0
+6738,Non penalty goals,2,0.033,65.0
+6740,Non penalty goals,2,0.062,49.0
+6742,Non penalty goals,2,0.114,21.0
+6744,Non penalty goals,2,0.091,16.0
+6745,Non penalty goals,2,0.0,15.0
+6751,Non penalty goals,2,0.0,15.0
+6752,Non penalty goals,2,0.0,30.0
+6758,Non penalty goals,2,0.038,37.0
+6761,Non penalty goals,2,0.204,42.0
+6762,Non penalty goals,2,0.0,30.0
+6764,Non penalty goals,2,0.066,52.0
+6766,Non penalty goals,2,0.272,53.0
+6771,Non penalty goals,2,0.082,64.0
+6772,Non penalty goals,2,0.06,77.0
+6775,Non penalty goals,2,0.0,15.0
+6776,Non penalty goals,2,0.0,30.0
+6777,Non penalty goals,2,0.0,30.0
+6778,Non penalty goals,2,0.0,30.0
+6784,Non penalty goals,2,0.0,30.0
+6787,Non penalty goals,2,0.067,81.0
+6788,Non penalty goals,2,0.0,30.0
+6789,Non penalty goals,2,0.0,30.0
+6791,Non penalty goals,2,0.0,30.0
+6792,Non penalty goals,2,0.0,52.0
+6794,Non penalty goals,2,0.0,30.0
+6796,Non penalty goals,2,0.0,15.0
+6797,Non penalty goals,2,0.065,50.0
+6801,Non penalty goals,2,0.076,58.0
+6802,Non penalty goals,2,0.029,61.0
+6804,Non penalty goals,2,0.0,30.0
+6805,Non penalty goals,2,0.03,62.0
+6823,Non penalty goals,2,0.0,52.0
+6825,Non penalty goals,2,0.082,91.0
+6827,Non penalty goals,2,0.0,30.0
+6828,Non penalty goals,2,0.056,75.0
+6829,Non penalty goals,2,0.051,45.0
+6832,Non penalty goals,2,0.412,75.0
+6837,Non penalty goals,2,0.0,30.0
+6838,Non penalty goals,2,0.249,47.0
+6841,Non penalty goals,2,0.085,14.0
+6842,Non penalty goals,2,0.171,36.0
+6847,Non penalty goals,2,0.262,51.0
+6852,Non penalty goals,2,0.381,99.0
+6856,Non penalty goals,2,0.073,88.0
+6861,Non penalty goals,2,0.045,71.0
+6862,Non penalty goals,2,0.56,89.0
+6865,Non penalty goals,2,0.0,30.0
+6867,Non penalty goals,2,0.105,72.0
+6869,Non penalty goals,2,0.064,79.0
+6872,Non penalty goals,2,0.0,30.0
+6873,Non penalty goals,2,0.0,15.0
+6878,Non penalty goals,2,0.0,30.0
+6880,Non penalty goals,2,0.39,72.0
+6884,Non penalty goals,2,0.0,52.0
+6898,Non penalty goals,2,0.0,52.0
+6899,Non penalty goals,2,0.0,15.0
+6907,Non penalty goals,2,0.095,19.0
+6913,Non penalty goals,2,0.0,30.0
+6914,Non penalty goals,2,0.035,68.0
+6918,Non penalty goals,2,0.217,44.0
+6926,Non penalty goals,2,0.111,74.0
+6927,Non penalty goals,2,0.109,96.0
+6928,Non penalty goals,2,0.208,90.0
+6929,Non penalty goals,2,0.059,48.0
+6932,Non penalty goals,2,0.0,30.0
+6934,Non penalty goals,2,0.0,15.0
+6935,Non penalty goals,2,0.0,30.0
+7005,Non penalty goals,2,0.041,70.0
+7034,Non penalty goals,2,0.086,93.0
+7105,Non penalty goals,2,0.18,39.0
+7141,Non penalty goals,2,0.381,68.0
+7154,Non penalty goals,2,0.0,15.0
+7158,Non penalty goals,2,0.0,30.0
+7161,Non penalty goals,2,0.12,99.0
+7577,Non penalty goals,2,0.0,30.0
+7781,Non penalty goals,2,0.328,61.0
+7782,Non penalty goals,2,0.25,96.0
+7900,Non penalty goals,2,0.117,22.0
+7906,Non penalty goals,2,0.038,70.0
+7907,Non penalty goals,2,0.111,97.0
+8167,Non penalty goals,2,0.237,46.0
+8234,Non penalty goals,2,0.087,65.0
+8419,Non penalty goals,2,0.259,48.0
+8440,Non penalty goals,2,0.0,30.0
+8522,Non penalty goals,2,0.118,24.0
+8523,Non penalty goals,2,0.159,31.0
+8584,Non penalty goals,2,0.375,67.0
+8697,Non penalty goals,2,0.0,52.0
+8801,Non penalty goals,2,0.0,30.0
+8818,Non penalty goals,2,0.0,30.0
+10037,Non penalty goals,2,0.0,15.0
+10476,Non penalty goals,2,0.0,30.0
+10609,Non penalty goals,2,0.0,30.0
+10755,Non penalty goals,2,0.168,85.0
+10763,Non penalty goals,2,0.0,52.0
+10802,Non penalty goals,2,0.11,73.0
+11298,Non penalty goals,2,0.0,30.0
+11539,Non penalty goals,2,0.095,19.0
+11542,Non penalty goals,2,0.501,84.0
+11634,Non penalty goals,2,0.0,30.0
+11675,Non penalty goals,2,0.185,86.0
+13107,Non penalty goals,2,0.08,62.0
+15805,Non penalty goals,2,0.093,67.0
+15893,Non penalty goals,2,0.076,58.0
+16332,Non penalty goals,2,0.0,30.0
+16456,Non penalty goals,2,0.07,86.0
+16539,Non penalty goals,2,0.075,90.0
+16622,Non penalty goals,2,0.0,30.0
+17054,Non penalty goals,2,0.269,100.0
+18398,Non penalty goals,2,0.0,15.0
+18724,Non penalty goals,2,0.068,8.0
+18867,Non penalty goals,2,0.0,15.0
+18925,Non penalty goals,2,0.044,42.0
+19431,Non penalty goals,2,0.0,15.0
+19454,Non penalty goals,2,0.069,84.0
+19668,Non penalty goals,2,0.04,40.0
+19677,Non penalty goals,2,1.07,100.0
+20016,Non penalty goals,2,0.046,72.0
+20064,Non penalty goals,2,0.0,30.0
+20542,Non penalty goals,2,0.369,66.0
+20669,Non penalty goals,2,0.082,64.0
+21210,Non penalty goals,2,0.0,30.0
+22819,Non penalty goals,2,0.067,54.0
+23416,Non penalty goals,2,0.283,55.0
+23785,Non penalty goals,2,0.146,28.0
+23791,Non penalty goals,2,0.267,52.0
+23800,Non penalty goals,2,0.0,30.0
+23806,Non penalty goals,2,0.1,70.0
+23816,Non penalty goals,2,0.073,9.0
+23843,Non penalty goals,2,0.0,52.0
+23848,Non penalty goals,2,0.145,27.0
+23943,Non penalty goals,2,0.084,13.0
+23994,Non penalty goals,2,0.165,35.0
+24035,Non penalty goals,2,0.176,38.0
+24070,Non penalty goals,2,0.062,7.0
+24132,Non penalty goals,2,0.0,30.0
+24138,Non penalty goals,2,0.0,30.0
+24149,Non penalty goals,2,0.041,41.0
+24173,Non penalty goals,2,0.587,92.0
+24255,Non penalty goals,2,0.0,52.0
+24263,Non penalty goals,2,0.07,86.0
+24783,Non penalty goals,2,0.0,15.0
+25134,Non penalty goals,2,0.363,65.0
+25144,Non penalty goals,2,0.0,52.0
+25707,Non penalty goals,2,0.118,76.0
+25859,Non penalty goals,2,0.079,61.0
+25881,Non penalty goals,2,0.0,15.0
+25921,Non penalty goals,2,0.0,2.0
+26009,Non penalty goals,2,0.195,41.0
+26012,Non penalty goals,2,0.0,30.0
+26020,Non penalty goals,2,0.261,49.0
+26023,Non penalty goals,2,0.0,30.0
+26087,Non penalty goals,2,0.0,30.0
+26103,Non penalty goals,2,0.0,52.0
+26211,Non penalty goals,2,0.095,69.0
+26222,Non penalty goals,2,0.102,95.0
+26448,Non penalty goals,2,0.0,30.0
+26607,Non penalty goals,2,0.047,44.0
+26633,Non penalty goals,2,0.0,30.0
+26669,Non penalty goals,2,0.0,30.0
+26685,Non penalty goals,2,0.508,85.0
+26690,Non penalty goals,2,0.349,64.0
+26723,Non penalty goals,2,0.046,5.0
+26753,Non penalty goals,2,0.0,52.0
+26780,Non penalty goals,2,0.0,30.0
+26848,Non penalty goals,2,0.028,30.0
+27054,Non penalty goals,2,0.0,30.0
+27092,Non penalty goals,2,0.0,30.0
+27109,Non penalty goals,2,0.31,58.0
+27122,Non penalty goals,2,0.04,40.0
+27144,Non penalty goals,2,0.084,91.0
+27148,Non penalty goals,2,0.078,60.0
+27184,Non penalty goals,2,0.0,30.0
+27239,Non penalty goals,2,0.0,30.0
+27241,Non penalty goals,2,0.045,4.0
+27250,Non penalty goals,2,0.0,2.0
+27305,Non penalty goals,2,0.0,52.0
+27335,Non penalty goals,2,0.0,30.0
+27341,Non penalty goals,2,0.0,15.0
+27346,Non penalty goals,2,0.037,36.0
+27347,Non penalty goals,2,0.101,95.0
+27349,Non penalty goals,2,0.053,73.0
+27403,Non penalty goals,2,0.0,30.0
+27482,Non penalty goals,2,0.0,30.0
+27483,Non penalty goals,2,0.0,30.0
+27526,Non penalty goals,2,0.0,15.0
+27656,Non penalty goals,2,0.069,84.0
+3023,xG,3,0.018,34.0
+3063,xG,3,0.041,70.0
+3160,xG,3,0.031,18.0
+3253,xG,3,0.057,87.0
+3292,xG,3,0.057,39.0
+3302,xG,3,0.208,94.0
+3324,xG,3,0.018,34.0
+3379,xG,3,0.0,52.0
+3486,xG,3,0.366,68.0
+3497,xG,3,0.349,100.0
+3601,xG,3,0.048,31.0
+3610,xG,3,0.056,36.0
+3637,xG,3,0.071,50.0
+3638,xG,3,0.064,91.0
+4320,xG,3,0.587,93.0
+4324,xG,3,0.027,52.0
+4353,xG,3,0.117,99.0
+4406,xG,3,0.047,79.0
+4498,xG,3,0.059,88.0
+4546,xG,3,0.053,82.0
+4691,xG,3,0.0,52.0
+4711,xG,3,0.11,74.0
+4926,xG,3,0.172,90.0
+5199,xG,3,0.099,70.0
+5200,xG,3,0.171,28.0
+5201,xG,3,0.054,84.0
+5202,xG,3,0.021,41.0
+5203,xG,3,0.007,1.0
+5207,xG,3,0.877,100.0
+5211,xG,3,0.031,56.0
+5213,xG,3,0.08,95.0
+5216,xG,3,0.072,51.0
+5217,xG,3,0.434,78.0
+5246,xG,3,0.767,98.0
+5249,xG,3,0.1,98.0
+5259,xG,3,0.064,91.0
+5456,xG,3,0.061,43.0
+5463,xG,3,0.061,43.0
+5470,xG,3,0.162,87.0
+5485,xG,3,0.044,75.0
+5487,xG,3,0.46,86.0
+5503,xG,3,0.682,96.0
+5504,xG,3,0.164,88.0
+5506,xG,3,0.009,18.0
+5539,xG,3,0.061,43.0
+5552,xG,3,0.045,77.0
+5560,xG,3,0.257,48.0
+5574,xG,3,0.027,12.0
+5577,xG,3,0.0,52.0
+5582,xG,3,0.124,77.0
+5588,xG,3,0.003,6.0
+5597,xG,3,0.0,52.0
+5598,xG,3,0.11,98.0
+5633,xG,3,0.245,97.0
+5671,xG,3,0.086,61.0
+5678,xG,3,0.07,47.0
+5687,xG,3,0.146,20.0
+5695,xG,3,0.128,80.0
+5718,xG,3,0.275,53.0
+5719,xG,3,0.186,92.0
+5721,xG,3,0.022,44.0
+5724,xG,3,0.07,47.0
+5737,xG,3,0.091,64.0
+5741,xG,3,0.011,4.0
+6038,xG,3,0.418,74.0
+6320,xG,3,0.011,21.0
+6356,xG,3,0.165,22.0
+6357,xG,3,0.048,31.0
+6375,xG,3,0.015,28.0
+6376,xG,3,0.04,68.0
+6377,xG,3,0.31,59.0
+6378,xG,3,0.0,52.0
+6379,xG,3,0.045,29.0
+6381,xG,3,0.107,73.0
+6382,xG,3,0.401,71.0
+6384,xG,3,0.015,6.0
+6386,xG,3,0.02,38.0
+6389,xG,3,0.071,50.0
+6390,xG,3,0.103,12.0
+6391,xG,3,0.196,93.0
+6392,xG,3,0.043,2.0
+6393,xG,3,0.19,35.0
+6394,xG,3,0.586,92.0
+6396,xG,3,0.036,23.0
+6399,xG,3,0.455,84.0
+6401,xG,3,0.678,95.0
+6402,xG,3,0.47,87.0
+6557,xG,3,0.19,93.0
+6559,xG,3,0.094,66.0
+6561,xG,3,0.023,47.0
+6563,xG,3,0.185,91.0
+6566,xG,3,0.573,91.0
+6569,xG,3,0.013,25.0
+6573,xG,3,0.053,82.0
+6576,xG,3,0.0,52.0
+6580,xG,3,0.061,43.0
+6581,xG,3,0.098,8.0
+6592,xG,3,0.012,23.0
+6593,xG,3,0.002,5.0
+6594,xG,3,0.169,26.0
+6595,xG,3,0.146,83.0
+6596,xG,3,0.01,19.0
+6599,xG,3,0.028,14.0
+6602,xG,3,0.198,39.0
+6605,xG,3,0.007,14.0
+6608,xG,3,0.089,63.0
+6609,xG,3,0.111,75.0
+6610,xG,3,0.0,52.0
+6612,xG,3,0.018,34.0
+6614,xG,3,0.006,11.0
+6622,xG,3,0.027,12.0
+6624,xG,3,0.264,50.0
+6625,xG,3,0.0,52.0
+6626,xG,3,0.042,28.0
+6627,xG,3,0.007,14.0
+6630,xG,3,0.238,44.0
+6633,xG,3,0.078,55.0
+6647,xG,3,0.05,80.0
+6649,xG,3,0.02,38.0
+6651,xG,3,0.126,78.0
+6654,xG,3,0.0,52.0
+6659,xG,3,0.098,69.0
+6663,xG,3,0.0,1.0
+6665,xG,3,0.034,62.0
+6666,xG,3,0.302,55.0
+6668,xG,3,0.165,89.0
+6669,xG,3,0.133,15.0
+6671,xG,3,0.04,26.0
+6672,xG,3,0.14,100.0
+6673,xG,3,0.096,68.0
+6674,xG,3,0.019,36.0
+6675,xG,3,0.01,19.0
+6677,xG,3,0.64,94.0
+6679,xG,3,0.055,86.0
+6680,xG,3,0.127,79.0
+6685,xG,3,0.176,31.0
+6690,xG,3,0.082,57.0
+6694,xG,3,0.0,52.0
+6697,xG,3,0.029,15.0
+6699,xG,3,0.02,38.0
+6700,xG,3,0.267,52.0
+6702,xG,3,0.03,55.0
+6707,xG,3,0.314,60.0
+6712,xG,3,0.082,57.0
+6713,xG,3,0.034,62.0
+6718,xG,3,0.063,90.0
+6720,xG,3,0.149,84.0
+6721,xG,3,0.293,54.0
+6724,xG,3,0.309,58.0
+6727,xG,3,0.055,86.0
+6728,xG,3,0.141,18.0
+6730,xG,3,0.0,52.0
+6732,xG,3,0.432,76.0
+6733,xG,3,0.041,27.0
+6734,xG,3,0.031,56.0
+6736,xG,3,0.105,72.0
+6738,xG,3,0.016,29.0
+6740,xG,3,0.061,43.0
+6742,xG,3,0.108,14.0
+6744,xG,3,0.256,47.0
+6745,xG,3,0.012,5.0
+6751,xG,3,0.008,3.0
+6752,xG,3,0.008,16.0
+6758,xG,3,0.075,54.0
+6761,xG,3,0.216,42.0
+6762,xG,3,0.036,65.0
+6764,xG,3,0.094,66.0
+6766,xG,3,0.334,62.0
+6771,xG,3,0.059,40.0
+6772,xG,3,0.051,81.0
+6775,xG,3,0.037,24.0
+6776,xG,3,0.012,23.0
+6777,xG,3,0.022,44.0
+6778,xG,3,0.021,41.0
+6784,xG,3,0.008,16.0
+6787,xG,3,0.024,50.0
+6788,xG,3,0.027,52.0
+6789,xG,3,0.005,9.0
+6791,xG,3,0.006,11.0
+6792,xG,3,0.0,52.0
+6794,xG,3,0.011,21.0
+6796,xG,3,0.017,8.0
+6797,xG,3,0.138,81.0
+6801,xG,3,0.068,46.0
+6802,xG,3,0.024,50.0
+6804,xG,3,0.004,8.0
+6805,xG,3,0.014,27.0
+6823,xG,3,0.0,52.0
+6825,xG,3,0.087,96.0
+6827,xG,3,0.017,31.0
+6828,xG,3,0.018,34.0
+6829,xG,3,0.075,54.0
+6832,xG,3,0.428,75.0
+6837,xG,3,0.023,47.0
+6838,xG,3,0.168,25.0
+6841,xG,3,0.138,16.0
+6842,xG,3,0.249,45.0
+6847,xG,3,0.099,9.0
+6852,xG,3,0.227,96.0
+6856,xG,3,0.021,41.0
+6861,xG,3,0.04,68.0
+6862,xG,3,0.437,79.0
+6865,xG,3,0.021,41.0
+6867,xG,3,0.053,33.0
+6869,xG,3,0.044,75.0
+6872,xG,3,0.033,59.0
+6873,xG,3,0.027,12.0
+6878,xG,3,0.001,3.0
+6880,xG,3,0.445,81.0
+6884,xG,3,0.0,52.0
+6898,xG,3,0.0,52.0
+6899,xG,3,0.094,66.0
+6907,xG,3,0.165,22.0
+6913,xG,3,0.001,3.0
+6914,xG,3,0.024,50.0
+6918,xG,3,0.21,41.0
+6926,xG,3,0.155,85.0
+6927,xG,3,0.046,78.0
+6928,xG,3,0.117,76.0
+6929,xG,3,0.016,7.0
+6932,xG,3,0.014,27.0
+6934,xG,3,0.056,36.0
+6935,xG,3,0.002,5.0
+7005,xG,3,0.045,77.0
+7034,xG,3,0.02,38.0
+7105,xG,3,0.264,50.0
+7141,xG,3,0.35,66.0
+7154,xG,3,0.007,1.0
+7158,xG,3,0.004,8.0
+7161,xG,3,0.066,92.0
+7577,xG,3,0.008,16.0
+7781,xG,3,0.305,56.0
+7782,xG,3,0.274,98.0
+7900,xG,3,0.096,7.0
+7906,xG,3,0.043,71.0
+7907,xG,3,0.04,68.0
+8167,xG,3,0.328,61.0
+8234,xG,3,0.083,59.0
+8419,xG,3,0.364,67.0
+8440,xG,3,0.043,71.0
+8522,xG,3,0.207,40.0
+8523,xG,3,0.194,38.0
+8584,xG,3,0.393,69.0
+8697,xG,3,0.0,52.0
+8801,xG,3,0.012,23.0
+8818,xG,3,0.031,56.0
+10037,xG,3,0.056,36.0
+10476,xG,3,0.035,64.0
+10609,xG,3,0.036,65.0
+10755,xG,3,0.278,99.0
+10763,xG,3,0.0,52.0
+10802,xG,3,0.088,62.0
+11298,xG,3,0.029,54.0
+11539,xG,3,0.165,22.0
+11542,xG,3,0.455,84.0
+11634,xG,3,0.028,53.0
+11675,xG,3,0.1,71.0
+13107,xG,3,0.018,9.0
+15805,xG,3,0.032,20.0
+15893,xG,3,0.14,82.0
+16332,xG,3,0.0,1.0
+16456,xG,3,0.035,64.0
+16539,xG,3,0.058,88.0
+16622,xG,3,0.016,29.0
+17054,xG,3,0.091,97.0
+18398,xG,3,0.015,6.0
+18724,xG,3,0.182,33.0
+18867,xG,3,0.083,59.0
+18925,xG,3,0.048,31.0
+19431,xG,3,0.02,10.0
+19454,xG,3,0.054,84.0
+19668,xG,3,0.034,21.0
+19677,xG,3,0.776,99.0
+20016,xG,3,0.043,71.0
+20064,xG,3,0.011,21.0
+20542,xG,3,0.437,79.0
+20669,xG,3,0.034,21.0
+21210,xG,3,0.024,50.0
+22819,xG,3,0.127,79.0
+23416,xG,3,0.251,46.0
+23785,xG,3,0.17,27.0
+23791,xG,3,0.105,13.0
+23800,xG,3,0.004,8.0
+23806,xG,3,0.057,39.0
+23816,xG,3,0.172,29.0
+23843,xG,3,0.0,52.0
+23848,xG,3,0.189,34.0
+23943,xG,3,0.06,5.0
+23994,xG,3,0.102,11.0
+24035,xG,3,0.408,73.0
+24070,xG,3,0.344,65.0
+24132,xG,3,0.043,71.0
+24138,xG,3,0.044,75.0
+24149,xG,3,0.08,56.0
+24173,xG,3,0.449,82.0
+24255,xG,3,0.0,52.0
+24263,xG,3,0.071,93.0
+24783,xG,3,0.055,35.0
+25134,xG,3,0.336,64.0
+25144,xG,3,0.0,52.0
+25707,xG,3,0.074,52.0
+25859,xG,3,0.16,86.0
+25881,xG,3,0.039,25.0
+25921,xG,3,0.043,2.0
+26009,xG,3,0.193,36.0
+26012,xG,3,0.034,62.0
+26020,xG,3,0.179,32.0
+26023,xG,3,0.008,16.0
+26087,xG,3,0.022,44.0
+26103,xG,3,0.0,52.0
+26211,xG,3,0.071,50.0
+26222,xG,3,0.033,59.0
+26448,xG,3,0.002,5.0
+26607,xG,3,0.054,34.0
+26633,xG,3,0.006,11.0
+26669,xG,3,0.013,25.0
+26685,xG,3,0.567,89.0
+26690,xG,3,0.406,72.0
+26723,xG,3,0.059,4.0
+26753,xG,3,0.0,52.0
+26780,xG,3,0.018,34.0
+26848,xG,3,0.09,64.0
+27054,xG,3,0.006,11.0
+27092,xG,3,0.073,94.0
+27109,xG,3,0.473,88.0
+27122,xG,3,0.031,18.0
+27144,xG,3,0.017,31.0
+27148,xG,3,0.222,95.0
+27184,xG,3,0.023,47.0
+27239,xG,3,0.044,75.0
+27241,xG,3,0.072,6.0
+27250,xG,3,0.143,19.0
+27305,xG,3,0.0,52.0
+27335,xG,3,0.047,79.0
+27341,xG,3,0.035,22.0
+27346,xG,3,0.031,18.0
+27347,xG,3,0.022,44.0
+27349,xG,3,0.076,95.0
+27403,xG,3,0.033,59.0
+27482,xG,3,0.062,89.0
+27483,xG,3,0.032,58.0
+27526,xG,3,0.029,15.0
+27656,xG,3,0.037,66.0
+3023,Non penalty xG,4,0.018,34.0
+3063,Non penalty xG,4,0.041,70.0
+3160,Non penalty xG,4,0.031,20.0
+3253,Non penalty xG,4,0.057,87.0
+3292,Non penalty xG,4,0.057,43.0
+3302,Non penalty xG,4,0.138,85.0
+3324,Non penalty xG,4,0.018,34.0
+3379,Non penalty xG,4,0.0,52.0
+3486,Non penalty xG,4,0.366,72.0
+3497,Non penalty xG,4,0.349,100.0
+3601,Non penalty xG,4,0.048,32.0
+3610,Non penalty xG,4,0.056,40.0
+3637,Non penalty xG,4,0.071,53.0
+3638,Non penalty xG,4,0.064,91.0
+4320,Non penalty xG,4,0.43,84.0
+4324,Non penalty xG,4,0.027,52.0
+4353,Non penalty xG,4,0.117,99.0
+4406,Non penalty xG,4,0.047,79.0
+4498,Non penalty xG,4,0.059,88.0
+4546,Non penalty xG,4,0.053,82.0
+4691,Non penalty xG,4,0.0,52.0
+4711,Non penalty xG,4,0.11,77.0
+4926,Non penalty xG,4,0.172,92.0
+5199,Non penalty xG,4,0.099,73.0
+5200,Non penalty xG,4,0.171,31.0
+5201,Non penalty xG,4,0.054,84.0
+5202,Non penalty xG,4,0.021,41.0
+5203,Non penalty xG,4,0.007,1.0
+5207,Non penalty xG,4,0.683,99.0
+5211,Non penalty xG,4,0.031,56.0
+5213,Non penalty xG,4,0.08,95.0
+5216,Non penalty xG,4,0.072,55.0
+5217,Non penalty xG,4,0.408,79.0
+5246,Non penalty xG,4,0.659,98.0
+5249,Non penalty xG,4,0.1,98.0
+5259,Non penalty xG,4,0.064,91.0
+5456,Non penalty xG,4,0.061,47.0
+5463,Non penalty xG,4,0.061,47.0
+5470,Non penalty xG,4,0.162,89.0
+5485,Non penalty xG,4,0.044,75.0
+5487,Non penalty xG,4,0.415,82.0
+5503,Non penalty xG,4,0.506,93.0
+5504,Non penalty xG,4,0.124,80.0
+5506,Non penalty xG,4,0.009,18.0
+5539,Non penalty xG,4,0.061,47.0
+5552,Non penalty xG,4,0.045,77.0
+5560,Non penalty xG,4,0.257,53.0
+5574,Non penalty xG,4,0.027,14.0
+5577,Non penalty xG,4,0.0,52.0
+5582,Non penalty xG,4,0.124,80.0
+5588,Non penalty xG,4,0.003,6.0
+5597,Non penalty xG,4,0.0,52.0
+5598,Non penalty xG,4,0.11,98.0
+5633,Non penalty xG,4,0.245,98.0
+5671,Non penalty xG,4,0.086,63.0
+5678,Non penalty xG,4,0.07,51.0
+5687,Non penalty xG,4,0.146,21.0
+5695,Non penalty xG,4,0.128,83.0
+5718,Non penalty xG,4,0.275,56.0
+5719,Non penalty xG,4,0.186,93.0
+5721,Non penalty xG,4,0.022,44.0
+5724,Non penalty xG,4,0.07,51.0
+5737,Non penalty xG,4,0.091,65.0
+5741,Non penalty xG,4,0.011,4.0
+6038,Non penalty xG,4,0.365,71.0
+6320,Non penalty xG,4,0.011,21.0
+6356,Non penalty xG,4,0.165,25.0
+6357,Non penalty xG,4,0.048,32.0
+6375,Non penalty xG,4,0.015,28.0
+6376,Non penalty xG,4,0.04,68.0
+6377,Non penalty xG,4,0.31,65.0
+6378,Non penalty xG,4,0.0,52.0
+6379,Non penalty xG,4,0.045,30.0
+6381,Non penalty xG,4,0.107,76.0
+6382,Non penalty xG,4,0.401,76.0
+6384,Non penalty xG,4,0.015,7.0
+6386,Non penalty xG,4,0.02,38.0
+6389,Non penalty xG,4,0.071,53.0
+6390,Non penalty xG,4,0.103,12.0
+6391,Non penalty xG,4,0.196,95.0
+6392,Non penalty xG,4,0.043,2.0
+6393,Non penalty xG,4,0.19,38.0
+6394,Non penalty xG,4,0.464,91.0
+6396,Non penalty xG,4,0.036,25.0
+6399,Non penalty xG,4,0.455,89.0
+6401,Non penalty xG,4,0.515,94.0
+6402,Non penalty xG,4,0.386,74.0
+6557,Non penalty xG,4,0.19,94.0
+6559,Non penalty xG,4,0.094,67.0
+6561,Non penalty xG,4,0.023,47.0
+6563,Non penalty xG,4,0.185,93.0
+6566,Non penalty xG,4,0.493,92.0
+6569,Non penalty xG,4,0.013,25.0
+6573,Non penalty xG,4,0.053,82.0
+6576,Non penalty xG,4,0.0,52.0
+6580,Non penalty xG,4,0.061,47.0
+6581,Non penalty xG,4,0.075,7.0
+6592,Non penalty xG,4,0.012,23.0
+6593,Non penalty xG,4,0.002,5.0
+6594,Non penalty xG,4,0.169,28.0
+6595,Non penalty xG,4,0.096,70.0
+6596,Non penalty xG,4,0.01,19.0
+6599,Non penalty xG,4,0.028,16.0
+6602,Non penalty xG,4,0.198,41.0
+6605,Non penalty xG,4,0.007,14.0
+6608,Non penalty xG,4,0.089,64.0
+6609,Non penalty xG,4,0.111,78.0
+6610,Non penalty xG,4,0.0,52.0
+6612,Non penalty xG,4,0.018,34.0
+6614,Non penalty xG,4,0.006,11.0
+6622,Non penalty xG,4,0.027,14.0
+6624,Non penalty xG,4,0.196,40.0
+6625,Non penalty xG,4,0.0,52.0
+6626,Non penalty xG,4,0.042,29.0
+6627,Non penalty xG,4,0.007,14.0
+6630,Non penalty xG,4,0.238,46.0
+6633,Non penalty xG,4,0.078,59.0
+6647,Non penalty xG,4,0.05,80.0
+6649,Non penalty xG,4,0.02,38.0
+6651,Non penalty xG,4,0.126,81.0
+6654,Non penalty xG,4,0.0,52.0
+6659,Non penalty xG,4,0.098,71.0
+6663,Non penalty xG,4,0.0,1.0
+6665,Non penalty xG,4,0.034,62.0
+6666,Non penalty xG,4,0.302,64.0
+6668,Non penalty xG,4,0.165,90.0
+6669,Non penalty xG,4,0.133,16.0
+6671,Non penalty xG,4,0.04,27.0
+6672,Non penalty xG,4,0.14,100.0
+6673,Non penalty xG,4,0.096,70.0
+6674,Non penalty xG,4,0.019,36.0
+6675,Non penalty xG,4,0.01,19.0
+6677,Non penalty xG,4,0.64,96.0
+6679,Non penalty xG,4,0.055,86.0
+6680,Non penalty xG,4,0.127,82.0
+6685,Non penalty xG,4,0.176,33.0
+6690,Non penalty xG,4,0.053,36.0
+6694,Non penalty xG,4,0.0,52.0
+6697,Non penalty xG,4,0.029,17.0
+6699,Non penalty xG,4,0.02,38.0
+6700,Non penalty xG,4,0.267,54.0
+6702,Non penalty xG,4,0.03,55.0
+6707,Non penalty xG,4,0.291,59.0
+6712,Non penalty xG,4,0.082,60.0
+6713,Non penalty xG,4,0.034,62.0
+6718,Non penalty xG,4,0.063,90.0
+6720,Non penalty xG,4,0.149,87.0
+6721,Non penalty xG,4,0.293,61.0
+6724,Non penalty xG,4,0.254,51.0
+6727,Non penalty xG,4,0.055,86.0
+6728,Non penalty xG,4,0.141,19.0
+6730,Non penalty xG,4,0.0,52.0
+6732,Non penalty xG,4,0.411,80.0
+6733,Non penalty xG,4,0.041,28.0
+6734,Non penalty xG,4,0.031,56.0
+6736,Non penalty xG,4,0.105,75.0
+6738,Non penalty xG,4,0.016,29.0
+6740,Non penalty xG,4,0.061,47.0
+6742,Non penalty xG,4,0.108,14.0
+6744,Non penalty xG,4,0.256,52.0
+6745,Non penalty xG,4,0.012,5.0
+6751,Non penalty xG,4,0.008,3.0
+6752,Non penalty xG,4,0.008,16.0
+6758,Non penalty xG,4,0.075,57.0
+6761,Non penalty xG,4,0.216,45.0
+6762,Non penalty xG,4,0.036,65.0
+6764,Non penalty xG,4,0.094,67.0
+6766,Non penalty xG,4,0.298,62.0
+6771,Non penalty xG,4,0.059,44.0
+6772,Non penalty xG,4,0.051,81.0
+6775,Non penalty xG,4,0.015,7.0
+6776,Non penalty xG,4,0.012,23.0
+6777,Non penalty xG,4,0.022,44.0
+6778,Non penalty xG,4,0.021,41.0
+6784,Non penalty xG,4,0.008,16.0
+6787,Non penalty xG,4,0.024,50.0
+6788,Non penalty xG,4,0.027,52.0
+6789,Non penalty xG,4,0.005,9.0
+6791,Non penalty xG,4,0.006,11.0
+6792,Non penalty xG,4,0.0,52.0
+6794,Non penalty xG,4,0.011,21.0
+6796,Non penalty xG,4,0.017,9.0
+6797,Non penalty xG,4,0.138,85.0
+6801,Non penalty xG,4,0.068,50.0
+6802,Non penalty xG,4,0.024,50.0
+6804,Non penalty xG,4,0.004,8.0
+6805,Non penalty xG,4,0.014,27.0
+6823,Non penalty xG,4,0.0,52.0
+6825,Non penalty xG,4,0.087,96.0
+6827,Non penalty xG,4,0.017,31.0
+6828,Non penalty xG,4,0.018,34.0
+6829,Non penalty xG,4,0.075,57.0
+6832,Non penalty xG,4,0.347,69.0
+6837,Non penalty xG,4,0.023,47.0
+6838,Non penalty xG,4,0.168,27.0
+6841,Non penalty xG,4,0.138,18.0
+6842,Non penalty xG,4,0.249,48.0
+6847,Non penalty xG,4,0.099,9.0
+6852,Non penalty xG,4,0.227,97.0
+6856,Non penalty xG,4,0.021,41.0
+6861,Non penalty xG,4,0.04,68.0
+6862,Non penalty xG,4,0.437,85.0
+6865,Non penalty xG,4,0.021,41.0
+6867,Non penalty xG,4,0.053,36.0
+6869,Non penalty xG,4,0.044,75.0
+6872,Non penalty xG,4,0.033,59.0
+6873,Non penalty xG,4,0.027,14.0
+6878,Non penalty xG,4,0.001,3.0
+6880,Non penalty xG,4,0.415,82.0
+6884,Non penalty xG,4,0.0,52.0
+6898,Non penalty xG,4,0.0,52.0
+6899,Non penalty xG,4,0.094,67.0
+6907,Non penalty xG,4,0.127,15.0
+6913,Non penalty xG,4,0.001,3.0
+6914,Non penalty xG,4,0.024,50.0
+6918,Non penalty xG,4,0.21,44.0
+6926,Non penalty xG,4,0.155,88.0
+6927,Non penalty xG,4,0.046,78.0
+6928,Non penalty xG,4,0.117,79.0
+6929,Non penalty xG,4,0.016,8.0
+6932,Non penalty xG,4,0.014,27.0
+6934,Non penalty xG,4,0.056,40.0
+6935,Non penalty xG,4,0.002,5.0
+7005,Non penalty xG,4,0.045,77.0
+7034,Non penalty xG,4,0.02,38.0
+7105,Non penalty xG,4,0.241,47.0
+7141,Non penalty xG,4,0.291,59.0
+7154,Non penalty xG,4,0.007,1.0
+7158,Non penalty xG,4,0.004,8.0
+7161,Non penalty xG,4,0.066,92.0
+7577,Non penalty xG,4,0.008,16.0
+7781,Non penalty xG,4,0.273,55.0
+7782,Non penalty xG,4,0.274,99.0
+7900,Non penalty xG,4,0.096,8.0
+7906,Non penalty xG,4,0.043,71.0
+7907,Non penalty xG,4,0.04,68.0
+8167,Non penalty xG,4,0.328,66.0
+8234,Non penalty xG,4,0.083,61.0
+8419,Non penalty xG,4,0.33,67.0
+8440,Non penalty xG,4,0.043,71.0
+8522,Non penalty xG,4,0.207,42.0
+8523,Non penalty xG,4,0.153,24.0
+8584,Non penalty xG,4,0.393,75.0
+8697,Non penalty xG,4,0.0,52.0
+8801,Non penalty xG,4,0.012,23.0
+8818,Non penalty xG,4,0.031,56.0
+10037,Non penalty xG,4,0.056,40.0
+10476,Non penalty xG,4,0.035,64.0
+10609,Non penalty xG,4,0.036,65.0
+10755,Non penalty xG,4,0.168,91.0
+10763,Non penalty xG,4,0.0,52.0
+10802,Non penalty xG,4,0.088,64.0
+11298,Non penalty xG,4,0.029,54.0
+11539,Non penalty xG,4,0.165,25.0
+11542,Non penalty xG,4,0.455,89.0
+11634,Non penalty xG,4,0.028,53.0
+11675,Non penalty xG,4,0.1,74.0
+13107,Non penalty xG,4,0.018,10.0
+15805,Non penalty xG,4,0.032,21.0
+15893,Non penalty xG,4,0.14,86.0
+16332,Non penalty xG,4,0.0,1.0
+16456,Non penalty xG,4,0.035,64.0
+16539,Non penalty xG,4,0.058,88.0
+16622,Non penalty xG,4,0.016,29.0
+17054,Non penalty xG,4,0.091,97.0
+18398,Non penalty xG,4,0.015,7.0
+18724,Non penalty xG,4,0.182,35.0
+18867,Non penalty xG,4,0.083,61.0
+18925,Non penalty xG,4,0.048,32.0
+19431,Non penalty xG,4,0.02,11.0
+19454,Non penalty xG,4,0.054,84.0
+19668,Non penalty xG,4,0.034,23.0
+19677,Non penalty xG,4,0.776,100.0
+20016,Non penalty xG,4,0.043,71.0
+20064,Non penalty xG,4,0.011,21.0
+20542,Non penalty xG,4,0.437,85.0
+20669,Non penalty xG,4,0.034,23.0
+21210,Non penalty xG,4,0.024,50.0
+22819,Non penalty xG,4,0.049,35.0
+23416,Non penalty xG,4,0.251,49.0
+23785,Non penalty xG,4,0.17,29.0
+23791,Non penalty xG,4,0.105,13.0
+23800,Non penalty xG,4,0.004,8.0
+23806,Non penalty xG,4,0.057,43.0
+23816,Non penalty xG,4,0.172,32.0
+23843,Non penalty xG,4,0.0,52.0
+23848,Non penalty xG,4,0.189,36.0
+23943,Non penalty xG,4,0.06,5.0
+23994,Non penalty xG,4,0.102,11.0
+24035,Non penalty xG,4,0.374,73.0
+24070,Non penalty xG,4,0.15,22.0
+24132,Non penalty xG,4,0.043,71.0
+24138,Non penalty xG,4,0.044,75.0
+24149,Non penalty xG,4,0.048,32.0
+24173,Non penalty xG,4,0.449,87.0
+24255,Non penalty xG,4,0.0,52.0
+24263,Non penalty xG,4,0.071,93.0
+24783,Non penalty xG,4,0.055,38.0
+25134,Non penalty xG,4,0.336,68.0
+25144,Non penalty xG,4,0.0,52.0
+25707,Non penalty xG,4,0.074,56.0
+25859,Non penalty xG,4,0.098,71.0
+25881,Non penalty xG,4,0.039,26.0
+25921,Non penalty xG,4,0.043,2.0
+26009,Non penalty xG,4,0.193,39.0
+26012,Non penalty xG,4,0.034,62.0
+26020,Non penalty xG,4,0.179,34.0
+26023,Non penalty xG,4,0.008,16.0
+26087,Non penalty xG,4,0.022,44.0
+26103,Non penalty xG,4,0.0,52.0
+26211,Non penalty xG,4,0.071,53.0
+26222,Non penalty xG,4,0.033,59.0
+26448,Non penalty xG,4,0.002,5.0
+26607,Non penalty xG,4,0.054,37.0
+26633,Non penalty xG,4,0.006,11.0
+26669,Non penalty xG,4,0.013,25.0
+26685,Non penalty xG,4,0.567,95.0
+26690,Non penalty xG,4,0.406,78.0
+26723,Non penalty xG,4,0.059,4.0
+26753,Non penalty xG,4,0.0,52.0
+26780,Non penalty xG,4,0.018,34.0
+26848,Non penalty xG,4,0.025,12.0
+27054,Non penalty xG,4,0.006,11.0
+27092,Non penalty xG,4,0.073,94.0
+27109,Non penalty xG,4,0.284,58.0
+27122,Non penalty xG,4,0.031,20.0
+27144,Non penalty xG,4,0.017,31.0
+27148,Non penalty xG,4,0.222,96.0
+27184,Non penalty xG,4,0.023,47.0
+27239,Non penalty xG,4,0.044,75.0
+27241,Non penalty xG,4,0.072,6.0
+27250,Non penalty xG,4,0.143,20.0
+27305,Non penalty xG,4,0.0,52.0
+27335,Non penalty xG,4,0.047,79.0
+27341,Non penalty xG,4,0.035,24.0
+27346,Non penalty xG,4,0.031,20.0
+27347,Non penalty xG,4,0.022,44.0
+27349,Non penalty xG,4,0.076,95.0
+27403,Non penalty xG,4,0.033,59.0
+27482,Non penalty xG,4,0.062,89.0
+27483,Non penalty xG,4,0.032,58.0
+27526,Non penalty xG,4,0.029,17.0
+27656,Non penalty xG,4,0.037,66.0
+3023,Assists,5,0.189,98.0
+3063,Assists,5,0.213,99.0
+3160,Assists,5,0.0,11.0
+3253,Assists,5,0.036,60.0
+3292,Assists,5,0.149,77.0
+3302,Assists,5,0.088,57.0
+3324,Assists,5,0.0,25.0
+3379,Assists,5,0.0,48.0
+3486,Assists,5,0.227,81.0
+3497,Assists,5,0.101,62.0
+3601,Assists,5,0.071,47.0
+3610,Assists,5,0.062,42.0
+3637,Assists,5,0.0,11.0
+3638,Assists,5,0.0,25.0
+4320,Assists,5,0.344,93.0
+4324,Assists,5,0.163,96.0
+4353,Assists,5,0.039,61.0
+4406,Assists,5,0.0,25.0
+4498,Assists,5,0.0,25.0
+4546,Assists,5,0.056,71.0
+4691,Assists,5,0.0,48.0
+4711,Assists,5,0.137,74.0
+4926,Assists,5,0.335,97.0
+5199,Assists,5,0.411,99.0
+5200,Assists,5,0.418,98.0
+5201,Assists,5,0.045,64.0
+5202,Assists,5,0.0,25.0
+5203,Assists,5,0.151,78.0
+5207,Assists,5,0.274,92.0
+5211,Assists,5,0.203,98.0
+5213,Assists,5,0.034,57.0
+5216,Assists,5,0.078,49.0
+5217,Assists,5,0.165,61.0
+5246,Assists,5,0.416,96.0
+5249,Assists,5,0.033,55.0
+5259,Assists,5,0.036,60.0
+5456,Assists,5,0.165,81.0
+5463,Assists,5,0.134,73.0
+5470,Assists,5,0.068,45.0
+5485,Assists,5,0.0,25.0
+5487,Assists,5,0.144,53.0
+5503,Assists,5,0.481,99.0
+5504,Assists,5,0.102,63.0
+5506,Assists,5,0.0,25.0
+5539,Assists,5,0.114,66.0
+5552,Assists,5,0.106,88.0
+5560,Assists,5,0.127,47.0
+5574,Assists,5,0.288,96.0
+5577,Assists,5,0.0,48.0
+5582,Assists,5,0.091,58.0
+5588,Assists,5,0.0,25.0
+5597,Assists,5,0.0,48.0
+5598,Assists,5,0.072,75.0
+5633,Assists,5,0.058,37.0
+5671,Assists,5,0.0,11.0
+5678,Assists,5,0.065,43.0
+5687,Assists,5,0.161,59.0
+5695,Assists,5,0.462,100.0
+5718,Assists,5,0.189,69.0
+5719,Assists,5,0.278,95.0
+5721,Assists,5,0.215,100.0
+5724,Assists,5,0.092,59.0
+5737,Assists,5,0.047,30.0
+5741,Assists,5,0.0,11.0
+6038,Assists,5,0.0,6.0
+6320,Assists,5,0.123,93.0
+6356,Assists,5,0.155,56.0
+6357,Assists,5,0.05,33.0
+6375,Assists,5,0.029,51.0
+6376,Assists,5,0.0,25.0
+6377,Assists,5,0.267,89.0
+6378,Assists,5,0.0,48.0
+6379,Assists,5,0.228,92.0
+6381,Assists,5,0.074,48.0
+6382,Assists,5,0.102,41.0
+6384,Assists,5,0.061,41.0
+6386,Assists,5,0.0,25.0
+6389,Assists,5,0.097,61.0
+6390,Assists,5,0.367,94.0
+6391,Assists,5,0.22,90.0
+6392,Assists,5,0.0,6.0
+6393,Assists,5,0.164,60.0
+6394,Assists,5,0.188,68.0
+6396,Assists,5,0.121,67.0
+6399,Assists,5,0.507,100.0
+6401,Assists,5,0.125,46.0
+6402,Assists,5,0.179,67.0
+6557,Assists,5,0.0,11.0
+6559,Assists,5,0.139,75.0
+6561,Assists,5,0.0,25.0
+6563,Assists,5,0.054,36.0
+6566,Assists,5,0.102,41.0
+6569,Assists,5,0.085,80.0
+6573,Assists,5,0.0,25.0
+6576,Assists,5,0.0,48.0
+6580,Assists,5,0.127,71.0
+6581,Assists,5,0.214,78.0
+6592,Assists,5,0.0,25.0
+6593,Assists,5,0.075,77.0
+6594,Assists,5,0.055,20.0
+6595,Assists,5,0.159,79.0
+6596,Assists,5,0.0,25.0
+6599,Assists,5,0.07,46.0
+6602,Assists,5,0.08,29.0
+6605,Assists,5,0.0,25.0
+6608,Assists,5,0.204,87.0
+6609,Assists,5,0.146,76.0
+6610,Assists,5,0.06,100.0
+6612,Assists,5,0.047,66.0
+6614,Assists,5,0.0,25.0
+6622,Assists,5,0.053,35.0
+6624,Assists,5,0.259,88.0
+6625,Assists,5,0.0,48.0
+6626,Assists,5,0.0,11.0
+6627,Assists,5,0.099,84.0
+6630,Assists,5,0.093,38.0
+6633,Assists,5,0.0,11.0
+6647,Assists,5,0.034,57.0
+6649,Assists,5,0.09,83.0
+6651,Assists,5,0.223,91.0
+6654,Assists,5,0.0,48.0
+6659,Assists,5,0.123,69.0
+6663,Assists,5,0.0,25.0
+6665,Assists,5,0.0,25.0
+6666,Assists,5,0.0,6.0
+6668,Assists,5,0.131,72.0
+6669,Assists,5,0.235,83.0
+6671,Assists,5,0.031,22.0
+6672,Assists,5,0.05,68.0
+6673,Assists,5,0.0,11.0
+6674,Assists,5,0.0,25.0
+6675,Assists,5,0.087,80.0
+6677,Assists,5,0.0,6.0
+6679,Assists,5,0.0,25.0
+6680,Assists,5,0.212,89.0
+6685,Assists,5,0.058,21.0
+6690,Assists,5,0.11,64.0
+6694,Assists,5,0.0,48.0
+6697,Assists,5,0.082,53.0
+6699,Assists,5,0.111,90.0
+6700,Assists,5,0.252,87.0
+6702,Assists,5,0.0,25.0
+6707,Assists,5,0.087,34.0
+6712,Assists,5,0.031,22.0
+6713,Assists,5,0.03,52.0
+6718,Assists,5,0.0,25.0
+6720,Assists,5,0.208,88.0
+6721,Assists,5,0.05,19.0
+6724,Assists,5,0.247,85.0
+6727,Assists,5,0.0,25.0
+6728,Assists,5,0.194,74.0
+6730,Assists,5,0.0,48.0
+6732,Assists,5,0.194,74.0
+6733,Assists,5,0.053,35.0
+6734,Assists,5,0.0,25.0
+6736,Assists,5,0.059,39.0
+6738,Assists,5,0.0,25.0
+6740,Assists,5,0.187,83.0
+6742,Assists,5,0.114,45.0
+6744,Assists,5,0.273,91.0
+6745,Assists,5,0.0,11.0
+6751,Assists,5,0.0,11.0
+6752,Assists,5,0.0,25.0
+6758,Assists,5,0.19,85.0
+6761,Assists,5,0.068,24.0
+6762,Assists,5,0.027,50.0
+6764,Assists,5,0.0,11.0
+6766,Assists,5,0.136,49.0
+6771,Assists,5,0.041,28.0
+6772,Assists,5,0.03,52.0
+6775,Assists,5,0.0,11.0
+6776,Assists,5,0.148,95.0
+6777,Assists,5,0.0,25.0
+6778,Assists,5,0.048,67.0
+6784,Assists,5,0.073,76.0
+6787,Assists,5,0.0,25.0
+6788,Assists,5,0.035,59.0
+6789,Assists,5,0.09,83.0
+6791,Assists,5,0.072,75.0
+6792,Assists,5,0.0,48.0
+6794,Assists,5,0.0,25.0
+6796,Assists,5,0.0,11.0
+6797,Assists,5,0.162,79.0
+6801,Assists,5,0.114,66.0
+6802,Assists,5,0.118,91.0
+6804,Assists,5,0.033,55.0
+6805,Assists,5,0.118,91.0
+6823,Assists,5,0.0,48.0
+6825,Assists,5,0.082,79.0
+6827,Assists,5,0.0,25.0
+6828,Assists,5,0.056,71.0
+6829,Assists,5,0.051,34.0
+6832,Assists,5,0.103,42.0
+6837,Assists,5,0.032,54.0
+6838,Assists,5,0.036,14.0
+6841,Assists,5,0.169,63.0
+6842,Assists,5,0.0,6.0
+6847,Assists,5,0.157,58.0
+6852,Assists,5,0.085,54.0
+6856,Assists,5,0.0,25.0
+6861,Assists,5,0.045,64.0
+6862,Assists,5,0.14,51.0
+6865,Assists,5,0.073,76.0
+6867,Assists,5,0.0,11.0
+6869,Assists,5,0.0,25.0
+6872,Assists,5,0.0,25.0
+6873,Assists,5,0.0,11.0
+6878,Assists,5,0.089,81.0
+6880,Assists,5,0.039,15.0
+6884,Assists,5,0.0,48.0
+6898,Assists,5,0.0,48.0
+6899,Assists,5,0.341,98.0
+6907,Assists,5,0.191,72.0
+6913,Assists,5,0.059,73.0
+6914,Assists,5,0.105,88.0
+6918,Assists,5,0.072,26.0
+6926,Assists,5,0.185,82.0
+6927,Assists,5,0.054,69.0
+6928,Assists,5,0.125,70.0
+6929,Assists,5,0.059,39.0
+6932,Assists,5,0.0,25.0
+6934,Assists,5,0.189,84.0
+6935,Assists,5,0.0,25.0
+7005,Assists,5,0.164,97.0
+7034,Assists,5,0.0,25.0
+7105,Assists,5,0.21,75.0
+7141,Assists,5,0.153,55.0
+7154,Assists,5,0.061,41.0
+7158,Assists,5,0.031,53.0
+7161,Assists,5,0.04,62.0
+7577,Assists,5,0.103,87.0
+7781,Assists,5,0.0,6.0
+7782,Assists,5,0.25,93.0
+7900,Assists,5,0.235,83.0
+7906,Assists,5,0.077,78.0
+7907,Assists,5,0.0,25.0
+8167,Assists,5,0.142,52.0
+8234,Assists,5,0.043,29.0
+8419,Assists,5,0.129,48.0
+8440,Assists,5,0.033,55.0
+8522,Assists,5,0.059,22.0
+8523,Assists,5,0.212,76.0
+8584,Assists,5,0.107,44.0
+8697,Assists,5,0.0,48.0
+8801,Assists,5,0.0,25.0
+8818,Assists,5,0.0,25.0
+10037,Assists,5,0.0,11.0
+10476,Assists,5,0.0,25.0
+10609,Assists,5,0.137,95.0
+10755,Assists,5,0.253,93.0
+10763,Assists,5,0.0,48.0
+10802,Assists,5,0.11,64.0
+11298,Assists,5,0.0,25.0
+11539,Assists,5,0.19,71.0
+11542,Assists,5,0.0,6.0
+11634,Assists,5,0.0,25.0
+11675,Assists,5,0.278,95.0
+13107,Assists,5,0.08,51.0
+15805,Assists,5,0.0,11.0
+15893,Assists,5,0.038,26.0
+16332,Assists,5,0.0,25.0
+16456,Assists,5,0.0,25.0
+16539,Assists,5,0.0,25.0
+16622,Assists,5,0.0,25.0
+17054,Assists,5,0.09,83.0
+18398,Assists,5,0.049,32.0
+18724,Assists,5,0.068,24.0
+18867,Assists,5,0.086,55.0
+18925,Assists,5,0.0,11.0
+19431,Assists,5,0.0,11.0
+19454,Assists,5,0.0,25.0
+19668,Assists,5,0.04,27.0
+19677,Assists,5,0.223,80.0
+20016,Assists,5,0.046,66.0
+20064,Assists,5,0.044,63.0
+20542,Assists,5,0.148,54.0
+20669,Assists,5,0.165,81.0
+21210,Assists,5,0.102,86.0
+22819,Assists,5,0.033,23.0
+23416,Assists,5,0.047,18.0
+23785,Assists,5,0.073,28.0
+23791,Assists,5,0.089,35.0
+23800,Assists,5,0.0,25.0
+23806,Assists,5,0.0,11.0
+23816,Assists,5,0.073,28.0
+23843,Assists,5,0.0,48.0
+23848,Assists,5,0.217,79.0
+23943,Assists,5,0.0,6.0
+23994,Assists,5,0.082,31.0
+24035,Assists,5,0.176,66.0
+24070,Assists,5,0.248,86.0
+24132,Assists,5,0.0,25.0
+24138,Assists,5,0.042,62.0
+24149,Assists,5,0.122,68.0
+24173,Assists,5,0.0,6.0
+24255,Assists,5,0.0,48.0
+24263,Assists,5,0.0,25.0
+24783,Assists,5,0.066,44.0
+25134,Assists,5,0.04,16.0
+25144,Assists,5,0.0,48.0
+25707,Assists,5,0.0,11.0
+25859,Assists,5,0.079,50.0
+25881,Assists,5,0.035,24.0
+25921,Assists,5,0.0,6.0
+26009,Assists,5,0.39,95.0
+26012,Assists,5,0.0,25.0
+26020,Assists,5,0.174,65.0
+26023,Assists,5,0.057,72.0
+26087,Assists,5,0.0,25.0
+26103,Assists,5,0.035,96.0
+26211,Assists,5,0.095,60.0
+26222,Assists,5,0.0,25.0
+26448,Assists,5,0.055,70.0
+26607,Assists,5,0.047,30.0
+26633,Assists,5,0.107,89.0
+26669,Assists,5,0.067,73.0
+26685,Assists,5,0.169,63.0
+26690,Assists,5,0.087,34.0
+26723,Assists,5,0.093,38.0
+26753,Assists,5,0.0,48.0
+26780,Assists,5,0.0,25.0
+26848,Assists,5,0.196,86.0
+27054,Assists,5,0.128,94.0
+27092,Assists,5,0.0,25.0
+27109,Assists,5,0.034,13.0
+27122,Assists,5,0.0,11.0
+27144,Assists,5,0.0,25.0
+27148,Assists,5,0.078,49.0
+27184,Assists,5,0.0,25.0
+27239,Assists,5,0.0,25.0
+27241,Assists,5,0.09,36.0
+27250,Assists,5,0.085,32.0
+27305,Assists,5,0.0,48.0
+27335,Assists,5,0.0,25.0
+27341,Assists,5,0.088,57.0
+27346,Assists,5,0.037,25.0
+27347,Assists,5,0.101,85.0
+27349,Assists,5,0.0,25.0
+27403,Assists,5,0.0,25.0
+27482,Assists,5,0.0,25.0
+27483,Assists,5,0.121,92.0
+27526,Assists,5,0.081,52.0
+27656,Assists,5,0.0,25.0
+3023,xA,6,0.062,79.0
+3063,xA,6,0.09,93.0
+3160,xA,6,0.005,3.0
+3253,xA,6,0.014,29.0
+3292,xA,6,0.046,29.0
+3302,xA,6,0.204,91.0
+3324,xA,6,0.017,34.0
+3379,xA,6,0.0,30.0
+3486,xA,6,0.166,64.0
+3497,xA,6,0.158,84.0
+3601,xA,6,0.074,45.0
+3610,xA,6,0.046,29.0
+3637,xA,6,0.007,5.0
+3638,xA,6,0.011,24.0
+4320,xA,6,0.392,100.0
+4324,xA,6,0.088,91.0
+4353,xA,6,0.059,76.0
+4406,xA,6,0.006,16.0
+4498,xA,6,0.001,6.0
+4546,xA,6,0.05,70.0
+4691,xA,6,0.0,30.0
+4711,xA,6,0.134,77.0
+4926,xA,6,0.255,96.0
+5199,xA,6,0.271,98.0
+5200,xA,6,0.215,85.0
+5201,xA,6,0.033,55.0
+5202,xA,6,0.008,20.0
+5203,xA,6,0.093,54.0
+5207,xA,6,0.156,60.0
+5211,xA,6,0.127,97.0
+5213,xA,6,0.023,43.0
+5216,xA,6,0.112,69.0
+5217,xA,6,0.147,58.0
+5246,xA,6,0.296,94.0
+5249,xA,6,0.015,32.0
+5259,xA,6,0.042,61.0
+5456,xA,6,0.102,59.0
+5463,xA,6,0.156,83.0
+5470,xA,6,0.103,60.0
+5485,xA,6,0.0,3.0
+5487,xA,6,0.18,71.0
+5503,xA,6,0.369,99.0
+5504,xA,6,0.224,93.0
+5506,xA,6,0.029,49.0
+5539,xA,6,0.07,43.0
+5552,xA,6,0.163,99.0
+5560,xA,6,0.195,75.0
+5574,xA,6,0.15,80.0
+5577,xA,6,0.0,30.0
+5582,xA,6,0.056,37.0
+5588,xA,6,0.015,32.0
+5597,xA,6,0.003,80.0
+5598,xA,6,0.005,15.0
+5633,xA,6,0.186,89.0
+5671,xA,6,0.003,2.0
+5678,xA,6,0.07,43.0
+5687,xA,6,0.155,59.0
+5695,xA,6,0.415,100.0
+5718,xA,6,0.219,87.0
+5719,xA,6,0.237,94.0
+5721,xA,6,0.188,100.0
+5724,xA,6,0.107,64.0
+5737,xA,6,0.054,35.0
+5741,xA,6,0.021,15.0
+6038,xA,6,0.097,32.0
+6320,xA,6,0.063,80.0
+6356,xA,6,0.178,69.0
+6357,xA,6,0.078,47.0
+6375,xA,6,0.057,73.0
+6376,xA,6,0.0,3.0
+6377,xA,6,0.192,73.0
+6378,xA,6,0.0,30.0
+6379,xA,6,0.109,66.0
+6381,xA,6,0.066,42.0
+6382,xA,6,0.165,62.0
+6384,xA,6,0.075,46.0
+6386,xA,6,0.058,75.0
+6389,xA,6,0.047,31.0
+6390,xA,6,0.242,91.0
+6391,xA,6,0.13,75.0
+6392,xA,6,0.044,5.0
+6393,xA,6,0.135,51.0
+6394,xA,6,0.121,46.0
+6396,xA,6,0.131,76.0
+6399,xA,6,0.298,96.0
+6401,xA,6,0.198,79.0
+6402,xA,6,0.112,41.0
+6557,xA,6,0.047,31.0
+6559,xA,6,0.095,55.0
+6561,xA,6,0.021,39.0
+6563,xA,6,0.152,81.0
+6566,xA,6,0.079,20.0
+6569,xA,6,0.07,85.0
+6573,xA,6,0.029,49.0
+6576,xA,6,0.005,91.0
+6580,xA,6,0.083,49.0
+6581,xA,6,0.201,82.0
+6592,xA,6,0.035,57.0
+6593,xA,6,0.072,87.0
+6594,xA,6,0.085,24.0
+6595,xA,6,0.084,50.0
+6596,xA,6,0.103,94.0
+6599,xA,6,0.056,37.0
+6602,xA,6,0.146,56.0
+6605,xA,6,0.031,52.0
+6608,xA,6,0.104,62.0
+6609,xA,6,0.197,90.0
+6610,xA,6,0.012,100.0
+6612,xA,6,0.043,63.0
+6614,xA,6,0.022,41.0
+6622,xA,6,0.028,19.0
+6624,xA,6,0.263,93.0
+6625,xA,6,0.003,80.0
+6626,xA,6,0.083,49.0
+6627,xA,6,0.085,90.0
+6630,xA,6,0.171,65.0
+6633,xA,6,0.005,3.0
+6647,xA,6,0.03,50.0
+6649,xA,6,0.048,67.0
+6651,xA,6,0.204,91.0
+6654,xA,6,0.001,65.0
+6659,xA,6,0.056,37.0
+6663,xA,6,0.031,52.0
+6665,xA,6,0.009,23.0
+6666,xA,6,0.093,30.0
+6668,xA,6,0.163,85.0
+6669,xA,6,0.102,35.0
+6671,xA,6,0.061,40.0
+6672,xA,6,0.058,75.0
+6673,xA,6,0.126,74.0
+6674,xA,6,0.047,65.0
+6675,xA,6,0.037,59.0
+6677,xA,6,0.041,2.0
+6679,xA,6,0.032,54.0
+6680,xA,6,0.144,79.0
+6685,xA,6,0.123,47.0
+6690,xA,6,0.166,86.0
+6694,xA,6,0.0,30.0
+6697,xA,6,0.089,53.0
+6699,xA,6,0.07,85.0
+6700,xA,6,0.174,66.0
+6702,xA,6,0.002,9.0
+6707,xA,6,0.093,30.0
+6712,xA,6,0.066,42.0
+6713,xA,6,0.019,38.0
+6718,xA,6,0.135,98.0
+6720,xA,6,0.275,99.0
+6721,xA,6,0.081,21.0
+6724,xA,6,0.255,92.0
+6727,xA,6,0.025,45.0
+6728,xA,6,0.127,49.0
+6730,xA,6,0.0,30.0
+6732,xA,6,0.2,81.0
+6733,xA,6,0.038,23.0
+6734,xA,6,0.048,67.0
+6736,xA,6,0.019,14.0
+6738,xA,6,0.032,54.0
+6740,xA,6,0.245,95.0
+6742,xA,6,0.138,54.0
+6744,xA,6,0.196,77.0
+6745,xA,6,0.012,9.0
+6751,xA,6,0.031,21.0
+6752,xA,6,0.0,3.0
+6758,xA,6,0.136,78.0
+6761,xA,6,0.056,8.0
+6762,xA,6,0.025,45.0
+6764,xA,6,0.041,25.0
+6766,xA,6,0.084,22.0
+6771,xA,6,0.04,24.0
+6772,xA,6,0.016,34.0
+6775,xA,6,0.016,12.0
+6776,xA,6,0.112,96.0
+6777,xA,6,0.013,28.0
+6778,xA,6,0.079,89.0
+6784,xA,6,0.069,83.0
+6787,xA,6,0.009,23.0
+6788,xA,6,0.007,18.0
+6789,xA,6,0.049,69.0
+6791,xA,6,0.043,63.0
+6792,xA,6,0.0,30.0
+6794,xA,6,0.005,15.0
+6796,xA,6,0.019,14.0
+6797,xA,6,0.125,73.0
+6801,xA,6,0.061,40.0
+6802,xA,6,0.09,93.0
+6804,xA,6,0.023,43.0
+6805,xA,6,0.061,78.0
+6823,xA,6,0.0,30.0
+6825,xA,6,0.003,12.0
+6827,xA,6,0.038,60.0
+6828,xA,6,0.025,45.0
+6829,xA,6,0.079,48.0
+6832,xA,6,0.074,18.0
+6837,xA,6,0.018,36.0
+6838,xA,6,0.074,18.0
+6841,xA,6,0.195,75.0
+6842,xA,6,0.111,39.0
+6847,xA,6,0.119,44.0
+6852,xA,6,0.098,58.0
+6856,xA,6,0.023,43.0
+6861,xA,6,0.018,36.0
+6862,xA,6,0.111,39.0
+6865,xA,6,0.072,87.0
+6867,xA,6,0.01,7.0
+6869,xA,6,0.009,23.0
+6872,xA,6,0.0,3.0
+6873,xA,6,0.112,69.0
+6878,xA,6,0.042,61.0
+6880,xA,6,0.063,12.0
+6884,xA,6,0.0,30.0
+6898,xA,6,0.0,30.0
+6899,xA,6,0.208,93.0
+6907,xA,6,0.138,54.0
+6913,xA,6,0.043,63.0
+6914,xA,6,0.061,78.0
+6918,xA,6,0.085,24.0
+6926,xA,6,0.109,66.0
+6927,xA,6,0.026,47.0
+6928,xA,6,0.088,52.0
+6929,xA,6,0.03,21.0
+6932,xA,6,0.034,55.0
+6934,xA,6,0.148,79.0
+6935,xA,6,0.064,81.0
+7005,xA,6,0.06,77.0
+7034,xA,6,0.008,20.0
+7105,xA,6,0.198,79.0
+7141,xA,6,0.141,55.0
+7154,xA,6,0.007,5.0
+7158,xA,6,0.022,41.0
+7161,xA,6,0.026,47.0
+7577,xA,6,0.014,29.0
+7781,xA,6,0.049,7.0
+7782,xA,6,0.17,87.0
+7900,xA,6,0.23,89.0
+7906,xA,6,0.086,91.0
+7907,xA,6,0.015,32.0
+8167,xA,6,0.115,42.0
+8234,xA,6,0.047,31.0
+8419,xA,6,0.067,14.0
+8440,xA,6,0.036,58.0
+8522,xA,6,0.186,72.0
+8523,xA,6,0.299,98.0
+8584,xA,6,0.071,16.0
+8697,xA,6,0.002,74.0
+8801,xA,6,0.015,32.0
+8818,xA,6,0.001,6.0
+10037,xA,6,0.008,7.0
+10476,xA,6,0.007,18.0
+10609,xA,6,0.053,71.0
+10755,xA,6,0.155,82.0
+10763,xA,6,0.0,30.0
+10802,xA,6,0.112,69.0
+11298,xA,6,0.018,36.0
+11539,xA,6,0.174,66.0
+11542,xA,6,0.058,9.0
+11634,xA,6,0.108,95.0
+11675,xA,6,0.108,64.0
+13107,xA,6,0.053,34.0
+15805,xA,6,0.002,1.0
+15893,xA,6,0.096,56.0
+16332,xA,6,0.005,15.0
+16456,xA,6,0.002,9.0
+16539,xA,6,0.012,26.0
+16622,xA,6,0.004,13.0
+17054,xA,6,0.013,28.0
+18398,xA,6,0.027,17.0
+18724,xA,6,0.214,84.0
+18867,xA,6,0.088,52.0
+18925,xA,6,0.027,17.0
+19431,xA,6,0.048,33.0
+19454,xA,6,0.008,20.0
+19668,xA,6,0.013,10.0
+19677,xA,6,0.135,51.0
+20016,xA,6,0.069,83.0
+20064,xA,6,0.048,67.0
+20542,xA,6,0.196,77.0
+20669,xA,6,0.044,27.0
+21210,xA,6,0.129,98.0
+22819,xA,6,0.024,16.0
+23416,xA,6,0.089,27.0
+23785,xA,6,0.105,38.0
+23791,xA,6,0.097,32.0
+23800,xA,6,0.053,71.0
+23806,xA,6,0.055,36.0
+23816,xA,6,0.297,95.0
+23843,xA,6,0.001,65.0
+23848,xA,6,0.176,68.0
+23943,xA,6,0.119,44.0
+23994,xA,6,0.09,28.0
+24035,xA,6,0.127,49.0
+24070,xA,6,0.218,86.0
+24132,xA,6,0.056,73.0
+24138,xA,6,0.053,71.0
+24149,xA,6,0.116,71.0
+24173,xA,6,0.043,4.0
+24255,xA,6,0.005,91.0
+24263,xA,6,0.064,81.0
+24783,xA,6,0.034,22.0
+25134,xA,6,0.061,11.0
+25144,xA,6,0.0,30.0
+25707,xA,6,0.124,72.0
+25859,xA,6,0.261,97.0
+25881,xA,6,0.014,11.0
+25921,xA,6,0.064,13.0
+26009,xA,6,0.222,88.0
+26012,xA,6,0.0,3.0
+26020,xA,6,0.103,36.0
+26023,xA,6,0.012,26.0
+26087,xA,6,0.008,20.0
+26103,xA,6,0.005,91.0
+26211,xA,6,0.103,60.0
+26222,xA,6,0.012,26.0
+26448,xA,6,0.02,38.0
+26607,xA,6,0.029,20.0
+26633,xA,6,0.067,82.0
+26669,xA,6,0.021,39.0
+26685,xA,6,0.165,62.0
+26690,xA,6,0.048,6.0
+26723,xA,6,0.086,26.0
+26753,xA,6,0.0,30.0
+26780,xA,6,0.031,52.0
+26848,xA,6,0.112,69.0
+27054,xA,6,0.075,88.0
+27092,xA,6,0.038,60.0
+27109,xA,6,0.102,35.0
+27122,xA,6,0.011,8.0
+27144,xA,6,0.0,3.0
+27148,xA,6,0.183,88.0
+27184,xA,6,0.004,13.0
+27239,xA,6,0.002,9.0
+27241,xA,6,0.071,16.0
+27250,xA,6,0.038,1.0
+27305,xA,6,0.001,65.0
+27335,xA,6,0.048,67.0
+27341,xA,6,0.043,26.0
+27346,xA,6,0.097,57.0
+27347,xA,6,0.07,85.0
+27349,xA,6,0.002,9.0
+27403,xA,6,0.002,9.0
+27482,xA,6,0.002,9.0
+27483,xA,6,0.111,95.0
+27526,xA,6,0.104,62.0
+27656,xA,6,0.035,57.0
+3023,Shots,7,0.662,86.0
+3063,Shots,7,0.768,91.0
+3160,Shots,7,0.478,12.0
+3253,Shots,7,0.574,77.0
+3292,Shots,7,0.746,28.0
+3302,Shots,7,2.471,96.0
+3324,Shots,7,0.173,14.0
+3379,Shots,7,0.0,52.0
+3486,Shots,7,2.341,58.0
+3497,Shots,7,1.613,79.0
+3601,Shots,7,0.991,49.0
+3610,Shots,7,1.027,53.0
+3637,Shots,7,0.841,36.0
+3638,Shots,7,0.777,92.0
+4320,Shots,7,3.527,94.0
+4324,Shots,7,0.653,84.0
+4353,Shots,7,0.787,93.0
+4406,Shots,7,0.328,39.0
+4498,Shots,7,0.503,68.0
+4546,Shots,7,0.337,41.0
+4691,Shots,7,0.0,52.0
+4711,Shots,7,1.604,78.0
+4926,Shots,7,2.012,90.0
+5199,Shots,7,1.234,63.0
+5200,Shots,7,1.671,25.0
+5201,Shots,7,0.856,96.0
+5202,Shots,7,0.374,45.0
+5203,Shots,7,0.181,2.0
+5207,Shots,7,6.251,100.0
+5211,Shots,7,0.236,24.0
+5213,Shots,7,0.475,62.0
+5216,Shots,7,0.897,42.0
+5217,Shots,7,2.707,75.0
+5246,Shots,7,3.858,95.0
+5249,Shots,7,0.854,95.0
+5259,Shots,7,0.501,67.0
+5456,Shots,7,0.827,33.0
+5463,Shots,7,1.173,60.0
+5470,Shots,7,1.501,75.0
+5485,Shots,7,0.478,63.0
+5487,Shots,7,2.651,69.0
+5503,Shots,7,5.065,99.0
+5504,Shots,7,1.979,89.0
+5506,Shots,7,0.098,8.0
+5539,Shots,7,1.138,57.0
+5552,Shots,7,0.705,88.0
+5560,Shots,7,1.941,38.0
+5574,Shots,7,0.639,21.0
+5577,Shots,7,0.0,52.0
+5582,Shots,7,0.913,44.0
+5588,Shots,7,0.128,9.0
+5597,Shots,7,0.0,52.0
+5598,Shots,7,0.652,83.0
+5633,Shots,7,3.143,99.0
+5671,Shots,7,0.751,29.0
+5678,Shots,7,1.202,61.0
+5687,Shots,7,1.934,36.0
+5695,Shots,7,2.25,92.0
+5718,Shots,7,2.394,60.0
+5719,Shots,7,1.824,86.0
+5721,Shots,7,0.429,56.0
+5724,Shots,7,1.375,69.0
+5737,Shots,7,0.893,41.0
+5741,Shots,7,0.422,8.0
+6038,Shots,7,2.235,52.0
+6320,Shots,7,0.245,27.0
+6356,Shots,7,1.293,12.0
+6357,Shots,7,0.844,37.0
+6375,Shots,7,0.201,21.0
+6376,Shots,7,0.186,18.0
+6377,Shots,7,2.665,72.0
+6378,Shots,7,0.0,52.0
+6379,Shots,7,0.729,26.0
+6381,Shots,7,1.75,81.0
+6382,Shots,7,2.92,84.0
+6384,Shots,7,0.515,14.0
+6386,Shots,7,0.294,34.0
+6389,Shots,7,0.842,36.0
+6390,Shots,7,1.146,8.0
+6391,Shots,7,2.9,98.0
+6392,Shots,7,0.821,2.0
+6393,Shots,7,2.459,64.0
+6394,Shots,7,3.007,86.0
+6396,Shots,7,0.905,43.0
+6399,Shots,7,4.103,96.0
+6401,Shots,7,3.039,87.0
+6402,Shots,7,2.257,53.0
+6557,Shots,7,1.849,87.0
+6559,Shots,7,1.04,55.0
+6561,Shots,7,0.242,27.0
+6563,Shots,7,1.719,80.0
+6566,Shots,7,3.19,91.0
+6569,Shots,7,0.508,69.0
+6573,Shots,7,0.906,98.0
+6576,Shots,7,0.0,52.0
+6580,Shots,7,1.143,58.0
+6581,Shots,7,1.709,29.0
+6592,Shots,7,0.238,25.0
+6593,Shots,7,0.075,6.0
+6594,Shots,7,1.331,13.0
+6595,Shots,7,1.459,73.0
+6596,Shots,7,0.18,17.0
+6599,Shots,7,0.599,20.0
+6602,Shots,7,1.758,32.0
+6605,Shots,7,0.19,19.0
+6608,Shots,7,1.428,70.0
+6609,Shots,7,1.351,68.0
+6610,Shots,7,0.0,52.0
+6612,Shots,7,0.466,62.0
+6614,Shots,7,0.193,20.0
+6622,Shots,7,0.37,7.0
+6624,Shots,7,2.589,68.0
+6625,Shots,7,0.0,52.0
+6626,Shots,7,1.758,82.0
+6627,Shots,7,0.297,36.0
+6630,Shots,7,1.21,11.0
+6633,Shots,7,0.97,47.0
+6647,Shots,7,0.379,45.0
+6649,Shots,7,0.392,49.0
+6651,Shots,7,1.295,67.0
+6654,Shots,7,0.0,52.0
+6659,Shots,7,1.149,59.0
+6663,Shots,7,0.0,1.0
+6665,Shots,7,0.515,70.0
+6666,Shots,7,2.071,42.0
+6668,Shots,7,2.354,94.0
+6669,Shots,7,1.488,20.0
+6671,Shots,7,0.673,23.0
+6672,Shots,7,1.599,100.0
+6673,Shots,7,2.337,93.0
+6674,Shots,7,0.279,32.0
+6675,Shots,7,0.173,14.0
+6677,Shots,7,3.364,93.0
+6679,Shots,7,0.538,73.0
+6680,Shots,7,2.752,97.0
+6685,Shots,7,1.851,34.0
+6690,Shots,7,0.658,21.0
+6694,Shots,7,0.0,52.0
+6697,Shots,7,0.695,24.0
+6699,Shots,7,0.446,58.0
+6700,Shots,7,1.581,21.0
+6702,Shots,7,0.395,50.0
+6707,Shots,7,2.495,66.0
+6712,Shots,7,0.744,27.0
+6713,Shots,7,0.454,59.0
+6718,Shots,7,0.889,97.0
+6720,Shots,7,2.252,93.0
+6721,Shots,7,2.689,73.0
+6724,Shots,7,2.852,79.0
+6727,Shots,7,0.577,79.0
+6728,Shots,7,3.358,92.0
+6730,Shots,7,0.0,52.0
+6732,Shots,7,2.719,76.0
+6733,Shots,7,0.794,31.0
+6734,Shots,7,0.627,82.0
+6736,Shots,7,1.821,84.0
+6738,Shots,7,0.653,84.0
+6740,Shots,7,1.244,64.0
+6742,Shots,7,1.369,15.0
+6744,Shots,7,2.279,54.0
+6745,Shots,7,0.458,11.0
+6751,Shots,7,0.17,1.0
+6752,Shots,7,0.145,10.0
+6758,Shots,7,0.914,45.0
+6761,Shots,7,2.171,49.0
+6762,Shots,7,0.485,65.0
+6764,Shots,7,1.454,71.0
+6766,Shots,7,2.452,62.0
+6771,Shots,7,1.231,62.0
+6772,Shots,7,0.995,99.0
+6775,Shots,7,0.572,18.0
+6776,Shots,7,0.333,40.0
+6777,Shots,7,0.18,17.0
+6778,Shots,7,0.388,48.0
+6784,Shots,7,0.401,51.0
+6787,Shots,7,0.402,52.0
+6788,Shots,7,0.35,42.0
+6789,Shots,7,0.239,26.0
+6791,Shots,7,0.179,16.0
+6792,Shots,7,0.0,52.0
+6794,Shots,7,0.195,20.0
+6796,Shots,7,0.354,6.0
+6797,Shots,7,1.589,77.0
+6801,Shots,7,1.025,52.0
+6802,Shots,7,0.411,52.0
+6804,Shots,7,0.066,5.0
+6805,Shots,7,0.266,30.0
+6823,Shots,7,0.0,52.0
+6825,Shots,7,0.575,78.0
+6827,Shots,7,0.178,15.0
+6828,Shots,7,0.225,23.0
+6829,Shots,7,1.28,65.0
+6832,Shots,7,2.654,71.0
+6837,Shots,7,0.356,43.0
+6838,Shots,7,1.672,26.0
+6841,Shots,7,1.016,5.0
+6842,Shots,7,1.968,39.0
+6847,Shots,7,1.154,9.0
+6852,Shots,7,1.903,88.0
+6856,Shots,7,0.292,34.0
+6861,Shots,7,0.272,31.0
+6862,Shots,7,2.286,55.0
+6865,Shots,7,0.437,57.0
+6867,Shots,7,0.771,30.0
+6869,Shots,7,0.381,47.0
+6872,Shots,7,0.524,72.0
+6873,Shots,7,0.444,10.0
+6878,Shots,7,0.044,3.0
+6880,Shots,7,2.029,40.0
+6884,Shots,7,0.0,52.0
+6898,Shots,7,0.0,52.0
+6899,Shots,7,1.804,83.0
+6907,Shots,7,2.098,45.0
+6913,Shots,7,0.029,2.0
+6914,Shots,7,0.421,55.0
+6918,Shots,7,2.06,41.0
+6926,Shots,7,2.179,91.0
+6927,Shots,7,0.488,66.0
+6928,Shots,7,1.291,66.0
+6929,Shots,7,0.414,7.0
+6932,Shots,7,0.31,37.0
+6934,Shots,7,1.01,50.0
+6935,Shots,7,0.093,7.0
+7005,Shots,7,0.452,59.0
+7034,Shots,7,0.172,12.0
+7105,Shots,7,2.313,56.0
+7141,Shots,7,2.518,67.0
+7154,Shots,7,0.182,3.0
+7158,Shots,7,0.339,41.0
+7161,Shots,7,0.682,87.0
+7577,Shots,7,0.154,11.0
+7781,Shots,7,1.723,31.0
+7782,Shots,7,3.286,100.0
+7900,Shots,7,3.129,89.0
+7906,Shots,7,0.46,61.0
+7907,Shots,7,0.554,75.0
+8167,Shots,7,2.891,81.0
+8234,Shots,7,1.039,54.0
+8419,Shots,7,2.115,48.0
+8440,Shots,7,0.296,35.0
+8522,Shots,7,2.831,78.0
+8523,Shots,7,2.707,75.0
+8584,Shots,7,3.111,88.0
+8697,Shots,7,0.0,52.0
+8801,Shots,7,0.545,74.0
+8818,Shots,7,0.321,38.0
+10037,Shots,7,1.022,51.0
+10476,Shots,7,0.255,29.0
+10609,Shots,7,0.48,64.0
+10755,Shots,7,2.47,95.0
+10763,Shots,7,0.0,52.0
+10802,Shots,7,1.54,76.0
+11298,Shots,7,0.771,91.0
+11539,Shots,7,1.899,35.0
+11542,Shots,7,2.963,85.0
+11634,Shots,7,0.856,96.0
+11675,Shots,7,1.482,74.0
+13107,Shots,7,0.199,4.0
+15805,Shots,7,0.835,35.0
+15893,Shots,7,1.708,79.0
+16332,Shots,7,0.0,1.0
+16456,Shots,7,0.385,48.0
+16539,Shots,7,0.415,55.0
+16622,Shots,7,0.281,33.0
+17054,Shots,7,0.717,89.0
+18398,Shots,7,0.536,17.0
+18724,Shots,7,1.635,24.0
+18867,Shots,7,0.86,39.0
+18925,Shots,7,0.971,48.0
+19431,Shots,7,0.702,25.0
+19454,Shots,7,0.624,81.0
+19668,Shots,7,0.518,15.0
+19677,Shots,7,4.37,98.0
+20016,Shots,7,0.603,80.0
+20064,Shots,7,0.485,65.0
+20542,Shots,7,2.881,80.0
+20669,Shots,7,0.577,19.0
+21210,Shots,7,0.562,76.0
+22819,Shots,7,0.833,34.0
+23416,Shots,7,1.417,18.0
+23785,Shots,7,1.384,16.0
+23791,Shots,7,1.067,6.0
+23800,Shots,7,0.056,5.0
+23806,Shots,7,0.796,32.0
+23816,Shots,7,1.685,28.0
+23843,Shots,7,0.0,52.0
+23848,Shots,7,1.087,7.0
+23943,Shots,7,1.339,14.0
+23994,Shots,7,1.481,19.0
+24035,Shots,7,2.111,47.0
+24070,Shots,7,2.105,46.0
+24132,Shots,7,0.566,77.0
+24138,Shots,7,0.762,90.0
+24149,Shots,7,1.019,50.0
+24173,Shots,7,2.096,44.0
+24255,Shots,7,0.0,52.0
+24263,Shots,7,0.66,85.0
+24783,Shots,7,1.454,71.0
+25134,Shots,7,2.901,82.0
+25144,Shots,7,0.0,52.0
+25707,Shots,7,0.886,40.0
+25859,Shots,7,1.823,85.0
+25881,Shots,7,0.662,22.0
+25921,Shots,7,0.99,4.0
+26009,Shots,7,1.598,22.0
+26012,Shots,7,0.414,54.0
+26020,Shots,7,2.433,61.0
+26023,Shots,7,0.172,12.0
+26087,Shots,7,0.38,46.0
+26103,Shots,7,0.0,52.0
+26211,Shots,7,0.855,38.0
+26222,Shots,7,0.508,69.0
+26448,Shots,7,0.055,4.0
+26607,Shots,7,0.427,9.0
+26633,Shots,7,0.215,22.0
+26669,Shots,7,0.133,9.0
+26685,Shots,7,2.369,59.0
+26690,Shots,7,2.179,51.0
+26723,Shots,7,1.674,27.0
+26753,Shots,7,0.0,52.0
+26780,Shots,7,0.367,44.0
+26848,Shots,7,0.922,46.0
+27054,Shots,7,0.256,30.0
+27092,Shots,7,0.7,88.0
+27109,Shots,7,2.478,65.0
+27122,Shots,7,0.523,16.0
+27144,Shots,7,0.251,28.0
+27148,Shots,7,1.254,64.0
+27184,Shots,7,0.234,23.0
+27239,Shots,7,0.518,71.0
+27241,Shots,7,0.584,1.0
+27250,Shots,7,1.781,33.0
+27305,Shots,7,0.0,52.0
+27335,Shots,7,0.584,80.0
+27341,Shots,7,1.056,56.0
+27346,Shots,7,0.336,5.0
+27347,Shots,7,0.91,98.0
+27349,Shots,7,0.801,94.0
+27403,Shots,7,0.315,38.0
+27482,Shots,7,0.457,60.0
+27483,Shots,7,0.524,72.0
+27526,Shots,7,0.486,13.0
+27656,Shots,7,0.413,53.0
+3023,Key passes,8,0.804,90.0
+3063,Key passes,8,0.726,85.0
+3160,Key passes,8,0.239,7.0
+3253,Key passes,8,0.179,31.0
+3292,Key passes,8,0.82,43.0
+3302,Key passes,8,1.412,76.0
+3324,Key passes,8,0.13,21.0
+3379,Key passes,8,0.0,22.0
+3486,Key passes,8,1.284,61.0
+3497,Key passes,8,0.655,36.0
+3601,Key passes,8,0.85,49.0
+3610,Key passes,8,0.498,30.0
+3637,Key passes,8,0.191,7.0
+3638,Key passes,8,0.097,17.0
+4320,Key passes,8,2.696,100.0
+4324,Key passes,8,0.898,95.0
+4353,Key passes,8,0.236,41.0
+4406,Key passes,8,0.14,23.0
+4498,Key passes,8,0.077,13.0
+4546,Key passes,8,0.618,80.0
+4691,Key passes,8,0.0,22.0
+4711,Key passes,8,1.329,73.0
+4926,Key passes,8,2.012,90.0
+5199,Key passes,8,2.293,96.0
+5200,Key passes,8,2.019,91.0
+5201,Key passes,8,0.315,51.0
+5202,Key passes,8,0.149,25.0
+5203,Key passes,8,0.544,31.0
+5207,Key passes,8,1.206,58.0
+5211,Key passes,8,0.743,87.0
+5213,Key passes,8,0.17,29.0
+5216,Key passes,8,1.287,72.0
+5217,Key passes,8,1.519,72.0
+5246,Key passes,8,1.665,84.0
+5249,Key passes,8,0.098,18.0
+5259,Key passes,8,0.251,43.0
+5456,Key passes,8,1.572,79.0
+5463,Key passes,8,2.111,93.0
+5470,Key passes,8,1.091,62.0
+5485,Key passes,8,0.04,6.0
+5487,Key passes,8,1.556,73.0
+5503,Key passes,8,2.372,98.0
+5504,Key passes,8,2.03,91.0
+5506,Key passes,8,0.325,53.0
+5539,Key passes,8,0.398,16.0
+5552,Key passes,8,1.693,99.0
+5560,Key passes,8,1.655,82.0
+5574,Key passes,8,1.757,84.0
+5577,Key passes,8,0.0,22.0
+5582,Key passes,8,0.958,55.0
+5588,Key passes,8,0.192,34.0
+5597,Key passes,8,0.028,54.0
+5598,Key passes,8,0.145,23.0
+5633,Key passes,8,1.164,64.0
+5671,Key passes,8,0.087,2.0
+5678,Key passes,8,0.845,47.0
+5687,Key passes,8,1.236,59.0
+5695,Key passes,8,3.52,100.0
+5718,Key passes,8,1.323,64.0
+5719,Key passes,8,2.041,92.0
+5721,Key passes,8,1.716,100.0
+5724,Key passes,8,1.68,81.0
+5737,Key passes,8,0.47,26.0
+5741,Key passes,8,0.422,19.0
+6038,Key passes,8,1.084,53.0
+6320,Key passes,8,0.889,95.0
+6356,Key passes,8,1.758,87.0
+6357,Key passes,8,1.192,66.0
+6375,Key passes,8,0.745,88.0
+6376,Key passes,8,0.0,2.0
+6377,Key passes,8,1.51,71.0
+6378,Key passes,8,0.025,43.0
+6379,Key passes,8,0.775,41.0
+6381,Key passes,8,0.745,40.0
+6382,Key passes,8,0.82,26.0
+6384,Key passes,8,0.697,37.0
+6386,Key passes,8,0.588,78.0
+6389,Key passes,8,0.453,22.0
+6390,Key passes,8,2.108,93.0
+6391,Key passes,8,0.844,46.0
+6392,Key passes,8,0.821,27.0
+6393,Key passes,8,0.711,11.0
+6394,Key passes,8,1.002,39.0
+6396,Key passes,8,1.901,89.0
+6399,Key passes,8,2.482,99.0
+6401,Key passes,8,0.999,38.0
+6402,Key passes,8,1.039,45.0
+6557,Key passes,8,0.669,36.0
+6559,Key passes,8,1.109,63.0
+6561,Key passes,8,0.377,57.0
+6563,Key passes,8,1.504,78.0
+6566,Key passes,8,0.645,9.0
+6569,Key passes,8,0.536,73.0
+6573,Key passes,8,0.259,45.0
+6576,Key passes,8,0.08,91.0
+6580,Key passes,8,1.08,61.0
+6581,Key passes,8,1.312,62.0
+6592,Key passes,8,0.238,41.0
+6593,Key passes,8,0.298,49.0
+6594,Key passes,8,0.554,6.0
+6595,Key passes,8,1.268,70.0
+6596,Key passes,8,0.841,92.0
+6599,Key passes,8,0.845,47.0
+6602,Key passes,8,1.039,45.0
+6605,Key passes,8,0.475,70.0
+6608,Key passes,8,0.918,51.0
+6609,Key passes,8,1.643,80.0
+6610,Key passes,8,0.09,100.0
+6612,Key passes,8,0.466,69.0
+6614,Key passes,8,0.386,58.0
+6622,Key passes,8,0.37,14.0
+6624,Key passes,8,1.64,80.0
+6625,Key passes,8,0.051,74.0
+6626,Key passes,8,0.74,38.0
+6627,Key passes,8,0.924,96.0
+6630,Key passes,8,0.838,28.0
+6633,Key passes,8,0.065,1.0
+6647,Key passes,8,0.207,38.0
+6649,Key passes,8,0.573,76.0
+6651,Key passes,8,2.367,97.0
+6654,Key passes,8,0.054,83.0
+6659,Key passes,8,0.862,50.0
+6663,Key passes,8,0.419,62.0
+6665,Key passes,8,0.064,10.0
+6666,Key passes,8,0.767,15.0
+6668,Key passes,8,1.799,87.0
+6669,Key passes,8,1.018,42.0
+6671,Key passes,8,0.857,50.0
+6672,Key passes,8,0.4,59.0
+6673,Key passes,8,0.974,57.0
+6674,Key passes,8,0.557,74.0
+6675,Key passes,8,0.433,65.0
+6677,Key passes,8,0.224,1.0
+6679,Key passes,8,0.403,59.0
+6680,Key passes,8,1.588,79.0
+6685,Key passes,8,1.273,60.0
+6690,Key passes,8,1.28,71.0
+6694,Key passes,8,0.027,48.0
+6697,Key passes,8,0.94,53.0
+6699,Key passes,8,0.557,74.0
+6700,Key passes,8,1.006,41.0
+6702,Key passes,8,0.066,11.0
+6707,Key passes,8,0.986,35.0
+6712,Key passes,8,0.465,23.0
+6713,Key passes,8,0.242,42.0
+6718,Key passes,8,1.185,98.0
+6720,Key passes,8,2.46,98.0
+6721,Key passes,8,1.046,47.0
+6724,Key passes,8,2.148,94.0
+6727,Key passes,8,0.272,46.0
+6728,Key passes,8,1.485,69.0
+6730,Key passes,8,0.0,22.0
+6732,Key passes,8,1.859,88.0
+6733,Key passes,8,0.556,32.0
+6734,Key passes,8,0.314,50.0
+6736,Key passes,8,0.47,26.0
+6738,Key passes,8,0.588,78.0
+6740,Key passes,8,2.238,94.0
+6742,Key passes,8,1.559,74.0
+6744,Key passes,8,1.094,55.0
+6745,Key passes,8,0.36,13.0
+6751,Key passes,8,0.383,15.0
+6752,Key passes,8,0.0,2.0
+6758,Key passes,8,0.837,45.0
+6761,Key passes,8,0.543,5.0
+6762,Key passes,8,0.296,48.0
+6764,Key passes,8,0.926,52.0
+6766,Key passes,8,0.727,12.0
+6771,Key passes,8,0.616,34.0
+6772,Key passes,8,0.271,45.0
+6775,Key passes,8,0.4,17.0
+6776,Key passes,8,0.741,86.0
+6777,Key passes,8,0.15,26.0
+6778,Key passes,8,0.194,35.0
+6784,Key passes,8,0.839,91.0
+6787,Key passes,8,0.201,37.0
+6788,Key passes,8,0.175,30.0
+6789,Key passes,8,0.688,83.0
+6791,Key passes,8,0.322,52.0
+6792,Key passes,8,0.0,22.0
+6794,Key passes,8,0.098,18.0
+6796,Key passes,8,0.177,6.0
+6797,Key passes,8,1.264,69.0
+6801,Key passes,8,0.493,28.0
+6802,Key passes,8,0.647,80.0
+6804,Key passes,8,0.132,22.0
+6805,Key passes,8,0.413,61.0
+6823,Key passes,8,0.0,22.0
+6825,Key passes,8,0.082,14.0
+6827,Key passes,8,0.089,15.0
+6828,Key passes,8,0.225,40.0
+6829,Key passes,8,1.178,65.0
+6832,Key passes,8,0.773,16.0
+6837,Key passes,8,0.097,17.0
+6838,Key passes,8,0.925,34.0
+6841,Key passes,8,1.567,76.0
+6842,Key passes,8,1.455,68.0
+6847,Key passes,8,0.787,21.0
+6852,Key passes,8,1.226,67.0
+6856,Key passes,8,0.511,71.0
+6861,Key passes,8,0.182,32.0
+6862,Key passes,8,0.746,13.0
+6865,Key passes,8,0.437,66.0
+6867,Key passes,8,0.105,4.0
+6869,Key passes,8,0.127,20.0
+6872,Key passes,8,0.0,2.0
+6873,Key passes,8,1.422,77.0
+6878,Key passes,8,0.443,67.0
+6880,Key passes,8,0.507,4.0
+6884,Key passes,8,0.0,22.0
+6898,Key passes,8,0.057,87.0
+6899,Key passes,8,2.242,95.0
+6907,Key passes,8,1.622,79.0
+6913,Key passes,8,0.354,55.0
+6914,Key passes,8,0.596,79.0
+6918,Key passes,8,0.903,33.0
+6926,Key passes,8,1.034,59.0
+6927,Key passes,8,0.434,66.0
+6928,Key passes,8,1.333,74.0
+6929,Key passes,8,0.414,18.0
+6932,Key passes,8,0.426,64.0
+6934,Key passes,8,1.704,82.0
+6935,Key passes,8,0.56,75.0
+7005,Key passes,8,0.657,81.0
+7034,Key passes,8,0.172,30.0
+7105,Key passes,8,1.562,75.0
+7141,Key passes,8,1.678,85.0
+7154,Key passes,8,0.242,8.0
+7158,Key passes,8,0.493,70.0
+7161,Key passes,8,0.04,6.0
+7577,Key passes,8,0.411,60.0
+7781,Key passes,8,0.574,7.0
+7782,Key passes,8,1.372,75.0
+7900,Key passes,8,1.174,56.0
+7906,Key passes,8,0.804,90.0
+7907,Key passes,8,0.185,33.0
+8167,Key passes,8,0.901,32.0
+8234,Key passes,8,0.476,27.0
+8419,Key passes,8,0.777,18.0
+8440,Key passes,8,0.164,28.0
+8522,Key passes,8,1.356,66.0
+8523,Key passes,8,2.07,92.0
+8584,Key passes,8,0.804,25.0
+8697,Key passes,8,0.052,78.0
+8801,Key passes,8,0.363,56.0
+8818,Key passes,8,0.04,6.0
+10037,Key passes,8,0.447,21.0
+10476,Key passes,8,0.146,24.0
+10609,Key passes,8,0.274,47.0
+10755,Key passes,8,2.077,93.0
+10763,Key passes,8,0.028,54.0
+10802,Key passes,8,0.953,54.0
+11298,Key passes,8,0.514,72.0
+11539,Key passes,8,1.329,65.0
+11542,Key passes,8,1.002,39.0
+11634,Key passes,8,0.795,89.0
+11675,Key passes,8,0.741,39.0
+13107,Key passes,8,0.597,33.0
+15805,Key passes,8,0.093,3.0
+15893,Key passes,8,0.835,44.0
+16332,Key passes,8,0.095,16.0
+16456,Key passes,8,0.07,12.0
+16539,Key passes,8,0.189,34.0
+16622,Key passes,8,0.056,9.0
+17054,Key passes,8,0.359,55.0
+18398,Key passes,8,0.439,21.0
+18724,Key passes,8,1.975,89.0
+18867,Key passes,8,1.118,64.0
+18925,Key passes,8,0.265,10.0
+19431,Key passes,8,1.054,60.0
+19454,Key passes,8,0.069,12.0
+19668,Key passes,8,0.279,11.0
+19677,Key passes,8,1.65,81.0
+20016,Key passes,8,0.325,53.0
+20064,Key passes,8,0.573,76.0
+20542,Key passes,8,1.034,44.0
+20669,Key passes,8,0.494,29.0
+21210,Key passes,8,1.125,97.0
+22819,Key passes,8,0.467,24.0
+23416,Key passes,8,0.992,36.0
+23785,Key passes,8,0.801,24.0
+23791,Key passes,8,1.067,49.0
+23800,Key passes,8,0.448,68.0
+23806,Key passes,8,0.996,58.0
+23816,Key passes,8,2.345,95.0
+23843,Key passes,8,0.084,96.0
+23848,Key passes,8,1.595,78.0
+23943,Key passes,8,1.757,86.0
+23994,Key passes,8,1.069,51.0
+24035,Key passes,8,1.056,48.0
+24070,Key passes,8,2.352,96.0
+24132,Key passes,8,0.849,93.0
+24138,Key passes,8,0.423,63.0
+24149,Key passes,8,1.794,86.0
+24173,Key passes,8,0.335,2.0
+24255,Key passes,8,0.048,70.0
+24263,Key passes,8,0.66,82.0
+24783,Key passes,8,0.793,42.0
+25134,Key passes,8,0.846,29.0
+25144,Key passes,8,0.0,22.0
+25707,Key passes,8,1.89,88.0
+25859,Key passes,8,2.854,99.0
+25881,Key passes,8,0.244,9.0
+25921,Key passes,8,0.792,22.0
+26009,Key passes,8,1.091,54.0
+26012,Key passes,8,0.0,2.0
+26020,Key passes,8,0.782,19.0
+26023,Key passes,8,0.287,48.0
+26087,Key passes,8,0.152,27.0
+26103,Key passes,8,0.035,65.0
+26211,Key passes,8,1.71,83.0
+26222,Key passes,8,0.254,44.0
+26448,Key passes,8,0.331,54.0
+26607,Key passes,8,0.427,20.0
+26633,Key passes,8,0.716,84.0
+26669,Key passes,8,0.2,36.0
+26685,Key passes,8,1.41,67.0
+26690,Key passes,8,0.785,20.0
+26723,Key passes,8,1.069,51.0
+26753,Key passes,8,0.0,22.0
+26780,Key passes,8,0.22,39.0
+26848,Key passes,8,1.788,85.0
+27054,Key passes,8,0.703,84.0
+27092,Key passes,8,0.875,94.0
+27109,Key passes,8,0.757,14.0
+27122,Key passes,8,0.121,5.0
+27144,Key passes,8,0.0,2.0
+27148,Key passes,8,1.254,68.0
+27184,Key passes,8,0.156,27.0
+27239,Key passes,8,0.052,8.0
+27241,Key passes,8,0.629,8.0
+27250,Key passes,8,0.848,31.0
+27305,Key passes,8,0.034,61.0
+27335,Key passes,8,0.417,62.0
+27341,Key passes,8,0.352,12.0
+27346,Key passes,8,0.634,35.0
+27347,Key passes,8,1.263,98.0
+27349,Key passes,8,0.107,20.0
+27403,Key passes,8,0.039,5.0
+27482,Key passes,8,0.057,9.0
+27483,Key passes,8,0.766,88.0
+27526,Key passes,8,0.971,56.0
+27656,Key passes,8,0.206,38.0
+3023,Progressive passes,9,14.464,83.0
+3063,Progressive passes,9,12.592,67.0
+3160,Progressive passes,9,7.287,25.0
+3253,Progressive passes,9,11.697,52.0
+3292,Progressive passes,9,7.086,22.0
+3302,Progressive passes,9,3.001,1.0
+3324,Progressive passes,9,12.197,63.0
+3379,Progressive passes,9,11.639,9.0
+3486,Progressive passes,9,1.963,16.0
+3497,Progressive passes,9,5.193,7.0
+3601,Progressive passes,9,4.319,4.0
+3610,Progressive passes,9,10.981,64.0
+3637,Progressive passes,9,11.927,70.0
+3638,Progressive passes,9,17.287,95.0
+4320,Progressive passes,9,5.965,82.0
+4324,Progressive passes,9,14.983,87.0
+4353,Progressive passes,9,16.81,94.0
+4406,Progressive passes,9,12.025,57.0
+4498,Progressive passes,9,10.868,35.0
+4546,Progressive passes,9,7.871,3.0
+4691,Progressive passes,9,13.502,52.0
+4711,Progressive passes,9,10.722,61.0
+4926,Progressive passes,9,10.872,64.0
+5199,Progressive passes,9,11.081,65.0
+5200,Progressive passes,9,7.031,91.0
+5201,Progressive passes,9,21.76,98.0
+5202,Progressive passes,9,12.552,66.0
+5203,Progressive passes,9,16.302,93.0
+5207,Progressive passes,9,2.605,33.0
+5211,Progressive passes,9,16.517,92.0
+5213,Progressive passes,9,23.046,99.0
+5216,Progressive passes,9,19.468,98.0
+5217,Progressive passes,9,3.533,53.0
+5246,Progressive passes,9,2.97,44.0
+5249,Progressive passes,9,11.195,43.0
+5259,Progressive passes,9,9.632,19.0
+5456,Progressive passes,9,11.831,69.0
+5463,Progressive passes,9,20.543,99.0
+5470,Progressive passes,9,11.97,71.0
+5485,Progressive passes,9,15.506,90.0
+5487,Progressive passes,9,5.562,78.0
+5503,Progressive passes,9,12.118,100.0
+5504,Progressive passes,9,18.525,95.0
+5506,Progressive passes,9,27.498,100.0
+5539,Progressive passes,9,12.687,79.0
+5552,Progressive passes,9,17.421,95.0
+5560,Progressive passes,9,6.714,88.0
+5574,Progressive passes,9,23.034,100.0
+5577,Progressive passes,9,12.487,39.0
+5582,Progressive passes,9,8.215,35.0
+5588,Progressive passes,9,8.429,6.0
+5597,Progressive passes,9,13.591,61.0
+5598,Progressive passes,9,8.985,10.0
+5633,Progressive passes,9,4.54,5.0
+5671,Progressive passes,9,7.109,23.0
+5678,Progressive passes,9,7.634,28.0
+5687,Progressive passes,9,3.116,46.0
+5695,Progressive passes,9,14.253,86.0
+5718,Progressive passes,9,2.71,36.0
+5719,Progressive passes,9,5.782,10.0
+5721,Progressive passes,9,13.085,73.0
+5724,Progressive passes,9,7.852,30.0
+5737,Progressive passes,9,12.225,74.0
+5741,Progressive passes,9,10.754,63.0
+6038,Progressive passes,9,1.422,5.0
+6320,Progressive passes,9,14.933,86.0
+6356,Progressive passes,9,9.877,99.0
+6357,Progressive passes,9,9.087,43.0
+6375,Progressive passes,9,8.4,5.0
+6376,Progressive passes,9,11.511,50.0
+6377,Progressive passes,9,4.708,68.0
+6378,Progressive passes,9,8.66,4.0
+6379,Progressive passes,9,10.575,60.0
+6381,Progressive passes,9,8.749,40.0
+6382,Progressive passes,9,1.69,8.0
+6384,Progressive passes,9,18.36,94.0
+6386,Progressive passes,9,10.82,34.0
+6389,Progressive passes,9,12.497,76.0
+6390,Progressive passes,9,4.766,71.0
+6391,Progressive passes,9,6.057,14.0
+6392,Progressive passes,9,6.418,86.0
+6393,Progressive passes,9,3.771,59.0
+6394,Progressive passes,9,2.725,39.0
+6396,Progressive passes,9,14.662,87.0
+6399,Progressive passes,9,6.332,85.0
+6401,Progressive passes,9,2.165,24.0
+6402,Progressive passes,9,2.042,19.0
+6557,Progressive passes,9,7.434,26.0
+6559,Progressive passes,9,6.309,17.0
+6561,Progressive passes,9,14.729,85.0
+6563,Progressive passes,9,6.23,15.0
+6566,Progressive passes,9,1.9,13.0
+6569,Progressive passes,9,12.814,70.0
+6573,Progressive passes,9,11.331,44.0
+6576,Progressive passes,9,19.099,100.0
+6580,Progressive passes,9,9.622,50.0
+6581,Progressive passes,9,4.151,64.0
+6592,Progressive passes,9,12.044,59.0
+6593,Progressive passes,9,12.163,61.0
+6594,Progressive passes,9,2.994,45.0
+6595,Progressive passes,9,17.123,93.0
+6596,Progressive passes,9,12.192,62.0
+6599,Progressive passes,9,13.066,82.0
+6602,Progressive passes,9,1.278,2.0
+6605,Progressive passes,9,11.876,55.0
+6608,Progressive passes,9,3.877,2.0
+6609,Progressive passes,9,6.389,18.0
+6610,Progressive passes,9,11.825,22.0
+6612,Progressive passes,9,9.463,16.0
+6614,Progressive passes,9,11.459,48.0
+6622,Progressive passes,9,10.477,57.0
+6624,Progressive passes,9,4.747,69.0
+6625,Progressive passes,9,11.813,17.0
+6626,Progressive passes,9,6.291,16.0
+6627,Progressive passes,9,16.57,93.0
+6630,Progressive passes,9,3.444,52.0
+6633,Progressive passes,9,7.567,27.0
+6647,Progressive passes,9,13.788,77.0
+6649,Progressive passes,9,9.2,11.0
+6651,Progressive passes,9,5.537,8.0
+6654,Progressive passes,9,11.743,13.0
+6659,Progressive passes,9,8.166,33.0
+6663,Progressive passes,9,14.035,80.0
+6665,Progressive passes,9,13.999,80.0
+6666,Progressive passes,9,2.914,42.0
+6668,Progressive passes,9,5.755,9.0
+6669,Progressive passes,9,9.396,98.0
+6671,Progressive passes,9,15.417,91.0
+6672,Progressive passes,9,9.845,23.0
+6673,Progressive passes,9,6.426,19.0
+6674,Progressive passes,9,12.192,62.0
+6675,Progressive passes,9,11.423,48.0
+6677,Progressive passes,9,2.242,26.0
+6679,Progressive passes,9,12.069,59.0
+6680,Progressive passes,9,10.515,58.0
+6685,Progressive passes,9,4.455,67.0
+6690,Progressive passes,9,8.742,39.0
+6694,Progressive passes,9,17.281,87.0
+6697,Progressive passes,9,12.631,78.0
+6699,Progressive passes,9,12.899,71.0
+6700,Progressive passes,9,2.516,31.0
+6702,Progressive passes,9,10.656,33.0
+6707,Progressive passes,9,2.582,32.0
+6712,Progressive passes,9,8.433,36.0
+6713,Progressive passes,9,12.159,60.0
+6718,Progressive passes,9,11.188,41.0
+6720,Progressive passes,9,5.924,12.0
+6721,Progressive passes,9,2.241,25.0
+6724,Progressive passes,9,7.818,94.0
+6727,Progressive passes,9,12.968,73.0
+6728,Progressive passes,9,5.876,80.0
+6730,Progressive passes,9,12.473,35.0
+6732,Progressive passes,9,2.774,40.0
+6733,Progressive passes,9,12.01,72.0
+6734,Progressive passes,9,5.8,1.0
+6736,Progressive passes,9,8.868,42.0
+6738,Progressive passes,9,8.423,5.0
+6740,Progressive passes,9,6.839,20.0
+6742,Progressive passes,9,4.906,73.0
+6744,Progressive passes,9,2.097,22.0
+6745,Progressive passes,9,11.084,66.0
+6751,Progressive passes,9,13.946,85.0
+6752,Progressive passes,9,15.095,88.0
+6758,Progressive passes,9,6.889,21.0
+6761,Progressive passes,9,2.714,38.0
+6762,Progressive passes,9,13.492,77.0
+6764,Progressive passes,9,8.528,37.0
+6766,Progressive passes,9,3.224,48.0
+6771,Progressive passes,9,14.98,89.0
+6772,Progressive passes,9,13.963,79.0
+6775,Progressive passes,9,13.151,83.0
+6776,Progressive passes,9,12.516,66.0
+6777,Progressive passes,9,10.969,38.0
+6778,Progressive passes,9,12.363,65.0
+6784,Progressive passes,9,10.538,32.0
+6787,Progressive passes,9,11.465,49.0
+6788,Progressive passes,9,11.587,51.0
+6789,Progressive passes,9,8.557,9.0
+6791,Progressive passes,9,10.914,37.0
+6792,Progressive passes,9,12.001,30.0
+6794,Progressive passes,9,18.375,97.0
+6796,Progressive passes,9,10.727,62.0
+6797,Progressive passes,9,12.32,75.0
+6801,Progressive passes,9,11.803,68.0
+6802,Progressive passes,9,13.93,78.0
+6804,Progressive passes,9,15.891,91.0
+6805,Progressive passes,9,12.73,68.0
+6823,Progressive passes,9,12.89,43.0
+6825,Progressive passes,9,11.097,39.0
+6827,Progressive passes,9,14.231,82.0
+6828,Progressive passes,9,10.818,34.0
+6829,Progressive passes,9,4.864,6.0
+6832,Progressive passes,9,2.087,20.0
+6837,Progressive passes,9,8.55,8.0
+6838,Progressive passes,9,3.984,61.0
+6841,Progressive passes,9,5.97,84.0
+6842,Progressive passes,9,7.444,92.0
+6847,Progressive passes,9,1.836,12.0
+6852,Progressive passes,9,9.938,51.0
+6856,Progressive passes,9,9.782,20.0
+6861,Progressive passes,9,11.117,40.0
+6862,Progressive passes,9,1.913,14.0
+6865,Progressive passes,9,12.026,58.0
+6867,Progressive passes,9,10.554,59.0
+6869,Progressive passes,9,7.786,2.0
+6872,Progressive passes,9,9.218,12.0
+6873,Progressive passes,9,9.511,49.0
+6878,Progressive passes,9,10.328,27.0
+6880,Progressive passes,9,2.692,35.0
+6884,Progressive passes,9,14.828,65.0
+6898,Progressive passes,9,11.856,26.0
+6899,Progressive passes,9,12.577,77.0
+6907,Progressive passes,9,4.388,66.0
+6913,Progressive passes,9,13.185,75.0
+6914,Progressive passes,9,10.898,36.0
+6918,Progressive passes,9,2.096,21.0
+6926,Progressive passes,9,7.239,24.0
+6927,Progressive passes,9,15.413,88.0
+6928,Progressive passes,9,7.746,29.0
+6929,Progressive passes,9,10.181,53.0
+6932,Progressive passes,9,10.334,28.0
+6934,Progressive passes,9,9.338,47.0
+6935,Progressive passes,9,11.858,55.0
+7005,Progressive passes,9,11.38,47.0
+7034,Progressive passes,9,11.708,53.0
+7105,Progressive passes,9,8.351,95.0
+7141,Progressive passes,9,3.738,58.0
+7154,Progressive passes,9,12.223,73.0
+7158,Progressive passes,9,11.36,45.0
+7161,Progressive passes,9,9.342,13.0
+7577,Progressive passes,9,14.225,81.0
+7781,Progressive passes,9,1.764,9.0
+7782,Progressive passes,9,4.866,7.0
+7900,Progressive passes,9,3.56,54.0
+7906,Progressive passes,9,9.845,23.0
+7907,Progressive passes,9,11.193,42.0
+8167,Progressive passes,9,1.991,18.0
+8234,Progressive passes,9,11.383,67.0
+8419,Progressive passes,9,2.33,28.0
+8440,Progressive passes,9,17.431,96.0
+8522,Progressive passes,9,3.597,55.0
+8523,Progressive passes,9,4.884,72.0
+8584,Progressive passes,9,1.823,11.0
+8697,Progressive passes,9,13.516,57.0
+8801,Progressive passes,9,9.809,21.0
+8818,Progressive passes,9,9.576,18.0
+10037,Progressive passes,9,5.939,13.0
+10476,Progressive passes,9,15.467,89.0
+10609,Progressive passes,9,12.958,72.0
+10755,Progressive passes,9,9.15,45.0
+10763,Progressive passes,9,13.472,48.0
+10802,Progressive passes,9,10.084,52.0
+11298,Progressive passes,9,14.548,84.0
+11539,Progressive passes,9,4.13,62.0
+11542,Progressive passes,9,2.463,29.0
+11634,Progressive passes,9,9.536,17.0
+11675,Progressive passes,9,7.874,31.0
+13107,Progressive passes,9,9.318,46.0
+15805,Progressive passes,9,10.387,55.0
+15893,Progressive passes,9,5.921,11.0
+16332,Progressive passes,9,9.913,25.0
+16456,Progressive passes,9,11.365,45.0
+16539,Progressive passes,9,11.651,52.0
+16622,Progressive passes,9,10.345,29.0
+17054,Progressive passes,9,8.784,9.0
+18398,Progressive passes,9,8.822,41.0
+18724,Progressive passes,9,5.176,74.0
+18867,Progressive passes,9,4.302,3.0
+18925,Progressive passes,9,9.709,50.0
+19431,Progressive passes,9,14.927,88.0
+19454,Progressive passes,9,9.497,16.0
+19668,Progressive passes,9,12.722,79.0
+19677,Progressive passes,9,3.701,56.0
+20016,Progressive passes,9,16.375,91.0
+20064,Progressive passes,9,11.773,54.0
+20542,Progressive passes,9,3.25,49.0
+20669,Progressive passes,9,15.905,92.0
+21210,Progressive passes,9,8.026,4.0
+22819,Progressive passes,9,15.162,90.0
+23416,Progressive passes,9,1.465,6.0
+23785,Progressive passes,9,3.205,47.0
+23791,Progressive passes,9,4.268,65.0
+23800,Progressive passes,9,8.511,7.0
+23806,Progressive passes,9,10.403,56.0
+23816,Progressive passes,9,9.378,96.0
+23843,Progressive passes,9,18.53,96.0
+23848,Progressive passes,9,6.451,87.0
+23943,Progressive passes,9,5.941,81.0
+23994,Progressive passes,9,5.183,75.0
+24035,Progressive passes,9,1.275,1.0
+24070,Progressive passes,9,5.324,76.0
+24132,Progressive passes,9,12.826,70.0
+24138,Progressive passes,9,10.454,30.0
+24149,Progressive passes,9,12.843,80.0
+24173,Progressive passes,9,1.341,4.0
+24255,Progressive passes,9,16.831,78.0
+24263,Progressive passes,9,10.184,27.0
+24783,Progressive passes,9,10.241,54.0
+25134,Progressive passes,9,2.821,41.0
+25144,Progressive passes,9,15.291,74.0
+25707,Progressive passes,9,13.645,84.0
+25859,Progressive passes,9,12.922,81.0
+25881,Progressive passes,9,8.569,38.0
+25921,Progressive passes,9,6.734,89.0
+26009,Progressive passes,9,3.352,51.0
+26012,Progressive passes,9,11.019,38.0
+26020,Progressive passes,9,3.911,60.0
+26023,Progressive passes,9,14.651,84.0
+26087,Progressive passes,9,9.347,14.0
+26103,Progressive passes,9,14.832,70.0
+26211,Progressive passes,9,6.84,21.0
+26222,Progressive passes,9,20.672,98.0
+26448,Progressive passes,9,13.141,74.0
+26607,Progressive passes,9,9.109,44.0
+26633,Progressive passes,9,13.214,76.0
+26669,Progressive passes,9,12.339,64.0
+26685,Progressive passes,9,2.256,27.0
+26690,Progressive passes,9,1.918,15.0
+26723,Progressive passes,9,5.626,79.0
+26753,Progressive passes,9,17.383,91.0
+26780,Progressive passes,9,11.172,41.0
+26848,Progressive passes,9,19.442,97.0
+27054,Progressive passes,9,10.487,31.0
+27092,Progressive passes,9,11.369,46.0
+27109,Progressive passes,9,2.651,34.0
+27122,Progressive passes,9,9.486,48.0
+27144,Progressive passes,9,11.967,56.0
+27148,Progressive passes,9,8.388,36.0
+27184,Progressive passes,9,9.373,15.0
+27239,Progressive passes,9,7.409,2.0
+27241,Progressive passes,9,7.767,93.0
+27250,Progressive passes,9,1.526,7.0
+27305,Progressive passes,9,17.214,83.0
+27335,Progressive passes,9,12.758,69.0
+27341,Progressive passes,9,19.014,96.0
+27346,Progressive passes,9,8.201,34.0
+27347,Progressive passes,9,9.651,20.0
+27349,Progressive passes,9,10.039,26.0
+27403,Progressive passes,9,9.307,12.0
+27482,Progressive passes,9,10.448,30.0
+27483,Progressive passes,9,9.833,22.0
+27526,Progressive passes,9,8.094,32.0
+27656,Progressive passes,9,9.906,24.0
+3023,Passes into final third,10,4.869,95.0
+3063,Passes into final third,10,3.799,79.0
+3160,Passes into final third,10,1.613,5.0
+3253,Passes into final third,10,2.619,48.0
+3292,Passes into final third,10,2.312,15.0
+3302,Passes into final third,10,0.706,1.0
+3324,Passes into final third,10,1.471,15.0
+3379,Passes into final third,10,0.662,35.0
+3486,Passes into final third,10,0.906,21.0
+3497,Passes into final third,10,1.714,8.0
+3601,Passes into final third,10,1.699,7.0
+3610,Passes into final third,10,4.604,69.0
+3637,Passes into final third,10,2.791,26.0
+3638,Passes into final third,10,2.816,54.0
+4320,Passes into final third,10,3.097,94.0
+4324,Passes into final third,10,5.838,98.0
+4353,Passes into final third,10,3.661,77.0
+4406,Passes into final third,10,1.217,7.0
+4498,Passes into final third,10,1.238,8.0
+4546,Passes into final third,10,2.474,42.0
+4691,Passes into final third,10,0.304,9.0
+4711,Passes into final third,10,3.987,58.0
+4926,Passes into final third,10,4.311,64.0
+5199,Passes into final third,10,4.732,72.0
+5200,Passes into final third,10,1.81,72.0
+5201,Passes into final third,10,4.28,88.0
+5202,Passes into final third,10,2.092,30.0
+5203,Passes into final third,10,7.168,93.0
+5207,Passes into final third,10,1.508,58.0
+5211,Passes into final third,10,4.526,93.0
+5213,Passes into final third,10,5.057,96.0
+5216,Passes into final third,10,9.831,100.0
+5217,Passes into final third,10,1.618,65.0
+5246,Passes into final third,10,1.027,29.0
+5249,Passes into final third,10,1.707,21.0
+5259,Passes into final third,10,2.184,34.0
+5456,Passes into final third,10,4.55,68.0
+5463,Passes into final third,10,8.713,99.0
+5470,Passes into final third,10,5.491,80.0
+5485,Passes into final third,10,1.315,11.0
+5487,Passes into final third,10,2.997,93.0
+5503,Passes into final third,10,6.059,100.0
+5504,Passes into final third,10,7.207,94.0
+5506,Passes into final third,10,6.866,100.0
+5539,Passes into final third,10,5.064,77.0
+5552,Passes into final third,10,5.995,98.0
+5560,Passes into final third,10,2.482,86.0
+5574,Passes into final third,10,8.211,98.0
+5577,Passes into final third,10,0.638,30.0
+5582,Passes into final third,10,4.108,62.0
+5588,Passes into final third,10,2.043,27.0
+5597,Passes into final third,10,0.199,4.0
+5598,Passes into final third,10,2.174,33.0
+5633,Passes into final third,10,1.63,6.0
+5671,Passes into final third,10,2.052,12.0
+5678,Passes into final third,10,3.248,36.0
+5687,Passes into final third,10,1.45,54.0
+5695,Passes into final third,10,5.54,81.0
+5718,Passes into final third,10,1.26,44.0
+5719,Passes into final third,10,2.999,31.0
+5721,Passes into final third,10,3.593,77.0
+5724,Passes into final third,10,4.46,67.0
+5737,Passes into final third,10,3.244,36.0
+5741,Passes into final third,10,4.006,59.0
+6038,Passes into final third,10,0.61,7.0
+6320,Passes into final third,10,5.642,97.0
+6356,Passes into final third,10,3.775,98.0
+6357,Passes into final third,10,3.327,38.0
+6375,Passes into final third,10,1.978,27.0
+6376,Passes into final third,10,1.3,10.0
+6377,Passes into final third,10,1.421,52.0
+6378,Passes into final third,10,0.584,17.0
+6379,Passes into final third,10,3.646,47.0
+6381,Passes into final third,10,3.76,51.0
+6382,Passes into final third,10,0.768,13.0
+6384,Passes into final third,10,7.907,97.0
+6386,Passes into final third,10,3.822,80.0
+6389,Passes into final third,10,4.338,65.0
+6390,Passes into final third,10,1.925,74.0
+6391,Passes into final third,10,3.414,41.0
+6392,Passes into final third,10,1.493,56.0
+6393,Passes into final third,10,1.148,36.0
+6394,Passes into final third,10,1.566,62.0
+6396,Passes into final third,10,7.603,96.0
+6399,Passes into final third,10,2.584,87.0
+6401,Passes into final third,10,0.708,11.0
+6402,Passes into final third,10,0.681,9.0
+6557,Passes into final third,10,3.698,49.0
+6559,Passes into final third,10,2.357,17.0
+6561,Passes into final third,10,2.154,32.0
+6563,Passes into final third,10,1.987,10.0
+6566,Passes into final third,10,0.781,14.0
+6569,Passes into final third,10,4.205,87.0
+6573,Passes into final third,10,1.554,17.0
+6576,Passes into final third,10,2.813,100.0
+6580,Passes into final third,10,4.097,61.0
+6581,Passes into final third,10,1.74,68.0
+6592,Passes into final third,10,2.298,35.0
+6593,Passes into final third,10,3.283,70.0
+6594,Passes into final third,10,1.275,45.0
+6595,Passes into final third,10,6.152,91.0
+6596,Passes into final third,10,2.523,44.0
+6599,Passes into final third,10,4.825,74.0
+6602,Passes into final third,10,0.559,6.0
+6605,Passes into final third,10,4.75,94.0
+6608,Passes into final third,10,1.275,3.0
+6609,Passes into final third,10,2.446,21.0
+6610,Passes into final third,10,1.599,91.0
+6612,Passes into final third,10,2.098,30.0
+6614,Passes into final third,10,1.674,20.0
+6622,Passes into final third,10,2.91,29.0
+6624,Passes into final third,10,1.554,61.0
+6625,Passes into final third,10,0.915,61.0
+6626,Passes into final third,10,3.146,34.0
+6627,Passes into final third,10,6.007,99.0
+6630,Passes into final third,10,1.955,75.0
+6633,Passes into final third,10,2.781,25.0
+6647,Passes into final third,10,2.792,52.0
+6649,Passes into final third,10,2.956,60.0
+6651,Passes into final third,10,2.188,14.0
+6654,Passes into final third,10,1.404,83.0
+6659,Passes into final third,10,3.529,44.0
+6663,Passes into final third,10,3.98,83.0
+6665,Passes into final third,10,3.958,82.0
+6666,Passes into final third,10,0.537,4.0
+6668,Passes into final third,10,1.733,9.0
+6669,Passes into final third,10,3.758,96.0
+6671,Passes into final third,10,5.567,83.0
+6672,Passes into final third,10,3.498,73.0
+6673,Passes into final third,10,2.337,16.0
+6674,Passes into final third,10,3.693,78.0
+6675,Passes into final third,10,3.548,75.0
+6677,Passes into final third,10,0.972,25.0
+6679,Passes into final third,10,2.824,55.0
+6680,Passes into final third,10,5.928,88.0
+6685,Passes into final third,10,1.388,49.0
+6690,Passes into final third,10,3.731,50.0
+6694,Passes into final third,10,1.172,78.0
+6697,Passes into final third,10,5.559,82.0
+6699,Passes into final third,10,4.151,86.0
+6700,Passes into final third,10,1.042,32.0
+6702,Passes into final third,10,1.48,16.0
+6707,Passes into final third,10,1.073,34.0
+6712,Passes into final third,10,3.1,33.0
+6713,Passes into final third,10,2.964,61.0
+6718,Passes into final third,10,2.964,61.0
+6720,Passes into final third,10,2.39,19.0
+6721,Passes into final third,10,1.195,39.0
+6724,Passes into final third,10,2.676,88.0
+6727,Passes into final third,10,2.444,41.0
+6728,Passes into final third,10,2.131,80.0
+6730,Passes into final third,10,1.093,74.0
+6732,Passes into final third,10,1.221,41.0
+6733,Passes into final third,10,5.106,79.0
+6734,Passes into final third,10,1.411,12.0
+6736,Passes into final third,10,3.876,54.0
+6738,Passes into final third,10,3.036,63.0
+6740,Passes into final third,10,2.425,20.0
+6742,Passes into final third,10,1.749,69.0
+6744,Passes into final third,10,0.547,5.0
+6745,Passes into final third,10,4.283,64.0
+6751,Passes into final third,10,3.912,57.0
+6752,Passes into final third,10,2.371,38.0
+6758,Passes into final third,10,2.588,22.0
+6761,Passes into final third,10,1.425,53.0
+6762,Passes into final third,10,3.528,73.0
+6764,Passes into final third,10,3.372,39.0
+6766,Passes into final third,10,1.544,59.0
+6771,Passes into final third,10,4.432,66.0
+6772,Passes into final third,10,4.071,85.0
+6775,Passes into final third,10,5.175,79.0
+6776,Passes into final third,10,3.851,81.0
+6777,Passes into final third,10,2.645,51.0
+6778,Passes into final third,10,1.939,25.0
+6784,Passes into final third,10,2.625,49.0
+6787,Passes into final third,10,3.084,66.0
+6788,Passes into final third,10,1.575,19.0
+6789,Passes into final third,10,2.513,43.0
+6791,Passes into final third,10,3.399,72.0
+6792,Passes into final third,10,0.923,65.0
+6794,Passes into final third,10,1.268,9.0
+6796,Passes into final third,10,3.831,53.0
+6797,Passes into final third,10,5.609,84.0
+6801,Passes into final third,10,5.959,89.0
+6802,Passes into final third,10,4.379,90.0
+6804,Passes into final third,10,1.159,6.0
+6805,Passes into final third,10,3.574,76.0
+6823,Passes into final third,10,0.482,13.0
+6825,Passes into final third,10,1.644,20.0
+6827,Passes into final third,10,2.935,59.0
+6828,Passes into final third,10,2.93,59.0
+6829,Passes into final third,10,1.382,4.0
+6832,Passes into final third,10,0.902,20.0
+6837,Passes into final third,10,1.717,22.0
+6838,Passes into final third,10,1.601,64.0
+6841,Passes into final third,10,1.397,51.0
+6842,Passes into final third,10,2.995,92.0
+6847,Passes into final third,10,0.839,15.0
+6852,Passes into final third,10,3.891,55.0
+6856,Passes into final third,10,2.847,56.0
+6861,Passes into final third,10,2.087,29.0
+6862,Passes into final third,10,0.933,22.0
+6865,Passes into final third,10,3.28,69.0
+6867,Passes into final third,10,4.067,60.0
+6869,Passes into final third,10,1.557,18.0
+6872,Passes into final third,10,0.771,2.0
+6873,Passes into final third,10,3.911,56.0
+6878,Passes into final third,10,2.881,57.0
+6880,Passes into final third,10,0.897,19.0
+6884,Passes into final third,10,0.764,43.0
+6898,Passes into final third,10,0.624,26.0
+6899,Passes into final third,10,5.655,85.0
+6907,Passes into final third,10,2.003,78.0
+6913,Passes into final third,10,4.395,91.0
+6914,Passes into final third,10,2.383,39.0
+6918,Passes into final third,10,0.867,18.0
+6926,Passes into final third,10,3.656,48.0
+6927,Passes into final third,10,2.605,47.0
+6928,Passes into final third,10,3.29,37.0
+6929,Passes into final third,10,2.841,27.0
+6932,Passes into final third,10,3.135,67.0
+6934,Passes into final third,10,3.596,46.0
+6935,Passes into final third,10,2.801,52.0
+7005,Passes into final third,10,3.369,71.0
+7034,Passes into final third,10,1.119,5.0
+7105,Passes into final third,10,3.455,95.0
+7141,Passes into final third,10,2.136,81.0
+7154,Passes into final third,10,3.752,50.0
+7158,Passes into final third,10,2.555,45.0
+7161,Passes into final third,10,1.083,5.0
+7577,Passes into final third,10,4.468,92.0
+7781,Passes into final third,10,0.985,26.0
+7782,Passes into final third,10,1.705,7.0
+7900,Passes into final third,10,1.252,42.0
+7906,Passes into final third,10,2.567,46.0
+7907,Passes into final third,10,1.034,3.0
+8167,Passes into final third,10,0.995,27.0
+8234,Passes into final third,10,4.674,71.0
+8419,Passes into final third,10,1.036,31.0
+8440,Passes into final third,10,2.368,37.0
+8522,Passes into final third,10,1.062,33.0
+8523,Passes into final third,10,1.38,48.0
+8584,Passes into final third,10,0.751,12.0
+8697,Passes into final third,10,0.78,57.0
+8801,Passes into final third,10,2.906,58.0
+8818,Passes into final third,10,0.761,1.0
+10037,Passes into final third,10,2.618,23.0
+10476,Passes into final third,10,2.839,55.0
+10609,Passes into final third,10,3.017,62.0
+10755,Passes into final third,10,4.154,63.0
+10763,Passes into final third,10,1.677,96.0
+10802,Passes into final third,10,5.06,76.0
+11298,Passes into final third,10,4.421,91.0
+11539,Passes into final third,10,1.139,35.0
+11542,Passes into final third,10,1.002,28.0
+11634,Passes into final third,10,3.545,74.0
+11675,Passes into final third,10,3.52,43.0
+13107,Passes into final third,10,2.987,30.0
+15805,Passes into final third,10,2.04,11.0
+15893,Passes into final third,10,2.125,13.0
+16332,Passes into final third,10,3.05,64.0
+16456,Passes into final third,10,1.434,13.0
+16539,Passes into final third,10,2.526,45.0
+16622,Passes into final third,10,1.743,23.0
+17054,Passes into final third,10,2.151,31.0
+18398,Passes into final third,10,3.412,40.0
+18724,Passes into final third,10,2.384,84.0
+18867,Passes into final third,10,0.946,2.0
+18925,Passes into final third,10,3.575,45.0
+19431,Passes into final third,10,4.741,73.0
+19454,Passes into final third,10,1.04,4.0
+19668,Passes into final third,10,3.789,52.0
+19677,Passes into final third,10,1.962,76.0
+20016,Passes into final third,10,2.644,50.0
+20064,Passes into final third,10,3.351,70.0
+20542,Passes into final third,10,1.551,60.0
+20669,Passes into final third,10,5.851,86.0
+21210,Passes into final third,10,1.789,23.0
+22819,Passes into final third,10,5.865,87.0
+23416,Passes into final third,10,0.614,8.0
+23785,Passes into final third,10,1.311,46.0
+23791,Passes into final third,10,2.401,85.0
+23800,Passes into final third,10,2.352,36.0
+23806,Passes into final third,10,4.828,75.0
+23816,Passes into final third,10,3.883,99.0
+23843,Passes into final third,10,1.006,70.0
+23848,Passes into final third,10,2.972,91.0
+23943,Passes into final third,10,1.757,71.0
+23994,Passes into final third,10,1.316,47.0
+24035,Passes into final third,10,0.308,1.0
+24070,Passes into final third,10,2.043,79.0
+24132,Passes into final third,10,4.055,84.0
+24138,Passes into final third,10,1.947,26.0
+24149,Passes into final third,10,4.648,70.0
+24173,Passes into final third,10,0.419,2.0
+24255,Passes into final third,10,0.769,48.0
+24263,Passes into final third,10,3.823,80.0
+24783,Passes into final third,10,6.078,90.0
+25134,Passes into final third,10,1.169,38.0
+25144,Passes into final third,10,0.594,22.0
+25707,Passes into final third,10,5.08,78.0
+25859,Passes into final third,10,6.183,92.0
+25881,Passes into final third,10,2.856,28.0
+25921,Passes into final third,10,2.377,82.0
+26009,Passes into final third,10,1.715,67.0
+26012,Passes into final third,10,2.431,41.0
+26020,Passes into final third,10,1.825,73.0
+26023,Passes into final third,10,4.884,95.0
+26087,Passes into final third,10,1.9,24.0
+26103,Passes into final third,10,0.773,52.0
+26211,Passes into final third,10,3.04,32.0
+26222,Passes into final third,10,4.317,89.0
+26448,Passes into final third,10,2.816,54.0
+26607,Passes into final third,10,2.704,24.0
+26633,Passes into final third,10,3.223,68.0
+26669,Passes into final third,10,2.368,37.0
+26685,Passes into final third,10,0.959,24.0
+26690,Passes into final third,10,1.22,40.0
+26723,Passes into final third,10,1.674,66.0
+26753,Passes into final third,10,0.704,39.0
+26780,Passes into final third,10,4.042,84.0
+26848,Passes into final third,10,7.235,95.0
+27054,Passes into final third,10,2.43,40.0
+27092,Passes into final third,10,2.624,48.0
+27109,Passes into final third,10,1.48,55.0
+27122,Passes into final third,10,2.492,21.0
+27144,Passes into final third,10,1.255,9.0
+27148,Passes into final third,10,3.214,35.0
+27184,Passes into final third,10,2.265,34.0
+27239,Passes into final third,10,1.451,14.0
+27241,Passes into final third,10,2.828,89.0
+27250,Passes into final third,10,0.848,16.0
+27305,Passes into final third,10,1.426,87.0
+27335,Passes into final third,10,4.253,88.0
+27341,Passes into final third,10,6.602,93.0
+27346,Passes into final third,10,2.386,18.0
+27347,Passes into final third,10,3.133,66.0
+27349,Passes into final third,10,1.388,12.0
+27403,Passes into final third,10,1.499,16.0
+27482,Passes into final third,10,0.971,2.0
+27483,Passes into final third,10,3.063,65.0
+27526,Passes into final third,10,3.48,42.0
+27656,Passes into final third,10,2.064,28.0
+3023,Progressive carries,11,5.72,90.0
+3063,Progressive carries,11,4.525,80.0
+3160,Progressive carries,11,1.852,10.0
+3253,Progressive carries,11,3.229,52.0
+3292,Progressive carries,11,2.387,22.0
+3302,Progressive carries,11,7.854,96.0
+3324,Progressive carries,11,2.422,30.0
+3379,Progressive carries,11,0.962,43.0
+3486,Progressive carries,11,0.982,1.0
+3497,Progressive carries,11,1.412,2.0
+3601,Progressive carries,11,7.931,97.0
+3610,Progressive carries,11,7.031,90.0
+3637,Progressive carries,11,2.599,31.0
+3638,Progressive carries,11,3.496,62.0
+4320,Progressive carries,11,9.234,99.0
+4324,Progressive carries,11,5.511,86.0
+4353,Progressive carries,11,5.079,84.0
+4406,Progressive carries,11,3.275,53.0
+4498,Progressive carries,11,1.238,10.0
+4546,Progressive carries,11,3.992,73.0
+4691,Progressive carries,11,0.578,13.0
+4711,Progressive carries,11,4.445,67.0
+4926,Progressive carries,11,6.753,88.0
+5199,Progressive carries,11,3.145,43.0
+5200,Progressive carries,11,4.804,66.0
+5201,Progressive carries,11,3.694,66.0
+5202,Progressive carries,11,0.822,2.0
+5203,Progressive carries,11,3.781,61.0
+5207,Progressive carries,11,5.593,75.0
+5211,Progressive carries,11,3.817,70.0
+5213,Progressive carries,11,8.214,99.0
+5216,Progressive carries,11,6.866,89.0
+5217,Progressive carries,11,3.599,42.0
+5246,Progressive carries,11,2.387,28.0
+5249,Progressive carries,11,2.2,27.0
+5259,Progressive carries,11,1.396,12.0
+5456,Progressive carries,11,5.378,79.0
+5463,Progressive carries,11,5.731,82.0
+5470,Progressive carries,11,2.967,41.0
+5485,Progressive carries,11,1.913,20.0
+5487,Progressive carries,11,3.631,44.0
+5503,Progressive carries,11,7.31,91.0
+5504,Progressive carries,11,6.547,87.0
+5506,Progressive carries,11,8.2,98.0
+5539,Progressive carries,11,1.65,7.0
+5552,Progressive carries,11,6.595,97.0
+5560,Progressive carries,11,5.504,74.0
+5574,Progressive carries,11,3.291,48.0
+5577,Progressive carries,11,1.641,78.0
+5582,Progressive carries,11,1.552,6.0
+5588,Progressive carries,11,1.532,14.0
+5597,Progressive carries,11,0.513,9.0
+5598,Progressive carries,11,1.304,12.0
+5633,Progressive carries,11,10.768,100.0
+5671,Progressive carries,11,3.439,52.0
+5678,Progressive carries,11,2.404,24.0
+5687,Progressive carries,11,4.137,56.0
+5695,Progressive carries,11,5.193,75.0
+5718,Progressive carries,11,4.411,64.0
+5719,Progressive carries,11,7.421,93.0
+5721,Progressive carries,11,5.577,87.0
+5724,Progressive carries,11,2.963,40.0
+5737,Progressive carries,11,2.727,32.0
+5741,Progressive carries,11,5.342,77.0
+6038,Progressive carries,11,1.355,9.0
+6320,Progressive carries,11,7.666,98.0
+6356,Progressive carries,11,5.12,69.0
+6357,Progressive carries,11,2.731,34.0
+6375,Progressive carries,11,3.354,59.0
+6376,Progressive carries,11,1.207,8.0
+6377,Progressive carries,11,5.952,82.0
+6378,Progressive carries,11,0.787,30.0
+6379,Progressive carries,11,4.877,70.0
+6381,Progressive carries,11,3.499,53.0
+6382,Progressive carries,11,4.149,58.0
+6384,Progressive carries,11,3.302,49.0
+6386,Progressive carries,11,5.292,85.0
+6389,Progressive carries,11,2.396,23.0
+6390,Progressive carries,11,3.529,41.0
+6391,Progressive carries,11,2.57,28.0
+6392,Progressive carries,11,5.821,80.0
+6393,Progressive carries,11,3.771,47.0
+6394,Progressive carries,11,1.973,24.0
+6396,Progressive carries,11,3.349,50.0
+6399,Progressive carries,11,6.586,85.0
+6401,Progressive carries,11,4.122,55.0
+6402,Progressive carries,11,1.146,5.0
+6557,Progressive carries,11,1.495,3.0
+6559,Progressive carries,11,3.744,59.0
+6561,Progressive carries,11,2.235,28.0
+6563,Progressive carries,11,5.317,76.0
+6566,Progressive carries,11,1.222,8.0
+6569,Progressive carries,11,3.359,59.0
+6573,Progressive carries,11,1.23,9.0
+6576,Progressive carries,11,1.929,96.0
+6580,Progressive carries,11,3.811,62.0
+6581,Progressive carries,11,6.745,87.0
+6592,Progressive carries,11,2.06,23.0
+6593,Progressive carries,11,2.761,37.0
+6594,Progressive carries,11,3.826,48.0
+6595,Progressive carries,11,3.551,54.0
+6596,Progressive carries,11,4.324,77.0
+6599,Progressive carries,11,2.817,36.0
+6602,Progressive carries,11,1.917,22.0
+6605,Progressive carries,11,3.8,70.0
+6608,Progressive carries,11,4.999,74.0
+6609,Progressive carries,11,7.631,95.0
+6610,Progressive carries,11,1.388,57.0
+6612,Progressive carries,11,2.704,36.0
+6614,Progressive carries,11,1.545,15.0
+6622,Progressive carries,11,1.852,10.0
+6624,Progressive carries,11,8.113,95.0
+6625,Progressive carries,11,1.499,65.0
+6626,Progressive carries,11,4.996,73.0
+6627,Progressive carries,11,2.542,33.0
+6630,Progressive carries,11,1.862,21.0
+6633,Progressive carries,11,1.876,11.0
+6647,Progressive carries,11,3.861,71.0
+6649,Progressive carries,11,4.555,80.0
+6651,Progressive carries,11,6.073,85.0
+6654,Progressive carries,11,1.647,83.0
+6659,Progressive carries,11,3.939,64.0
+6663,Progressive carries,11,3.142,48.0
+6665,Progressive carries,11,6.533,96.0
+6666,Progressive carries,11,3.988,52.0
+6668,Progressive carries,11,8.306,99.0
+6669,Progressive carries,11,3.837,49.0
+6671,Progressive carries,11,3.762,60.0
+6672,Progressive carries,11,4.148,75.0
+6673,Progressive carries,11,4.674,68.0
+6674,Progressive carries,11,2.996,44.0
+6675,Progressive carries,11,3.375,60.0
+6677,Progressive carries,11,1.121,4.0
+6679,Progressive carries,11,3.597,64.0
+6680,Progressive carries,11,4.728,69.0
+6685,Progressive carries,11,4.397,62.0
+6690,Progressive carries,11,2.561,27.0
+6694,Progressive carries,11,0.709,22.0
+6697,Progressive carries,11,6.213,86.0
+6699,Progressive carries,11,5.655,89.0
+6700,Progressive carries,11,1.833,20.0
+6702,Progressive carries,11,1.151,6.0
+6707,Progressive carries,11,1.508,13.0
+6712,Progressive carries,11,1.736,8.0
+6713,Progressive carries,11,3.509,63.0
+6718,Progressive carries,11,4.297,76.0
+6720,Progressive carries,11,8.176,98.0
+6721,Progressive carries,11,1.444,12.0
+6724,Progressive carries,11,5.177,71.0
+6727,Progressive carries,11,1.969,21.0
+6728,Progressive carries,11,6.91,89.0
+6730,Progressive carries,11,1.157,48.0
+6732,Progressive carries,11,4.162,59.0
+6733,Progressive carries,11,2.91,38.0
+6734,Progressive carries,11,5.722,91.0
+6736,Progressive carries,11,3.289,47.0
+6738,Progressive carries,11,4.603,83.0
+6740,Progressive carries,11,7.15,91.0
+6742,Progressive carries,11,5.894,81.0
+6744,Progressive carries,11,4.102,54.0
+6745,Progressive carries,11,2.746,35.0
+6751,Progressive carries,11,2.211,21.0
+6752,Progressive carries,11,4.395,78.0
+6758,Progressive carries,11,1.599,7.0
+6761,Progressive carries,11,5.631,76.0
+6762,Progressive carries,11,3.339,56.0
+6764,Progressive carries,11,3.57,55.0
+6766,Progressive carries,11,2.679,34.0
+6771,Progressive carries,11,2.586,29.0
+6772,Progressive carries,11,2.955,43.0
+6775,Progressive carries,11,2.116,16.0
+6776,Progressive carries,11,4.592,82.0
+6777,Progressive carries,11,3.877,72.0
+6778,Progressive carries,11,2.521,32.0
+6784,Progressive carries,11,6.199,95.0
+6787,Progressive carries,11,3.352,58.0
+6788,Progressive carries,11,3.711,67.0
+6789,Progressive carries,11,4.368,77.0
+6791,Progressive carries,11,3.185,49.0
+6792,Progressive carries,11,1.819,91.0
+6794,Progressive carries,11,3.187,50.0
+6796,Progressive carries,11,2.829,37.0
+6797,Progressive carries,11,3.955,65.0
+6801,Progressive carries,11,3.871,64.0
+6802,Progressive carries,11,3.879,73.0
+6804,Progressive carries,11,1.159,7.0
+6805,Progressive carries,11,3.219,51.0
+6823,Progressive carries,11,0.312,4.0
+6825,Progressive carries,11,3.041,46.0
+6827,Progressive carries,11,1.957,20.0
+6828,Progressive carries,11,2.366,29.0
+6829,Progressive carries,11,5.735,83.0
+6832,Progressive carries,11,2.396,29.0
+6837,Progressive carries,11,1.652,16.0
+6838,Progressive carries,11,6.758,88.0
+6841,Progressive carries,11,7.325,92.0
+6842,Progressive carries,11,4.877,67.0
+6847,Progressive carries,11,5.244,72.0
+6852,Progressive carries,11,3.341,50.0
+6856,Progressive carries,11,2.628,34.0
+6861,Progressive carries,11,2.223,27.0
+6862,Progressive carries,11,3.452,40.0
+6865,Progressive carries,11,2.697,35.0
+6867,Progressive carries,11,2.139,17.0
+6869,Progressive carries,11,2.415,30.0
+6872,Progressive carries,11,1.233,9.0
+6873,Progressive carries,11,2.756,36.0
+6878,Progressive carries,11,1.019,4.0
+6880,Progressive carries,11,3.082,38.0
+6884,Progressive carries,11,0.955,39.0
+6898,Progressive carries,11,0.851,35.0
+6899,Progressive carries,11,3.168,44.0
+6907,Progressive carries,11,5.771,78.0
+6913,Progressive carries,11,3.333,55.0
+6914,Progressive carries,11,2.768,38.0
+6918,Progressive carries,11,7.335,93.0
+6926,Progressive carries,11,7.608,94.0
+6927,Progressive carries,11,1.682,16.0
+6928,Progressive carries,11,5.747,84.0
+6929,Progressive carries,11,3.729,58.0
+6932,Progressive carries,11,5.612,88.0
+6934,Progressive carries,11,5.552,80.0
+6935,Progressive carries,11,2.801,39.0
+7005,Progressive carries,11,5.752,91.0
+7034,Progressive carries,11,3.616,65.0
+7105,Progressive carries,11,5.978,84.0
+7141,Progressive carries,11,2.518,32.0
+7154,Progressive carries,11,3.026,42.0
+7158,Progressive carries,11,2.925,41.0
+7161,Progressive carries,11,1.083,5.0
+7577,Progressive carries,11,3.338,55.0
+7781,Progressive carries,11,2.42,31.0
+7782,Progressive carries,11,4.949,72.0
+7900,Progressive carries,11,8.293,96.0
+7906,Progressive carries,11,3.026,45.0
+7907,Progressive carries,11,4.581,81.0
+8167,Progressive carries,11,3.128,39.0
+8234,Progressive carries,11,2.034,15.0
+8419,Progressive carries,11,2.546,33.0
+8440,Progressive carries,11,2.631,34.0
+8522,Progressive carries,11,9.023,98.0
+8523,Progressive carries,11,10.724,100.0
+8584,Progressive carries,11,1.609,15.0
+8697,Progressive carries,11,1.56,74.0
+8801,Progressive carries,11,3.633,66.0
+8818,Progressive carries,11,1.242,11.0
+10037,Progressive carries,11,3.257,46.0
+10476,Progressive carries,11,5.641,88.0
+10609,Progressive carries,11,6.102,94.0
+10755,Progressive carries,11,7.326,92.0
+10763,Progressive carries,11,1.791,87.0
+10802,Progressive carries,11,7.407,93.0
+11298,Progressive carries,11,3.342,57.0
+11539,Progressive carries,11,6.598,86.0
+11542,Progressive carries,11,1.795,19.0
+11634,Progressive carries,11,6.296,95.0
+11675,Progressive carries,11,5.373,79.0
+13107,Progressive carries,11,2.15,18.0
+15805,Progressive carries,11,3.71,57.0
+15893,Progressive carries,11,5.617,81.0
+16332,Progressive carries,11,0.953,3.0
+16456,Progressive carries,11,2.063,24.0
+16539,Progressive carries,11,3.243,52.0
+16622,Progressive carries,11,3.149,48.0
+17054,Progressive carries,11,0.896,2.0
+18398,Progressive carries,11,1.511,4.0
+18724,Progressive carries,11,4.495,65.0
+18867,Progressive carries,11,4.904,71.0
+18925,Progressive carries,11,1.942,13.0
+19431,Progressive carries,11,2.195,20.0
+19454,Progressive carries,11,1.04,5.0
+19668,Progressive carries,11,3.35,51.0
+19677,Progressive carries,11,3.032,36.0
+20016,Progressive carries,11,2.783,38.0
+20064,Progressive carries,11,4.101,74.0
+20542,Progressive carries,11,1.182,6.0
+20669,Progressive carries,11,2.225,21.0
+21210,Progressive carries,11,4.448,79.0
+22819,Progressive carries,11,2.533,26.0
+23416,Progressive carries,11,1.087,2.0
+23785,Progressive carries,11,8.084,94.0
+23791,Progressive carries,11,2.045,26.0
+23800,Progressive carries,11,2.912,41.0
+23806,Progressive carries,11,2.588,30.0
+23816,Progressive carries,11,5.422,73.0
+23843,Progressive carries,11,1.97,100.0
+23848,Progressive carries,11,3.986,51.0
+23943,Progressive carries,11,5.774,79.0
+23994,Progressive carries,11,3.702,45.0
+24035,Progressive carries,11,1.759,18.0
+24070,Progressive carries,11,4.21,60.0
+24132,Progressive carries,11,1.886,18.0
+24138,Progressive carries,11,2.878,40.0
+24149,Progressive carries,11,2.936,39.0
+24173,Progressive carries,11,1.425,11.0
+24255,Progressive carries,11,0.625,17.0
+24263,Progressive carries,11,5.944,92.0
+24783,Progressive carries,11,2.445,25.0
+25134,Progressive carries,11,1.572,14.0
+25144,Progressive carries,11,0.742,26.0
+25707,Progressive carries,11,1.536,5.0
+25859,Progressive carries,11,3.647,56.0
+25881,Progressive carries,11,1.881,12.0
+25921,Progressive carries,11,4.258,61.0
+26009,Progressive carries,11,1.988,25.0
+26012,Progressive carries,11,2.017,23.0
+26020,Progressive carries,11,4.085,53.0
+26023,Progressive carries,11,3.045,47.0
+26087,Progressive carries,11,1.52,13.0
+26103,Progressive carries,11,1.406,61.0
+26211,Progressive carries,11,3.23,45.0
+26222,Progressive carries,11,2.946,42.0
+26448,Progressive carries,11,2.153,26.0
+26607,Progressive carries,11,2.182,19.0
+26633,Progressive carries,11,1.898,19.0
+26669,Progressive carries,11,2.134,25.0
+26685,Progressive carries,11,2.087,27.0
+26690,Progressive carries,11,1.22,7.0
+26723,Progressive carries,11,5.115,68.0
+26753,Progressive carries,11,1.248,52.0
+26780,Progressive carries,11,6.1,93.0
+26848,Progressive carries,11,5.363,78.0
+27054,Progressive carries,11,3.389,61.0
+27092,Progressive carries,11,8.833,100.0
+27109,Progressive carries,11,1.721,16.0
+27122,Progressive carries,11,1.97,14.0
+27144,Progressive carries,11,2.427,31.0
+27148,Progressive carries,11,0.941,1.0
+27184,Progressive carries,11,3.437,62.0
+27239,Progressive carries,11,0.777,1.0
+27241,Progressive carries,11,2.739,35.0
+27250,Progressive carries,11,3.731,46.0
+27305,Progressive carries,11,1.528,70.0
+27335,Progressive carries,11,3.752,69.0
+27341,Progressive carries,11,2.729,33.0
+27346,Progressive carries,11,3.84,63.0
+27347,Progressive carries,11,3.284,54.0
+27349,Progressive carries,11,1.976,22.0
+27403,Progressive carries,11,3.037,45.0
+27482,Progressive carries,11,1.884,17.0
+27483,Progressive carries,11,4.715,84.0
+27526,Progressive carries,11,4.047,66.0
+27656,Progressive carries,11,3.715,68.0
+3023,Successful dribbles,12,0.614,66.0
+3063,Successful dribbles,12,0.683,70.0
+3160,Successful dribbles,12,0.657,32.0
+3253,Successful dribbles,12,0.108,9.0
+3292,Successful dribbles,12,0.746,36.0
+3302,Successful dribbles,12,2.118,87.0
+3324,Successful dribbles,12,0.476,57.0
+3379,Successful dribbles,12,0.03,67.0
+3486,Successful dribbles,12,0.755,14.0
+3497,Successful dribbles,12,0.302,4.0
+3601,Successful dribbles,12,3.682,98.0
+3610,Successful dribbles,12,1.213,65.0
+3637,Successful dribbles,12,0.459,12.0
+3638,Successful dribbles,12,0.227,23.0
+4320,Successful dribbles,12,4.846,99.0
+4324,Successful dribbles,12,1.061,88.0
+4353,Successful dribbles,12,0.433,54.0
+4406,Successful dribbles,12,0.515,59.0
+4498,Successful dribbles,12,0.039,2.0
+4546,Successful dribbles,12,1.068,89.0
+4691,Successful dribbles,12,0.03,67.0
+4711,Successful dribbles,12,1.1,61.0
+4926,Successful dribbles,12,4.167,100.0
+5199,Successful dribbles,12,0.794,42.0
+5200,Successful dribbles,12,1.88,79.0
+5201,Successful dribbles,12,0.135,12.0
+5202,Successful dribbles,12,0.299,36.0
+5203,Successful dribbles,12,0.635,27.0
+5207,Successful dribbles,12,1.481,59.0
+5211,Successful dribbles,12,0.236,24.0
+5213,Successful dribbles,12,0.339,41.0
+5216,Successful dribbles,12,2.107,86.0
+5217,Successful dribbles,12,1.122,33.0
+5246,Successful dribbles,12,1.388,53.0
+5249,Successful dribbles,12,0.295,35.0
+5259,Successful dribbles,12,0.286,34.0
+5456,Successful dribbles,12,1.241,68.0
+5463,Successful dribbles,12,1.575,77.0
+5470,Successful dribbles,12,0.614,25.0
+5485,Successful dribbles,12,0.279,32.0
+5487,Successful dribbles,12,1.326,47.0
+5503,Successful dribbles,12,5.739,100.0
+5504,Successful dribbles,12,3.502,97.0
+5506,Successful dribbles,12,0.358,44.0
+5539,Successful dribbles,12,0.512,16.0
+5552,Successful dribbles,12,2.116,98.0
+5560,Successful dribbles,12,1.877,78.0
+5574,Successful dribbles,12,0.607,24.0
+5577,Successful dribbles,12,0.0,24.0
+5582,Successful dribbles,12,0.685,34.0
+5588,Successful dribbles,12,0.319,38.0
+5597,Successful dribbles,12,0.0,24.0
+5598,Successful dribbles,12,0.145,14.0
+5633,Successful dribbles,12,3.9,99.0
+5671,Successful dribbles,12,0.751,38.0
+5678,Successful dribbles,12,0.552,21.0
+5687,Successful dribbles,12,1.504,61.0
+5695,Successful dribbles,12,1.5,73.0
+5718,Successful dribbles,12,1.26,44.0
+5719,Successful dribbles,12,1.886,81.0
+5721,Successful dribbles,12,1.126,91.0
+5724,Successful dribbles,12,0.733,36.0
+5737,Successful dribbles,12,0.517,18.0
+5741,Successful dribbles,12,1.125,62.0
+6038,Successful dribbles,12,1.084,31.0
+6320,Successful dribbles,12,2.269,98.0
+6356,Successful dribbles,12,0.879,20.0
+6357,Successful dribbles,12,1.241,68.0
+6375,Successful dribbles,12,1.032,86.0
+6376,Successful dribbles,12,0.093,6.0
+6377,Successful dribbles,12,2.843,94.0
+6378,Successful dribbles,12,0.025,50.0
+6379,Successful dribbles,12,1.413,71.0
+6381,Successful dribbles,12,1.005,56.0
+6382,Successful dribbles,12,1.639,68.0
+6384,Successful dribbles,12,0.848,46.0
+6386,Successful dribbles,12,0.706,71.0
+6389,Successful dribbles,12,0.486,15.0
+6390,Successful dribbles,12,1.604,67.0
+6391,Successful dribbles,12,0.771,41.0
+6392,Successful dribbles,12,1.343,49.0
+6393,Successful dribbles,12,1.749,72.0
+6394,Successful dribbles,12,0.783,15.0
+6396,Successful dribbles,12,0.815,43.0
+6399,Successful dribbles,12,1.773,74.0
+6401,Successful dribbles,12,0.874,19.0
+6402,Successful dribbles,12,0.394,2.0
+6557,Successful dribbles,12,0.472,14.0
+6559,Successful dribbles,12,0.971,53.0
+6561,Successful dribbles,12,0.269,30.0
+6563,Successful dribbles,12,2.202,88.0
+6566,Successful dribbles,12,0.509,6.0
+6569,Successful dribbles,12,0.762,74.0
+6573,Successful dribbles,12,0.065,2.0
+6576,Successful dribbles,12,0.0,24.0
+6580,Successful dribbles,12,1.143,64.0
+6581,Successful dribbles,12,1.801,75.0
+6592,Successful dribbles,12,0.396,51.0
+6593,Successful dribbles,12,1.045,88.0
+6594,Successful dribbles,12,0.998,28.0
+6595,Successful dribbles,12,1.142,63.0
+6596,Successful dribbles,12,1.081,90.0
+6599,Successful dribbles,12,0.845,44.0
+6602,Successful dribbles,12,1.438,56.0
+6605,Successful dribbles,12,0.38,47.0
+6608,Successful dribbles,12,1.53,74.0
+6609,Successful dribbles,12,1.826,80.0
+6610,Successful dribbles,12,0.0,24.0
+6612,Successful dribbles,12,0.186,20.0
+6614,Successful dribbles,12,0.322,39.0
+6622,Successful dribbles,12,0.317,5.0
+6624,Successful dribbles,12,1.985,81.0
+6625,Successful dribbles,12,0.025,50.0
+6626,Successful dribbles,12,1.943,82.0
+6627,Successful dribbles,12,0.627,66.0
+6630,Successful dribbles,12,0.558,8.0
+6633,Successful dribbles,12,0.647,29.0
+6647,Successful dribbles,12,0.31,37.0
+6649,Successful dribbles,12,0.814,77.0
+6651,Successful dribbles,12,2.233,89.0
+6654,Successful dribbles,12,0.027,61.0
+6659,Successful dribbles,12,1.026,57.0
+6663,Successful dribbles,12,0.524,60.0
+6665,Successful dribbles,12,0.386,48.0
+6666,Successful dribbles,12,1.227,40.0
+6668,Successful dribbles,12,2.878,95.0
+6669,Successful dribbles,12,1.723,71.0
+6671,Successful dribbles,12,0.887,48.0
+6672,Successful dribbles,12,0.9,80.0
+6673,Successful dribbles,12,0.097,2.0
+6674,Successful dribbles,12,0.348,43.0
+6675,Successful dribbles,12,0.692,70.0
+6677,Successful dribbles,12,0.448,5.0
+6679,Successful dribbles,12,0.672,69.0
+6680,Successful dribbles,12,2.505,92.0
+6685,Successful dribbles,12,0.926,25.0
+6690,Successful dribbles,12,0.768,40.0
+6694,Successful dribbles,12,0.055,87.0
+6697,Successful dribbles,12,2.412,91.0
+6699,Successful dribbles,12,0.947,83.0
+6700,Successful dribbles,12,0.791,16.0
+6702,Successful dribbles,12,0.099,7.0
+6707,Successful dribbles,12,0.435,4.0
+6712,Successful dribbles,12,1.178,64.0
+6713,Successful dribbles,12,0.877,79.0
+6718,Successful dribbles,12,1.037,87.0
+6720,Successful dribbles,12,1.559,76.0
+6721,Successful dribbles,12,1.295,46.0
+6724,Successful dribbles,12,2.676,92.0
+6727,Successful dribbles,12,0.17,17.0
+6728,Successful dribbles,12,2.841,93.0
+6730,Successful dribbles,12,0.0,24.0
+6732,Successful dribbles,12,1.137,34.0
+6733,Successful dribbles,12,0.37,8.0
+6734,Successful dribbles,12,1.568,96.0
+6736,Successful dribbles,12,0.94,50.0
+6738,Successful dribbles,12,0.979,84.0
+6740,Successful dribbles,12,2.301,90.0
+6742,Successful dribbles,12,1.521,62.0
+6744,Successful dribbles,12,1.823,76.0
+6745,Successful dribbles,12,0.523,19.0
+6751,Successful dribbles,12,0.468,13.0
+6752,Successful dribbles,12,0.174,18.0
+6758,Successful dribbles,12,1.028,58.0
+6761,Successful dribbles,12,1.357,51.0
+6762,Successful dribbles,12,0.242,25.0
+6764,Successful dribbles,12,1.058,59.0
+6766,Successful dribbles,12,2.589,89.0
+6771,Successful dribbles,12,0.534,21.0
+6772,Successful dribbles,12,0.332,41.0
+6775,Successful dribbles,12,0.515,17.0
+6776,Successful dribbles,12,0.889,80.0
+6777,Successful dribbles,12,0.451,55.0
+6778,Successful dribbles,12,0.242,25.0
+6784,Successful dribbles,12,1.276,93.0
+6787,Successful dribbles,12,1.274,92.0
+6788,Successful dribbles,12,0.21,21.0
+6789,Successful dribbles,12,0.718,72.0
+6791,Successful dribbles,12,0.751,73.0
+6792,Successful dribbles,12,0.0,24.0
+6794,Successful dribbles,12,0.325,40.0
+6796,Successful dribbles,12,1.061,60.0
+6797,Successful dribbles,12,0.713,35.0
+6801,Successful dribbles,12,1.252,69.0
+6802,Successful dribbles,12,0.647,68.0
+6804,Successful dribbles,12,0.132,11.0
+6805,Successful dribbles,12,0.413,52.0
+6823,Successful dribbles,12,0.0,24.0
+6825,Successful dribbles,12,0.247,27.0
+6827,Successful dribbles,12,0.089,5.0
+6828,Successful dribbles,12,0.225,23.0
+6829,Successful dribbles,12,1.792,79.0
+6832,Successful dribbles,12,0.644,11.0
+6837,Successful dribbles,12,0.162,16.0
+6838,Successful dribbles,12,3.415,96.0
+6841,Successful dribbles,12,1.694,69.0
+6842,Successful dribbles,12,1.968,80.0
+6847,Successful dribbles,12,2.098,84.0
+6852,Successful dribbles,12,0.973,54.0
+6856,Successful dribbles,12,0.876,78.0
+6861,Successful dribbles,12,0.272,31.0
+6862,Successful dribbles,12,1.166,35.0
+6865,Successful dribbles,12,0.364,45.0
+6867,Successful dribbles,12,0.631,26.0
+6869,Successful dribbles,12,0.222,22.0
+6872,Successful dribbles,12,0.37,46.0
+6873,Successful dribbles,12,3.111,96.0
+6878,Successful dribbles,12,0.133,12.0
+6880,Successful dribbles,12,1.092,32.0
+6884,Successful dribbles,12,0.0,24.0
+6898,Successful dribbles,12,0.0,24.0
+6899,Successful dribbles,12,0.39,10.0
+6907,Successful dribbles,12,2.671,91.0
+6913,Successful dribbles,12,0.59,64.0
+6914,Successful dribbles,12,0.456,55.0
+6918,Successful dribbles,12,2.06,82.0
+6926,Successful dribbles,12,2.622,94.0
+6927,Successful dribbles,12,0.163,16.0
+6928,Successful dribbles,12,1.416,72.0
+6929,Successful dribbles,12,0.947,50.0
+6932,Successful dribbles,12,1.548,95.0
+6934,Successful dribbles,12,2.587,93.0
+6935,Successful dribbles,12,0.747,73.0
+7005,Successful dribbles,12,2.424,99.0
+7034,Successful dribbles,12,0.258,28.0
+7105,Successful dribbles,12,3.274,95.0
+7141,Successful dribbles,12,2.289,86.0
+7154,Successful dribbles,12,0.847,45.0
+7158,Successful dribbles,12,0.369,45.0
+7161,Successful dribbles,12,0.08,5.0
+7577,Successful dribbles,12,0.257,27.0
+7781,Successful dribbles,12,1.559,66.0
+7782,Successful dribbles,12,1.539,75.0
+7900,Successful dribbles,12,2.347,88.0
+7906,Successful dribbles,12,0.766,75.0
+7907,Successful dribbles,12,0.591,65.0
+8167,Successful dribbles,12,1.232,41.0
+8234,Successful dribbles,12,0.649,30.0
+8419,Successful dribbles,12,0.691,13.0
+8440,Successful dribbles,12,0.099,7.0
+8522,Successful dribbles,12,3.715,98.0
+8523,Successful dribbles,12,2.23,85.0
+8584,Successful dribbles,12,1.502,60.0
+8697,Successful dribbles,12,0.026,57.0
+8801,Successful dribbles,12,1.544,95.0
+8818,Successful dribbles,12,0.321,38.0
+10037,Successful dribbles,12,1.66,78.0
+10476,Successful dribbles,12,0.182,19.0
+10609,Successful dribbles,12,0.343,42.0
+10755,Successful dribbles,12,2.021,84.0
+10763,Successful dribbles,12,0.0,24.0
+10802,Successful dribbles,12,2.53,93.0
+11298,Successful dribbles,12,0.411,52.0
+11539,Successful dribbles,12,1.424,55.0
+11542,Successful dribbles,12,0.918,24.0
+11634,Successful dribbles,12,1.589,97.0
+11675,Successful dribbles,12,1.945,83.0
+13107,Successful dribbles,12,0.996,55.0
+15805,Successful dribbles,12,0.556,22.0
+15893,Successful dribbles,12,1.29,70.0
+16332,Successful dribbles,12,0.381,48.0
+16456,Successful dribbles,12,0.21,21.0
+16539,Successful dribbles,12,0.566,63.0
+16622,Successful dribbles,12,0.281,33.0
+17054,Successful dribbles,12,0.538,61.0
+18398,Successful dribbles,12,0.439,11.0
+18724,Successful dribbles,12,0.953,26.0
+18867,Successful dribbles,12,1.721,79.0
+18925,Successful dribbles,12,0.75,37.0
+19431,Successful dribbles,12,0.966,52.0
+19454,Successful dribbles,12,0.069,4.0
+19668,Successful dribbles,12,0.877,47.0
+19677,Successful dribbles,12,1.204,39.0
+20016,Successful dribbles,12,0.557,62.0
+20064,Successful dribbles,12,1.323,94.0
+20542,Successful dribbles,12,0.96,27.0
+20669,Successful dribbles,12,0.0,1.0
+21210,Successful dribbles,12,1.022,84.0
+22819,Successful dribbles,12,0.666,33.0
+23416,Successful dribbles,12,0.331,1.0
+23785,Successful dribbles,12,1.529,65.0
+23791,Successful dribbles,12,1.334,48.0
+23800,Successful dribbles,12,0.56,62.0
+23806,Successful dribbles,12,0.348,6.0
+23816,Successful dribbles,12,1.172,38.0
+23843,Successful dribbles,12,0.042,78.0
+23848,Successful dribbles,12,1.45,58.0
+23943,Successful dribbles,12,2.343,87.0
+23994,Successful dribbles,12,1.234,42.0
+24035,Successful dribbles,12,0.572,9.0
+24070,Successful dribbles,12,1.052,29.0
+24132,Successful dribbles,12,0.283,34.0
+24138,Successful dribbles,12,0.931,82.0
+24149,Successful dribbles,12,0.53,20.0
+24173,Successful dribbles,12,0.838,18.0
+24255,Successful dribbles,12,0.048,83.0
+24263,Successful dribbles,12,0.904,81.0
+24783,Successful dribbles,12,0.595,23.0
+25134,Successful dribbles,12,0.685,12.0
+25144,Successful dribbles,12,0.074,96.0
+25707,Successful dribbles,12,0.65,31.0
+25859,Successful dribbles,12,2.061,85.0
+25881,Successful dribbles,12,0.383,9.0
+25921,Successful dribbles,12,1.386,52.0
+26009,Successful dribbles,12,0.896,21.0
+26012,Successful dribbles,12,0.259,29.0
+26020,Successful dribbles,12,1.39,54.0
+26023,Successful dribbles,12,0.632,67.0
+26087,Successful dribbles,12,0.152,15.0
+26103,Successful dribbles,12,0.07,91.0
+26211,Successful dribbles,12,1.235,66.0
+26222,Successful dribbles,12,0.508,58.0
+26448,Successful dribbles,12,0.11,10.0
+26607,Successful dribbles,12,0.759,39.0
+26633,Successful dribbles,12,0.394,50.0
+26669,Successful dribbles,12,0.067,3.0
+26685,Successful dribbles,12,0.902,22.0
+26690,Successful dribbles,12,0.523,7.0
+26723,Successful dribbles,12,1.767,73.0
+26753,Successful dribbles,12,0.096,100.0
+26780,Successful dribbles,12,1.029,85.0
+26848,Successful dribbles,12,0.95,51.0
+27054,Successful dribbles,12,0.767,76.0
+27092,Successful dribbles,12,3.498,100.0
+27109,Successful dribbles,12,1.274,45.0
+27122,Successful dribbles,12,0.362,7.0
+27144,Successful dribbles,12,0.418,53.0
+27148,Successful dribbles,12,0.157,3.0
+27184,Successful dribbles,12,0.0,1.0
+27239,Successful dribbles,12,0.104,9.0
+27241,Successful dribbles,12,1.167,36.0
+27250,Successful dribbles,12,1.526,64.0
+27305,Successful dribbles,12,0.034,74.0
+27335,Successful dribbles,12,1.084,91.0
+27341,Successful dribbles,12,0.352,7.0
+27346,Successful dribbles,12,0.932,49.0
+27347,Successful dribbles,12,0.808,77.0
+27349,Successful dribbles,12,0.267,30.0
+27403,Successful dribbles,12,0.394,50.0
+27482,Successful dribbles,12,0.457,56.0
+27483,Successful dribbles,12,0.524,60.0
+27526,Successful dribbles,12,0.647,29.0
+27656,Successful dribbles,12,0.138,13.0
+3023,Tackles won,13,1.371,66.0
+3063,Tackles won,13,1.836,92.0
+3160,Tackles won,13,1.314,50.0
+3253,Tackles won,13,0.395,1.0
+3292,Tackles won,13,1.044,23.0
+3302,Tackles won,13,0.794,7.0
+3324,Tackles won,13,1.168,48.0
+3379,Tackles won,13,0.0,50.0
+3486,Tackles won,13,0.68,45.0
+3497,Tackles won,13,0.857,10.0
+3601,Tackles won,13,0.637,3.0
+3610,Tackles won,13,1.275,48.0
+3637,Tackles won,13,1.72,72.0
+3638,Tackles won,13,1.716,89.0
+4320,Tackles won,13,0.287,12.0
+4324,Tackles won,13,1.715,88.0
+4353,Tackles won,13,1.063,40.0
+4406,Tackles won,13,1.076,41.0
+4498,Tackles won,13,0.464,3.0
+4546,Tackles won,13,1.293,63.0
+4691,Tackles won,13,0.0,50.0
+4711,Tackles won,13,1.008,21.0
+4926,Tackles won,13,1.102,26.0
+5199,Tackles won,13,1.705,70.0
+5200,Tackles won,13,2.297,100.0
+5201,Tackles won,13,1.081,41.0
+5202,Tackles won,13,0.822,23.0
+5203,Tackles won,13,2.147,89.0
+5207,Tackles won,13,0.219,4.0
+5211,Tackles won,13,1.047,38.0
+5213,Tackles won,13,0.645,10.0
+5216,Tackles won,13,1.326,51.0
+5217,Tackles won,13,0.462,21.0
+5246,Tackles won,13,0.416,20.0
+5249,Tackles won,13,1.182,52.0
+5259,Tackles won,13,1.217,55.0
+5456,Tackles won,13,2.068,87.0
+5463,Tackles won,13,1.106,27.0
+5470,Tackles won,13,1.228,39.0
+5485,Tackles won,13,0.598,9.0
+5487,Tackles won,13,1.037,79.0
+5503,Tackles won,13,0.289,13.0
+5504,Tackles won,13,1.573,64.0
+5506,Tackles won,13,1.432,70.0
+5539,Tackles won,13,3.243,100.0
+5552,Tackles won,13,1.763,91.0
+5560,Tackles won,13,0.7,48.0
+5574,Tackles won,13,1.757,77.0
+5577,Tackles won,13,0.0,50.0
+5582,Tackles won,13,1.232,42.0
+5588,Tackles won,13,0.894,27.0
+5597,Tackles won,13,0.0,50.0
+5598,Tackles won,13,0.58,8.0
+5633,Tackles won,13,0.873,11.0
+5671,Tackles won,13,1.705,70.0
+5678,Tackles won,13,1.137,29.0
+5687,Tackles won,13,0.913,71.0
+5695,Tackles won,13,1.212,38.0
+5718,Tackles won,13,0.504,29.0
+5719,Tackles won,13,0.989,21.0
+5721,Tackles won,13,0.912,29.0
+5724,Tackles won,13,0.886,13.0
+5737,Tackles won,13,1.411,57.0
+5741,Tackles won,13,1.476,60.0
+6038,Tackles won,13,0.61,39.0
+6320,Tackles won,13,2.545,99.0
+6356,Tackles won,13,0.983,74.0
+6357,Tackles won,13,1.738,74.0
+6375,Tackles won,13,0.946,32.0
+6376,Tackles won,13,1.3,64.0
+6377,Tackles won,13,1.421,91.0
+6378,Tackles won,13,0.0,50.0
+6379,Tackles won,13,1.14,30.0
+6381,Tackles won,13,2.159,90.0
+6382,Tackles won,13,0.512,31.0
+6384,Tackles won,13,2.06,86.0
+6386,Tackles won,13,1.176,51.0
+6389,Tackles won,13,1.619,65.0
+6390,Tackles won,13,1.191,84.0
+6391,Tackles won,13,2.019,84.0
+6392,Tackles won,13,2.09,98.0
+6393,Tackles won,13,0.82,64.0
+6394,Tackles won,13,0.501,28.0
+6396,Tackles won,13,1.569,63.0
+6399,Tackles won,13,0.253,8.0
+6401,Tackles won,13,0.5,27.0
+6402,Tackles won,13,0.466,23.0
+6557,Tackles won,13,0.826,8.0
+6559,Tackles won,13,0.971,20.0
+6561,Tackles won,13,0.646,11.0
+6563,Tackles won,13,0.752,7.0
+6566,Tackles won,13,0.407,19.0
+6569,Tackles won,13,1.693,87.0
+6573,Tackles won,13,1.036,37.0
+6576,Tackles won,13,0.0,50.0
+6580,Tackles won,13,1.778,79.0
+6581,Tackles won,13,0.794,58.0
+6592,Tackles won,13,1.189,53.0
+6593,Tackles won,13,1.269,60.0
+6594,Tackles won,13,0.887,68.0
+6595,Tackles won,13,1.617,64.0
+6596,Tackles won,13,1.742,91.0
+6599,Tackles won,13,2.43,92.0
+6602,Tackles won,13,1.039,80.0
+6605,Tackles won,13,1.235,55.0
+6608,Tackles won,13,0.714,5.0
+6609,Tackles won,13,1.205,37.0
+6610,Tackles won,13,0.0,50.0
+6612,Tackles won,13,1.678,85.0
+6614,Tackles won,13,0.579,7.0
+6622,Tackles won,13,1.746,75.0
+6624,Tackles won,13,1.036,78.0
+6625,Tackles won,13,0.0,50.0
+6626,Tackles won,13,1.758,78.0
+6627,Tackles won,13,1.485,73.0
+6630,Tackles won,13,0.745,53.0
+6633,Tackles won,13,1.94,82.0
+6647,Tackles won,13,0.758,19.0
+6649,Tackles won,13,1.599,80.0
+6651,Tackles won,13,0.893,16.0
+6654,Tackles won,13,0.0,50.0
+6659,Tackles won,13,1.231,41.0
+6663,Tackles won,13,1.466,72.0
+6665,Tackles won,13,1.126,45.0
+6666,Tackles won,13,0.767,55.0
+6668,Tackles won,13,0.556,2.0
+6669,Tackles won,13,1.879,94.0
+6671,Tackles won,13,1.958,83.0
+6672,Tackles won,13,1.149,46.0
+6673,Tackles won,13,1.266,47.0
+6674,Tackles won,13,0.906,28.0
+6675,Tackles won,13,1.558,79.0
+6677,Tackles won,13,0.149,2.0
+6679,Tackles won,13,1.244,59.0
+6680,Tackles won,13,1.341,53.0
+6685,Tackles won,13,0.636,41.0
+6690,Tackles won,13,0.878,12.0
+6694,Tackles won,13,0.0,50.0
+6697,Tackles won,13,1.676,68.0
+6699,Tackles won,13,1.672,84.0
+6700,Tackles won,13,1.15,81.0
+6702,Tackles won,13,0.395,1.0
+6707,Tackles won,13,0.493,26.0
+6712,Tackles won,13,2.48,93.0
+6713,Tackles won,13,0.938,30.0
+6718,Tackles won,13,1.185,52.0
+6720,Tackles won,13,1.178,33.0
+6721,Tackles won,13,0.598,38.0
+6724,Tackles won,13,1.303,86.0
+6727,Tackles won,13,0.815,22.0
+6728,Tackles won,13,1.937,95.0
+6730,Tackles won,13,0.0,50.0
+6732,Tackles won,13,0.222,6.0
+6733,Tackles won,13,2.434,93.0
+6734,Tackles won,13,1.489,74.0
+6736,Tackles won,13,1.351,54.0
+6738,Tackles won,13,1.175,50.0
+6740,Tackles won,13,0.746,6.0
+6742,Tackles won,13,2.168,99.0
+6744,Tackles won,13,0.729,51.0
+6745,Tackles won,13,1.798,80.0
+6751,Tackles won,13,1.658,66.0
+6752,Tackles won,13,0.549,5.0
+6758,Tackles won,13,2.55,95.0
+6761,Tackles won,13,0.678,44.0
+6762,Tackles won,13,0.862,25.0
+6764,Tackles won,13,1.19,35.0
+6766,Tackles won,13,0.817,62.0
+6771,Tackles won,13,1.313,50.0
+6772,Tackles won,13,1.116,44.0
+6775,Tackles won,13,1.715,71.0
+6776,Tackles won,13,1.518,76.0
+6777,Tackles won,13,1.172,49.0
+6778,Tackles won,13,0.485,4.0
+6784,Tackles won,13,0.948,33.0
+6787,Tackles won,13,0.939,30.0
+6788,Tackles won,13,0.84,23.0
+6789,Tackles won,13,1.167,47.0
+6791,Tackles won,13,1.897,95.0
+6792,Tackles won,13,0.0,50.0
+6794,Tackles won,13,1.691,86.0
+6796,Tackles won,13,2.829,98.0
+6797,Tackles won,13,1.2,36.0
+6801,Tackles won,13,2.163,91.0
+6802,Tackles won,13,1.264,59.0
+6804,Tackles won,13,1.026,36.0
+6805,Tackles won,13,1.388,68.0
+6823,Tackles won,13,0.0,50.0
+6825,Tackles won,13,0.904,27.0
+6827,Tackles won,13,0.445,2.0
+6828,Tackles won,13,1.465,71.0
+6829,Tackles won,13,0.922,19.0
+6832,Tackles won,13,0.077,1.0
+6837,Tackles won,13,1.101,43.0
+6838,Tackles won,13,1.032,76.0
+6841,Tackles won,13,1.482,93.0
+6842,Tackles won,13,0.941,72.0
+6847,Tackles won,13,0.944,73.0
+6852,Tackles won,13,0.888,14.0
+6856,Tackles won,13,1.898,95.0
+6861,Tackles won,13,1.497,75.0
+6862,Tackles won,13,0.466,23.0
+6865,Tackles won,13,1.676,84.0
+6867,Tackles won,13,1.753,76.0
+6869,Tackles won,13,1.271,61.0
+6872,Tackles won,13,1.202,54.0
+6873,Tackles won,13,0.889,15.0
+6878,Tackles won,13,1.374,66.0
+6880,Tackles won,13,0.273,9.0
+6884,Tackles won,13,0.0,50.0
+6898,Tackles won,13,0.0,50.0
+6899,Tackles won,13,1.17,32.0
+6907,Tackles won,13,0.715,49.0
+6913,Tackles won,13,1.622,81.0
+6914,Tackles won,13,0.876,26.0
+6918,Tackles won,13,0.578,35.0
+6926,Tackles won,13,0.295,1.0
+6927,Tackles won,13,1.085,42.0
+6928,Tackles won,13,1.291,49.0
+6929,Tackles won,13,1.361,56.0
+6932,Tackles won,13,1.239,56.0
+6934,Tackles won,13,1.073,24.0
+6935,Tackles won,13,2.148,98.0
+7005,Tackles won,13,1.52,77.0
+7034,Tackles won,13,1.291,62.0
+7105,Tackles won,13,0.691,46.0
+7141,Tackles won,13,0.534,32.0
+7154,Tackles won,13,2.905,99.0
+7158,Tackles won,13,1.047,38.0
+7161,Tackles won,13,1.243,58.0
+7577,Tackles won,13,1.695,88.0
+7781,Tackles won,13,0.656,42.0
+7782,Tackles won,13,1.248,45.0
+7900,Tackles won,13,0.782,56.0
+7906,Tackles won,13,1.379,67.0
+7907,Tackles won,13,1.145,45.0
+8167,Tackles won,13,0.806,61.0
+8234,Tackles won,13,2.034,85.0
+8419,Tackles won,13,0.561,34.0
+8440,Tackles won,13,1.052,39.0
+8522,Tackles won,13,0.59,36.0
+8523,Tackles won,13,0.478,25.0
+8584,Tackles won,13,0.804,59.0
+8697,Tackles won,13,0.026,100.0
+8801,Tackles won,13,1.998,97.0
+8818,Tackles won,13,1.242,57.0
+10037,Tackles won,13,1.724,73.0
+10476,Tackles won,13,0.728,17.0
+10609,Tackles won,13,0.686,14.0
+10755,Tackles won,13,1.095,25.0
+10763,Tackles won,13,0.0,50.0
+10802,Tackles won,13,0.917,18.0
+11298,Tackles won,13,1.542,78.0
+11539,Tackles won,13,1.187,82.0
+11542,Tackles won,13,0.751,54.0
+11634,Tackles won,13,1.895,94.0
+11675,Tackles won,13,1.019,22.0
+13107,Tackles won,13,2.748,97.0
+15805,Tackles won,13,1.669,67.0
+15893,Tackles won,13,0.911,17.0
+16332,Tackles won,13,1.906,96.0
+16456,Tackles won,13,0.559,6.0
+16539,Tackles won,13,1.395,69.0
+16622,Tackles won,13,0.843,24.0
+17054,Tackles won,13,1.524,77.0
+18398,Tackles won,13,1.121,28.0
+18724,Tackles won,13,0.613,40.0
+18867,Tackles won,13,1.204,36.0
+18925,Tackles won,13,1.545,61.0
+19431,Tackles won,13,1.229,40.0
+19454,Tackles won,13,0.763,20.0
+19668,Tackles won,13,2.552,96.0
+19677,Tackles won,13,0.312,15.0
+20016,Tackles won,13,0.974,34.0
+20064,Tackles won,13,2.117,98.0
+20542,Tackles won,13,0.295,14.0
+20669,Tackles won,13,1.566,62.0
+21210,Tackles won,13,1.585,80.0
+22819,Tackles won,13,1.166,31.0
+23416,Tackles won,13,0.283,11.0
+23785,Tackles won,13,1.02,75.0
+23791,Tackles won,13,0.356,18.0
+23800,Tackles won,13,1.848,93.0
+23806,Tackles won,13,1.792,79.0
+23816,Tackles won,13,0.733,52.0
+23843,Tackles won,13,0.0,50.0
+23848,Tackles won,13,2.029,96.0
+23943,Tackles won,13,1.255,85.0
+23994,Tackles won,13,1.399,89.0
+24035,Tackles won,13,0.22,5.0
+24070,Tackles won,13,0.867,66.0
+24132,Tackles won,13,0.66,12.0
+24138,Tackles won,13,2.624,100.0
+24149,Tackles won,13,1.468,59.0
+24173,Tackles won,13,0.252,7.0
+24255,Tackles won,13,0.0,50.0
+24263,Tackles won,13,1.668,83.0
+24783,Tackles won,13,1.85,81.0
+25134,Tackles won,13,0.806,61.0
+25144,Tackles won,13,0.0,50.0
+25707,Tackles won,13,1.359,55.0
+25859,Tackles won,13,1.427,58.0
+25881,Tackles won,13,1.184,34.0
+25921,Tackles won,13,1.386,88.0
+26009,Tackles won,13,0.546,33.0
+26012,Tackles won,13,0.672,13.0
+26020,Tackles won,13,0.695,47.0
+26023,Tackles won,13,1.322,65.0
+26087,Tackles won,13,0.76,20.0
+26103,Tackles won,13,0.0,50.0
+26211,Tackles won,13,0.855,9.0
+26222,Tackles won,13,1.016,35.0
+26448,Tackles won,13,0.718,16.0
+26607,Tackles won,13,1.233,43.0
+26633,Tackles won,13,1.289,62.0
+26669,Tackles won,13,1.167,47.0
+26685,Tackles won,13,0.846,65.0
+26690,Tackles won,13,0.872,67.0
+26723,Tackles won,13,1.348,87.0
+26753,Tackles won,13,0.0,50.0
+26780,Tackles won,13,1.47,73.0
+26848,Tackles won,13,1.341,53.0
+27054,Tackles won,13,1.727,90.0
+27092,Tackles won,13,1.662,82.0
+27109,Tackles won,13,0.895,69.0
+27122,Tackles won,13,1.246,44.0
+27144,Tackles won,13,0.669,12.0
+27148,Tackles won,13,1.254,46.0
+27184,Tackles won,13,0.781,21.0
+27239,Tackles won,13,0.622,9.0
+27241,Tackles won,13,1.437,92.0
+27250,Tackles won,13,0.339,16.0
+27305,Tackles won,13,0.0,50.0
+27335,Tackles won,13,0.75,18.0
+27341,Tackles won,13,0.704,4.0
+27346,Tackles won,13,2.498,94.0
+27347,Tackles won,13,0.505,5.0
+27349,Tackles won,13,1.442,70.0
+27403,Tackles won,13,0.946,32.0
+27482,Tackles won,13,0.971,34.0
+27483,Tackles won,13,0.725,16.0
+27526,Tackles won,13,2.104,88.0
+27656,Tackles won,13,0.688,15.0
+3023,Interceptions,14,1.56,83.0
+3063,Interceptions,14,1.409,68.0
+3160,Interceptions,14,1.613,93.0
+3253,Interceptions,14,0.789,16.0
+3292,Interceptions,14,1.268,78.0
+3302,Interceptions,14,0.265,2.0
+3324,Interceptions,14,1.038,33.0
+3379,Interceptions,14,0.0,50.0
+3486,Interceptions,14,0.378,43.0
+3497,Interceptions,14,0.504,7.0
+3601,Interceptions,14,0.637,18.0
+3610,Interceptions,14,1.182,72.0
+3637,Interceptions,14,1.758,95.0
+3638,Interceptions,14,1.619,88.0
+4320,Interceptions,14,0.287,26.0
+4324,Interceptions,14,0.612,8.0
+4353,Interceptions,14,0.905,22.0
+4406,Interceptions,14,1.497,80.0
+4498,Interceptions,14,0.541,3.0
+4546,Interceptions,14,0.843,19.0
+4691,Interceptions,14,0.0,50.0
+4711,Interceptions,14,0.962,51.0
+4926,Interceptions,14,0.766,30.0
+5199,Interceptions,14,0.97,52.0
+5200,Interceptions,14,0.975,91.0
+5201,Interceptions,14,1.712,93.0
+5202,Interceptions,14,1.569,84.0
+5203,Interceptions,14,0.635,17.0
+5207,Interceptions,14,0.137,7.0
+5211,Interceptions,14,0.709,10.0
+5213,Interceptions,14,0.543,4.0
+5216,Interceptions,14,0.351,3.0
+5217,Interceptions,14,0.363,36.0
+5246,Interceptions,14,0.139,8.0
+5249,Interceptions,14,1.543,82.0
+5259,Interceptions,14,0.716,11.0
+5456,Interceptions,14,0.579,12.0
+5463,Interceptions,14,1.642,94.0
+5470,Interceptions,14,0.546,10.0
+5485,Interceptions,14,1.116,39.0
+5487,Interceptions,14,0.864,82.0
+5503,Interceptions,14,0.128,6.0
+5504,Interceptions,14,0.863,40.0
+5506,Interceptions,14,0.586,6.0
+5539,Interceptions,14,1.934,98.0
+5552,Interceptions,14,1.375,66.0
+5560,Interceptions,14,0.382,46.0
+5574,Interceptions,14,1.214,74.0
+5577,Interceptions,14,0.0,50.0
+5582,Interceptions,14,1.278,79.0
+5588,Interceptions,14,0.83,17.0
+5597,Interceptions,14,0.0,50.0
+5598,Interceptions,14,1.087,37.0
+5633,Interceptions,14,0.931,45.0
+5671,Interceptions,14,1.156,69.0
+5678,Interceptions,14,1.072,60.0
+5687,Interceptions,14,0.752,74.0
+5695,Interceptions,14,0.75,27.0
+5718,Interceptions,14,0.819,79.0
+5719,Interceptions,14,0.495,7.0
+5721,Interceptions,14,1.662,91.0
+5724,Interceptions,14,0.886,41.0
+5737,Interceptions,14,0.658,20.0
+5741,Interceptions,14,0.914,43.0
+6038,Interceptions,14,0.339,32.0
+6320,Interceptions,14,1.87,98.0
+6356,Interceptions,14,0.672,72.0
+6357,Interceptions,14,1.142,66.0
+6375,Interceptions,14,1.147,43.0
+6376,Interceptions,14,1.021,30.0
+6377,Interceptions,14,0.533,60.0
+6378,Interceptions,14,0.0,50.0
+6379,Interceptions,14,0.593,14.0
+6381,Interceptions,14,1.005,55.0
+6382,Interceptions,14,0.205,15.0
+6384,Interceptions,14,1.0,54.0
+6386,Interceptions,14,1.588,85.0
+6389,Interceptions,14,1.392,84.0
+6390,Interceptions,14,0.642,71.0
+6391,Interceptions,14,0.954,50.0
+6392,Interceptions,14,1.119,92.0
+6393,Interceptions,14,0.437,51.0
+6394,Interceptions,14,0.094,4.0
+6396,Interceptions,14,1.207,73.0
+6399,Interceptions,14,0.709,73.0
+6401,Interceptions,14,0.458,53.0
+6402,Interceptions,14,0.358,35.0
+6557,Interceptions,14,0.747,26.0
+6559,Interceptions,14,0.763,29.0
+6561,Interceptions,14,2.397,100.0
+6563,Interceptions,14,0.752,28.0
+6566,Interceptions,14,0.102,5.0
+6569,Interceptions,14,1.27,61.0
+6573,Interceptions,14,1.489,78.0
+6576,Interceptions,14,0.0,50.0
+6580,Interceptions,14,0.794,32.0
+6581,Interceptions,14,1.129,93.0
+6592,Interceptions,14,1.664,91.0
+6593,Interceptions,14,1.045,34.0
+6594,Interceptions,14,0.333,31.0
+6595,Interceptions,14,0.951,49.0
+6596,Interceptions,14,0.721,12.0
+6599,Interceptions,14,1.374,82.0
+6602,Interceptions,14,0.559,62.0
+6605,Interceptions,14,0.57,5.0
+6608,Interceptions,14,0.51,8.0
+6609,Interceptions,14,0.767,31.0
+6610,Interceptions,14,0.0,50.0
+6612,Interceptions,14,1.212,52.0
+6614,Interceptions,14,1.416,69.0
+6622,Interceptions,14,1.111,64.0
+6624,Interceptions,14,0.518,58.0
+6625,Interceptions,14,0.0,50.0
+6626,Interceptions,14,0.555,11.0
+6627,Interceptions,14,1.122,40.0
+6630,Interceptions,14,0.093,2.0
+6633,Interceptions,14,1.617,93.0
+6647,Interceptions,14,1.517,80.0
+6649,Interceptions,14,1.538,81.0
+6651,Interceptions,14,0.625,16.0
+6654,Interceptions,14,0.0,50.0
+6659,Interceptions,14,1.067,59.0
+6663,Interceptions,14,1.362,65.0
+6665,Interceptions,14,1.255,58.0
+6666,Interceptions,14,0.46,54.0
+6668,Interceptions,14,1.014,56.0
+6669,Interceptions,14,1.488,100.0
+6671,Interceptions,14,2.233,100.0
+6672,Interceptions,14,1.0,27.0
+6673,Interceptions,14,0.389,4.0
+6674,Interceptions,14,0.975,27.0
+6675,Interceptions,14,1.471,75.0
+6677,Interceptions,14,0.224,19.0
+6679,Interceptions,14,1.446,73.0
+6680,Interceptions,14,0.917,44.0
+6685,Interceptions,14,0.347,34.0
+6690,Interceptions,14,0.439,6.0
+6694,Interceptions,14,0.0,50.0
+6697,Interceptions,14,1.022,57.0
+6699,Interceptions,14,1.644,90.0
+6700,Interceptions,14,0.216,16.0
+6702,Interceptions,14,1.085,36.0
+6707,Interceptions,14,0.29,27.0
+6712,Interceptions,14,1.612,92.0
+6713,Interceptions,14,1.422,70.0
+6718,Interceptions,14,1.482,77.0
+6720,Interceptions,14,0.797,34.0
+6721,Interceptions,14,0.05,1.0
+6724,Interceptions,14,0.599,67.0
+6727,Interceptions,14,1.256,59.0
+6728,Interceptions,14,1.356,99.0
+6730,Interceptions,14,0.0,50.0
+6732,Interceptions,14,0.194,13.0
+6733,Interceptions,14,1.085,62.0
+6734,Interceptions,14,0.627,9.0
+6736,Interceptions,14,0.94,48.0
+6738,Interceptions,14,1.469,74.0
+6740,Interceptions,14,0.933,46.0
+6742,Interceptions,14,0.57,64.0
+6744,Interceptions,14,0.365,39.0
+6745,Interceptions,14,1.177,70.0
+6751,Interceptions,14,1.148,67.0
+6752,Interceptions,14,1.706,92.0
+6758,Interceptions,14,1.104,64.0
+6761,Interceptions,14,0.204,14.0
+6762,Interceptions,14,0.781,15.0
+6764,Interceptions,14,0.992,53.0
+6766,Interceptions,14,0.545,61.0
+6771,Interceptions,14,0.739,25.0
+6772,Interceptions,14,0.663,9.0
+6775,Interceptions,14,1.344,81.0
+6776,Interceptions,14,1.148,44.0
+6777,Interceptions,14,1.743,94.0
+6778,Interceptions,14,1.212,52.0
+6784,Interceptions,14,1.13,41.0
+6787,Interceptions,14,1.14,42.0
+6788,Interceptions,14,0.735,12.0
+6789,Interceptions,14,1.466,73.0
+6791,Interceptions,14,1.753,95.0
+6792,Interceptions,14,0.0,50.0
+6794,Interceptions,14,1.203,50.0
+6796,Interceptions,14,1.179,71.0
+6797,Interceptions,14,0.843,36.0
+6801,Interceptions,14,1.29,79.0
+6802,Interceptions,14,1.793,96.0
+6804,Interceptions,14,1.622,88.0
+6805,Interceptions,14,1.24,57.0
+6823,Interceptions,14,0.028,100.0
+6825,Interceptions,14,0.904,21.0
+6827,Interceptions,14,0.8,16.0
+6828,Interceptions,14,1.578,84.0
+6829,Interceptions,14,0.717,24.0
+6832,Interceptions,14,0.258,22.0
+6837,Interceptions,14,1.069,34.0
+6838,Interceptions,14,0.925,86.0
+6841,Interceptions,14,0.508,56.0
+6842,Interceptions,14,0.856,81.0
+6847,Interceptions,14,0.367,40.0
+6852,Interceptions,14,0.803,36.0
+6856,Interceptions,14,1.022,31.0
+6861,Interceptions,14,1.634,89.0
+6862,Interceptions,14,0.28,24.0
+6865,Interceptions,14,1.239,56.0
+6867,Interceptions,14,1.788,96.0
+6869,Interceptions,14,1.494,79.0
+6872,Interceptions,14,1.264,60.0
+6873,Interceptions,14,0.711,23.0
+6878,Interceptions,14,0.576,5.0
+6880,Interceptions,14,0.39,47.0
+6884,Interceptions,14,0.0,50.0
+6898,Interceptions,14,0.0,50.0
+6899,Interceptions,14,1.267,77.0
+6907,Interceptions,14,0.954,89.0
+6913,Interceptions,14,1.475,76.0
+6914,Interceptions,14,0.911,23.0
+6918,Interceptions,14,0.578,65.0
+6926,Interceptions,14,0.259,1.0
+6927,Interceptions,14,1.303,63.0
+6928,Interceptions,14,0.666,21.0
+6929,Interceptions,14,0.71,22.0
+6932,Interceptions,14,1.897,99.0
+6934,Interceptions,14,1.073,61.0
+6935,Interceptions,14,0.84,18.0
+7005,Interceptions,14,1.602,86.0
+7034,Interceptions,14,0.861,20.0
+7105,Interceptions,14,0.931,87.0
+7141,Interceptions,14,0.381,45.0
+7154,Interceptions,14,1.392,84.0
+7158,Interceptions,14,0.739,13.0
+7161,Interceptions,14,1.403,67.0
+7577,Interceptions,14,1.232,54.0
+7781,Interceptions,14,0.246,20.0
+7782,Interceptions,14,0.416,5.0
+7900,Interceptions,14,0.587,66.0
+7906,Interceptions,14,0.46,2.0
+7907,Interceptions,14,1.773,95.0
+8167,Interceptions,14,0.19,12.0
+8234,Interceptions,14,1.861,97.0
+8419,Interceptions,14,0.518,58.0
+8440,Interceptions,14,0.855,20.0
+8522,Interceptions,14,0.944,88.0
+8523,Interceptions,14,0.902,85.0
+8584,Interceptions,14,0.375,41.0
+8697,Interceptions,14,0.0,50.0
+8801,Interceptions,14,0.908,23.0
+8818,Interceptions,14,1.162,45.0
+10037,Interceptions,14,0.958,50.0
+10476,Interceptions,14,1.092,38.0
+10609,Interceptions,14,0.96,26.0
+10755,Interceptions,14,0.618,15.0
+10763,Interceptions,14,0.0,50.0
+10802,Interceptions,14,0.587,13.0
+11298,Interceptions,14,1.08,35.0
+11539,Interceptions,14,0.759,75.0
+11542,Interceptions,14,0.25,21.0
+11634,Interceptions,14,1.284,62.0
+11675,Interceptions,14,0.648,19.0
+13107,Interceptions,14,1.234,76.0
+15805,Interceptions,14,1.577,91.0
+15893,Interceptions,14,0.797,34.0
+16332,Interceptions,14,1.239,56.0
+16456,Interceptions,14,1.224,53.0
+16539,Interceptions,14,1.885,98.0
+16622,Interceptions,14,0.956,25.0
+17054,Interceptions,14,1.613,87.0
+18398,Interceptions,14,1.413,86.0
+18724,Interceptions,14,0.341,33.0
+18867,Interceptions,14,0.86,38.0
+18925,Interceptions,14,0.794,32.0
+19431,Interceptions,14,1.405,85.0
+19454,Interceptions,14,0.485,2.0
+19668,Interceptions,14,2.233,100.0
+19677,Interceptions,14,0.223,18.0
+20016,Interceptions,14,1.206,51.0
+20064,Interceptions,14,1.235,55.0
+20542,Interceptions,14,0.148,9.0
+20669,Interceptions,14,1.483,87.0
+21210,Interceptions,14,1.125,41.0
+22819,Interceptions,14,1.533,89.0
+23416,Interceptions,14,0.378,43.0
+23785,Interceptions,14,0.364,38.0
+23791,Interceptions,14,0.445,52.0
+23800,Interceptions,14,1.176,47.0
+23806,Interceptions,14,0.846,37.0
+23816,Interceptions,14,0.879,84.0
+23843,Interceptions,14,0.0,50.0
+23848,Interceptions,14,1.16,94.0
+23943,Interceptions,14,0.837,80.0
+23994,Interceptions,14,1.316,98.0
+24035,Interceptions,14,0.308,28.0
+24070,Interceptions,14,0.805,76.0
+24132,Interceptions,14,0.754,14.0
+24138,Interceptions,14,1.185,48.0
+24149,Interceptions,14,0.938,47.0
+24173,Interceptions,14,0.168,11.0
+24255,Interceptions,14,0.0,50.0
+24263,Interceptions,14,1.321,64.0
+24783,Interceptions,14,0.529,9.0
+25134,Interceptions,14,0.604,68.0
+25144,Interceptions,14,0.0,50.0
+25707,Interceptions,14,1.122,65.0
+25859,Interceptions,14,1.506,88.0
+25881,Interceptions,14,1.219,75.0
+25921,Interceptions,14,1.188,95.0
+26009,Interceptions,14,0.468,55.0
+26012,Interceptions,14,0.931,24.0
+26020,Interceptions,14,0.608,69.0
+26023,Interceptions,14,1.436,71.0
+26087,Interceptions,14,1.444,72.0
+26103,Interceptions,14,0.0,50.0
+26211,Interceptions,14,0.665,21.0
+26222,Interceptions,14,1.168,45.0
+26448,Interceptions,14,1.104,38.0
+26607,Interceptions,14,1.091,63.0
+26633,Interceptions,14,1.397,66.0
+26669,Interceptions,14,1.034,32.0
+26685,Interceptions,14,0.282,25.0
+26690,Interceptions,14,0.436,49.0
+26723,Interceptions,14,1.209,96.0
+26753,Interceptions,14,0.0,50.0
+26780,Interceptions,14,1.176,47.0
+26848,Interceptions,14,0.894,42.0
+27054,Interceptions,14,1.279,62.0
+27092,Interceptions,14,1.487,77.0
+27109,Interceptions,14,0.31,29.0
+27122,Interceptions,14,1.326,80.0
+27144,Interceptions,14,1.255,58.0
+27148,Interceptions,14,0.862,39.0
+27184,Interceptions,14,1.015,30.0
+27239,Interceptions,14,1.192,49.0
+27241,Interceptions,14,0.808,78.0
+27250,Interceptions,14,0.424,48.0
+27305,Interceptions,14,0.0,50.0
+27335,Interceptions,14,1.001,28.0
+27341,Interceptions,14,1.056,58.0
+27346,Interceptions,14,1.156,69.0
+27347,Interceptions,14,1.011,29.0
+27349,Interceptions,14,1.175,46.0
+27403,Interceptions,14,1.814,97.0
+27482,Interceptions,14,1.427,70.0
+27483,Interceptions,14,0.605,7.0
+27526,Interceptions,14,1.538,90.0
+27656,Interceptions,14,0.413,1.0
+3023,Ball recoveries,15,4.963,83.0
+3063,Ball recoveries,15,4.055,63.0
+3160,Ball recoveries,15,4.062,6.0
+3253,Ball recoveries,15,3.983,60.0
+3292,Ball recoveries,15,7.534,98.0
+3302,Ball recoveries,15,5.119,37.0
+3324,Ball recoveries,15,4.152,67.0
+3379,Ball recoveries,15,4.812,61.0
+3486,Ball recoveries,15,2.114,7.0
+3497,Ball recoveries,15,2.622,1.0
+3601,Ball recoveries,15,4.815,22.0
+3610,Ball recoveries,15,7.404,97.0
+3637,Ball recoveries,15,5.161,39.0
+3638,Ball recoveries,15,4.629,79.0
+4320,Ball recoveries,15,3.843,55.0
+4324,Ball recoveries,15,6.695,100.0
+4353,Ball recoveries,15,4.134,66.0
+4406,Ball recoveries,15,3.275,31.0
+4498,Ball recoveries,15,1.586,1.0
+4546,Ball recoveries,15,4.273,71.0
+4691,Ball recoveries,15,3.619,13.0
+4711,Ball recoveries,15,5.04,32.0
+4926,Ball recoveries,15,5.316,43.0
+5199,Ball recoveries,15,5.614,55.0
+5200,Ball recoveries,15,4.664,69.0
+5201,Ball recoveries,15,4.325,73.0
+5202,Ball recoveries,15,2.839,15.0
+5203,Ball recoveries,15,4.597,14.0
+5207,Ball recoveries,15,2.111,6.0
+5211,Ball recoveries,15,4.864,81.0
+5213,Ball recoveries,15,5.057,85.0
+5216,Ball recoveries,15,5.189,42.0
+5217,Ball recoveries,15,3.466,42.0
+5246,Ball recoveries,15,3.053,28.0
+5249,Ball recoveries,15,3.546,40.0
+5259,Ball recoveries,15,2.972,19.0
+5456,Ball recoveries,15,5.13,38.0
+5463,Ball recoveries,15,6.2,79.0
+5470,Ball recoveries,15,5.047,34.0
+5485,Ball recoveries,15,2.91,17.0
+5487,Ball recoveries,15,4.812,76.0
+5503,Ball recoveries,15,2.949,27.0
+5504,Ball recoveries,15,6.649,90.0
+5506,Ball recoveries,15,3.58,44.0
+5539,Ball recoveries,15,5.462,50.0
+5552,Ball recoveries,15,5.572,94.0
+5560,Ball recoveries,15,4.709,73.0
+5574,Ball recoveries,15,5.016,30.0
+5577,Ball recoveries,15,4.922,70.0
+5582,Ball recoveries,15,3.971,5.0
+5588,Ball recoveries,15,2.682,10.0
+5597,Ball recoveries,15,4.131,22.0
+5598,Ball recoveries,15,3.985,61.0
+5633,Ball recoveries,15,7.799,99.0
+5671,Ball recoveries,15,5.0,29.0
+5678,Ball recoveries,15,5.457,49.0
+5687,Ball recoveries,15,3.438,40.0
+5695,Ball recoveries,15,4.962,27.0
+5718,Ball recoveries,15,3.781,52.0
+5719,Ball recoveries,15,5.999,73.0
+5721,Ball recoveries,15,4.237,70.0
+5724,Ball recoveries,15,4.613,16.0
+5737,Ball recoveries,15,3.762,4.0
+5741,Ball recoveries,15,5.061,35.0
+6038,Ball recoveries,15,3.183,31.0
+6320,Ball recoveries,15,5.09,87.0
+6356,Ball recoveries,15,3.878,58.0
+6357,Ball recoveries,15,5.71,59.0
+6375,Ball recoveries,15,5.189,90.0
+6376,Ball recoveries,15,2.599,7.0
+6377,Ball recoveries,15,6.574,98.0
+6378,Ball recoveries,15,3.428,4.0
+6379,Ball recoveries,15,4.33,12.0
+6381,Ball recoveries,15,5.547,53.0
+6382,Ball recoveries,15,3.432,39.0
+6384,Ball recoveries,15,6.968,94.0
+6386,Ball recoveries,15,4.587,78.0
+6389,Ball recoveries,15,5.083,36.0
+6390,Ball recoveries,15,5.453,86.0
+6391,Ball recoveries,15,4.295,10.0
+6392,Ball recoveries,15,4.926,78.0
+6393,Ball recoveries,15,4.974,79.0
+6394,Ball recoveries,15,2.913,25.0
+6396,Ball recoveries,15,6.818,92.0
+6399,Ball recoveries,15,3.293,35.0
+6401,Ball recoveries,15,3.164,29.0
+6402,Ball recoveries,15,1.72,2.0
+6557,Ball recoveries,15,4.956,26.0
+6559,Ball recoveries,15,3.674,2.0
+6561,Ball recoveries,15,3.904,55.0
+6563,Ball recoveries,15,6.606,88.0
+6566,Ball recoveries,15,2.647,19.0
+6569,Ball recoveries,15,5.645,96.0
+6573,Ball recoveries,15,3.82,52.0
+6576,Ball recoveries,15,5.277,83.0
+6580,Ball recoveries,15,6.351,83.0
+6581,Ball recoveries,15,4.731,74.0
+6592,Ball recoveries,15,3.962,57.0
+6593,Ball recoveries,15,3.731,47.0
+6594,Ball recoveries,15,3.382,38.0
+6595,Ball recoveries,15,5.708,58.0
+6596,Ball recoveries,15,3.303,32.0
+6599,Ball recoveries,15,5.952,68.0
+6602,Ball recoveries,15,2.077,5.0
+6605,Ball recoveries,15,3.42,37.0
+6608,Ball recoveries,15,4.234,9.0
+6609,Ball recoveries,15,4.673,18.0
+6610,Ball recoveries,15,4.857,65.0
+6612,Ball recoveries,15,3.356,34.0
+6614,Ball recoveries,15,3.219,28.0
+6622,Ball recoveries,15,5.821,64.0
+6624,Ball recoveries,15,3.539,45.0
+6625,Ball recoveries,15,4.42,39.0
+6626,Ball recoveries,15,6.846,93.0
+6627,Ball recoveries,15,4.456,75.0
+6630,Ball recoveries,15,3.258,34.0
+6633,Ball recoveries,15,5.045,33.0
+6647,Ball recoveries,15,3.585,45.0
+6649,Ball recoveries,15,5.58,95.0
+6651,Ball recoveries,15,5.492,50.0
+6654,Ball recoveries,15,4.481,43.0
+6659,Ball recoveries,15,5.745,60.0
+6663,Ball recoveries,15,3.823,52.0
+6665,Ball recoveries,15,5.181,89.0
+6666,Ball recoveries,15,3.834,54.0
+6668,Ball recoveries,15,5.33,45.0
+6669,Ball recoveries,15,6.891,99.0
+6671,Ball recoveries,15,6.179,77.0
+6672,Ball recoveries,15,3.348,33.0
+6673,Ball recoveries,15,4.09,7.0
+6674,Ball recoveries,15,2.717,11.0
+6675,Ball recoveries,15,3.981,59.0
+6677,Ball recoveries,15,2.317,9.0
+6679,Ball recoveries,15,3.799,51.0
+6680,Ball recoveries,15,7.304,96.0
+6685,Ball recoveries,15,4.744,75.0
+6690,Ball recoveries,15,4.097,7.0
+6694,Ball recoveries,15,4.307,26.0
+6697,Ball recoveries,15,7.071,95.0
+6699,Ball recoveries,15,5.711,98.0
+6700,Ball recoveries,15,3.63,46.0
+6702,Ball recoveries,15,2.401,5.0
+6707,Ball recoveries,15,2.495,15.0
+6712,Ball recoveries,15,6.511,86.0
+6713,Ball recoveries,15,5.142,88.0
+6718,Ball recoveries,15,4.149,66.0
+6720,Ball recoveries,15,5.993,71.0
+6721,Ball recoveries,15,2.39,12.0
+6724,Ball recoveries,15,5.634,87.0
+6727,Ball recoveries,15,3.734,48.0
+6728,Ball recoveries,15,6.199,94.0
+6730,Ball recoveries,15,4.308,30.0
+6732,Ball recoveries,15,3.218,33.0
+6733,Ball recoveries,15,5.317,44.0
+6734,Ball recoveries,15,3.527,38.0
+6736,Ball recoveries,15,6.226,80.0
+6738,Ball recoveries,15,5.681,97.0
+6740,Ball recoveries,15,5.907,66.0
+6742,Ball recoveries,15,6.921,100.0
+6744,Ball recoveries,15,4.102,62.0
+6745,Ball recoveries,15,6.964,93.0
+6751,Ball recoveries,15,5.655,56.0
+6752,Ball recoveries,15,3.962,57.0
+6758,Ball recoveries,15,4.758,21.0
+6761,Ball recoveries,15,3.528,44.0
+6762,Ball recoveries,15,3.259,30.0
+6764,Ball recoveries,15,6.809,91.0
+6766,Ball recoveries,15,3.451,41.0
+6771,Ball recoveries,15,5.376,47.0
+6772,Ball recoveries,15,3.981,59.0
+6775,Ball recoveries,15,6.375,84.0
+6776,Ball recoveries,15,3.518,38.0
+6777,Ball recoveries,15,5.019,84.0
+6778,Ball recoveries,15,3.733,48.0
+6784,Ball recoveries,15,5.214,91.0
+6787,Ball recoveries,15,4.76,80.0
+6788,Ball recoveries,15,2.765,12.0
+6789,Ball recoveries,15,4.967,84.0
+6791,Ball recoveries,15,4.938,82.0
+6792,Ball recoveries,15,4.643,57.0
+6794,Ball recoveries,15,5.268,92.0
+6796,Ball recoveries,15,6.012,75.0
+6797,Ball recoveries,15,4.182,8.0
+6801,Ball recoveries,15,6.072,76.0
+6802,Ball recoveries,15,4.32,73.0
+6804,Ball recoveries,15,4.105,65.0
+6805,Ball recoveries,15,3.574,41.0
+6823,Ball recoveries,15,4.533,52.0
+6825,Ball recoveries,15,3.37,35.0
+6827,Ball recoveries,15,1.868,2.0
+6828,Ball recoveries,15,3.211,27.0
+6829,Ball recoveries,15,5.837,64.0
+6832,Ball recoveries,15,2.834,20.0
+6837,Ball recoveries,15,3.789,50.0
+6838,Ball recoveries,15,5.656,88.0
+6841,Ball recoveries,15,5.377,84.0
+6842,Ball recoveries,15,6.503,96.0
+6847,Ball recoveries,15,3.724,48.0
+6852,Ball recoveries,15,5.371,46.0
+6856,Ball recoveries,15,3.577,43.0
+6861,Ball recoveries,15,3.857,55.0
+6862,Ball recoveries,15,2.939,26.0
+6865,Ball recoveries,15,3.207,27.0
+6867,Ball recoveries,15,5.785,62.0
+6869,Ball recoveries,15,3.242,29.0
+6872,Ball recoveries,15,3.083,22.0
+6873,Ball recoveries,15,5.867,65.0
+6878,Ball recoveries,15,2.128,3.0
+6880,Ball recoveries,15,3.316,36.0
+6884,Ball recoveries,15,4.359,35.0
+6898,Ball recoveries,15,3.914,17.0
+6899,Ball recoveries,15,5.996,72.0
+6907,Ball recoveries,15,4.149,64.0
+6913,Ball recoveries,15,3.687,46.0
+6914,Ball recoveries,15,3.364,34.0
+6918,Ball recoveries,15,3.866,56.0
+6926,Ball recoveries,15,4.875,23.0
+6927,Ball recoveries,15,2.822,13.0
+6928,Ball recoveries,15,5.164,40.0
+6929,Ball recoveries,15,4.794,21.0
+6932,Ball recoveries,15,4.064,64.0
+6934,Ball recoveries,15,5.426,48.0
+6935,Ball recoveries,15,4.482,77.0
+7005,Ball recoveries,15,5.259,91.0
+7034,Ball recoveries,15,3.96,56.0
+7105,Ball recoveries,15,6.309,95.0
+7141,Ball recoveries,15,4.196,66.0
+7154,Ball recoveries,15,5.749,61.0
+7158,Ball recoveries,15,3.048,21.0
+7161,Ball recoveries,15,3.087,23.0
+7577,Ball recoveries,15,2.619,8.0
+7781,Ball recoveries,15,1.846,4.0
+7782,Ball recoveries,15,4.616,17.0
+7900,Ball recoveries,15,5.398,85.0
+7906,Ball recoveries,15,4.559,77.0
+7907,Ball recoveries,15,2.844,16.0
+8167,Ball recoveries,15,3.744,49.0
+8234,Ball recoveries,15,6.189,78.0
+8419,Ball recoveries,15,3.194,32.0
+8440,Ball recoveries,15,3.026,20.0
+8522,Ball recoveries,15,5.72,91.0
+8523,Ball recoveries,15,3.982,60.0
+8584,Ball recoveries,15,2.199,8.0
+8697,Ball recoveries,15,5.51,91.0
+8801,Ball recoveries,15,4.178,68.0
+8818,Ball recoveries,15,3.125,25.0
+10037,Ball recoveries,15,4.981,28.0
+10476,Ball recoveries,15,3.567,41.0
+10609,Ball recoveries,15,2.88,16.0
+10755,Ball recoveries,15,4.688,19.0
+10763,Ball recoveries,15,5.997,100.0
+10802,Ball recoveries,15,6.27,82.0
+11298,Ball recoveries,15,3.599,45.0
+11539,Ball recoveries,15,5.079,80.0
+11542,Ball recoveries,15,2.588,18.0
+11634,Ball recoveries,15,5.502,93.0
+11675,Ball recoveries,15,6.484,85.0
+13107,Ball recoveries,15,5.535,52.0
+15805,Ball recoveries,15,6.214,79.0
+15893,Ball recoveries,15,5.503,51.0
+16332,Ball recoveries,15,2.955,18.0
+16456,Ball recoveries,15,2.623,9.0
+16539,Ball recoveries,15,3.544,39.0
+16622,Ball recoveries,15,2.811,12.0
+17054,Ball recoveries,15,3.854,54.0
+18398,Ball recoveries,15,4.923,25.0
+18724,Ball recoveries,15,4.699,72.0
+18867,Ball recoveries,15,4.904,24.0
+18925,Ball recoveries,15,5.693,57.0
+19431,Ball recoveries,15,5.971,70.0
+19454,Ball recoveries,15,2.288,4.0
+19668,Ball recoveries,15,6.62,89.0
+19677,Ball recoveries,15,2.898,24.0
+20016,Ball recoveries,15,4.036,62.0
+20064,Ball recoveries,15,3.836,53.0
+20542,Ball recoveries,15,2.438,13.0
+20669,Ball recoveries,15,5.027,31.0
+21210,Ball recoveries,15,4.294,72.0
+22819,Ball recoveries,15,5.965,69.0
+23416,Ball recoveries,15,1.512,1.0
+23785,Ball recoveries,15,4.151,65.0
+23791,Ball recoveries,15,3.823,53.0
+23800,Ball recoveries,15,4.368,74.0
+23806,Ball recoveries,15,5.923,67.0
+23816,Ball recoveries,15,5.715,89.0
+23843,Ball recoveries,15,5.492,87.0
+23848,Ball recoveries,15,5.799,92.0
+23943,Ball recoveries,15,5.188,81.0
+23994,Ball recoveries,15,4.278,67.0
+24035,Ball recoveries,15,2.375,11.0
+24070,Ball recoveries,15,5.262,82.0
+24132,Ball recoveries,15,2.829,14.0
+24138,Ball recoveries,15,4.232,69.0
+24149,Ball recoveries,15,5.096,36.0
+24173,Ball recoveries,15,2.85,21.0
+24255,Ball recoveries,15,5.049,78.0
+24263,Ball recoveries,15,5.144,88.0
+24783,Ball recoveries,15,4.757,20.0
+25134,Ball recoveries,15,3.989,61.0
+25144,Ball recoveries,15,3.489,9.0
+25707,Ball recoveries,15,4.312,11.0
+25859,Ball recoveries,15,5.787,63.0
+25881,Ball recoveries,15,3.727,3.0
+25921,Ball recoveries,15,4.555,68.0
+26009,Ball recoveries,15,2.884,22.0
+26012,Ball recoveries,15,2.535,6.0
+26020,Ball recoveries,15,4.693,71.0
+26023,Ball recoveries,15,4.252,70.0
+26087,Ball recoveries,15,3.116,24.0
+26103,Ball recoveries,15,4.991,74.0
+26211,Ball recoveries,15,5.605,54.0
+26222,Ball recoveries,15,5.079,86.0
+26448,Ball recoveries,15,3.258,30.0
+26607,Ball recoveries,15,4.602,15.0
+26633,Ball recoveries,15,4.011,62.0
+26669,Ball recoveries,15,4.469,76.0
+26685,Ball recoveries,15,3.779,51.0
+26690,Ball recoveries,15,2.528,16.0
+26723,Ball recoveries,15,6.045,93.0
+26753,Ball recoveries,15,5.634,96.0
+26780,Ball recoveries,15,3.748,49.0
+26848,Ball recoveries,15,6.006,74.0
+27054,Ball recoveries,15,2.622,9.0
+27092,Ball recoveries,15,5.859,98.0
+27109,Ball recoveries,15,3.718,47.0
+27122,Ball recoveries,15,5.185,41.0
+27144,Ball recoveries,15,2.343,5.0
+27148,Ball recoveries,15,4.39,13.0
+27184,Ball recoveries,15,3.202,26.0
+27239,Ball recoveries,15,3.575,42.0
+27241,Ball recoveries,15,3.906,59.0
+27250,Ball recoveries,15,2.459,14.0
+27305,Ball recoveries,15,4.482,48.0
+27335,Ball recoveries,15,5.921,99.0
+27341,Ball recoveries,15,6.514,87.0
+27346,Ball recoveries,15,6.263,81.0
+27347,Ball recoveries,15,5.609,95.0
+27349,Ball recoveries,15,3.097,23.0
+27403,Ball recoveries,15,4.772,80.0
+27482,Ball recoveries,15,3.026,20.0
+27483,Ball recoveries,15,3.385,36.0
+27526,Ball recoveries,15,8.579,100.0
+27656,Ball recoveries,15,1.651,2.0
+3023,Pressures,16,13.897,80.0
+3063,Pressures,16,11.397,61.0
+3160,Pressures,16,16.307,35.0
+3253,Pressures,16,4.88,2.0
+3292,Pressures,16,21.333,78.0
+3302,Pressures,16,15.356,22.0
+3324,Pressures,16,8.131,26.0
+3379,Pressures,16,0.06,26.0
+3486,Pressures,16,15.403,49.0
+3497,Pressures,16,13.713,12.0
+3601,Pressures,16,17.207,43.0
+3610,Pressures,16,14.994,21.0
+3637,Pressures,16,13.838,13.0
+3638,Pressures,16,11.589,63.0
+4320,Pressures,16,11.241,15.0
+4324,Pressures,16,15.555,92.0
+4353,Pressures,16,9.252,41.0
+4406,Pressures,16,9.358,44.0
+4498,Pressures,16,5.685,5.0
+4546,Pressures,16,13.943,80.0
+4691,Pressures,16,0.091,52.0
+4711,Pressures,16,15.534,26.0
+4926,Pressures,16,16.428,36.0
+5199,Pressures,16,19.605,69.0
+5200,Pressures,16,20.328,85.0
+5201,Pressures,16,8.965,34.0
+5202,Pressures,16,8.218,27.0
+5203,Pressures,16,17.603,49.0
+5207,Pressures,16,4.688,1.0
+5211,Pressures,16,10.268,51.0
+5213,Pressures,16,6.245,8.0
+5216,Pressures,16,14.708,18.0
+5217,Pressures,16,14.592,44.0
+5246,Pressures,16,9.298,5.0
+5249,Pressures,16,7.912,23.0
+5259,Pressures,16,9.023,37.0
+5456,Pressures,16,19.277,64.0
+5463,Pressures,16,14.075,15.0
+5470,Pressures,16,16.369,36.0
+5485,Pressures,16,6.458,9.0
+5487,Pressures,16,17.837,73.0
+5503,Pressures,16,6.123,2.0
+5504,Pressures,16,18.17,54.0
+5506,Pressures,16,11.52,62.0
+5539,Pressures,16,23.099,89.0
+5552,Pressures,16,9.98,48.0
+5560,Pressures,16,13.618,34.0
+5574,Pressures,16,21.469,79.0
+5577,Pressures,16,0.182,87.0
+5582,Pressures,16,14.011,14.0
+5588,Pressures,16,8.492,30.0
+5597,Pressures,16,0.114,74.0
+5598,Pressures,16,9.637,45.0
+5633,Pressures,16,16.879,42.0
+5671,Pressures,16,19.073,63.0
+5678,Pressures,16,15.397,23.0
+5687,Pressures,16,17.728,71.0
+5695,Pressures,16,17.715,50.0
+5718,Pressures,16,15.627,52.0
+5719,Pressures,16,17.532,48.0
+5721,Pressures,16,15.07,89.0
+5724,Pressures,16,16.223,33.0
+5737,Pressures,16,15.94,30.0
+5741,Pressures,16,19.469,68.0
+6038,Pressures,16,17.812,72.0
+6320,Pressures,16,15.362,91.0
+6356,Pressures,16,13.807,39.0
+6357,Pressures,16,22.196,87.0
+6375,Pressures,16,9.03,38.0
+6376,Pressures,16,7.241,17.0
+6377,Pressures,16,25.585,98.0
+6378,Pressures,16,0.0,7.0
+6379,Pressures,16,15.406,24.0
+6381,Pressures,16,23.417,91.0
+6382,Pressures,16,14.956,46.0
+6384,Pressures,16,21.965,85.0
+6386,Pressures,16,14.877,88.0
+6389,Pressures,16,19.296,65.0
+6390,Pressures,16,21.813,89.0
+6391,Pressures,16,23.456,92.0
+6392,Pressures,16,15.748,54.0
+6393,Pressures,16,15.686,53.0
+6394,Pressures,16,9.804,8.0
+6396,Pressures,16,19.338,66.0
+6399,Pressures,16,10.03,9.0
+6401,Pressures,16,13.655,35.0
+6402,Pressures,16,13.936,40.0
+6557,Pressures,16,14.987,20.0
+6559,Pressures,16,10.815,2.0
+6561,Pressures,16,5.493,4.0
+6563,Pressures,16,20.999,75.0
+6566,Pressures,16,18.698,75.0
+6569,Pressures,16,12.418,69.0
+6573,Pressures,16,9.129,39.0
+6576,Pressures,16,0.027,13.0
+6580,Pressures,16,18.736,60.0
+6581,Pressures,16,14.131,41.0
+6592,Pressures,16,12.599,71.0
+6593,Pressures,16,18.058,100.0
+6594,Pressures,16,22.623,93.0
+6595,Pressures,16,25.97,97.0
+6596,Pressures,16,13.333,76.0
+6599,Pressures,16,23.174,90.0
+6602,Pressures,16,23.487,95.0
+6605,Pressures,16,15.106,90.0
+6608,Pressures,16,12.344,5.0
+6609,Pressures,16,17.89,52.0
+6610,Pressures,16,0.09,48.0
+6612,Pressures,16,14.265,83.0
+6614,Pressures,16,3.541,1.0
+6622,Pressures,16,16.51,37.0
+6624,Pressures,16,11.997,21.0
+6625,Pressures,16,0.051,17.0
+6626,Pressures,16,18.503,57.0
+6627,Pressures,16,16.075,95.0
+6630,Pressures,16,12.007,22.0
+6633,Pressures,16,18.691,59.0
+6647,Pressures,16,7.239,16.0
+6649,Pressures,16,17.464,98.0
+6651,Pressures,16,11.208,4.0
+6654,Pressures,16,0.162,83.0
+6659,Pressures,16,18.959,62.0
+6663,Pressures,16,13.512,77.0
+6665,Pressures,16,6.855,13.0
+6666,Pressures,16,14.724,45.0
+6668,Pressures,16,16.645,39.0
+6669,Pressures,16,20.28,84.0
+6671,Pressures,16,22.177,86.0
+6672,Pressures,16,13.693,78.0
+6673,Pressures,16,18.014,53.0
+6674,Pressures,16,10.451,52.0
+6675,Pressures,16,12.548,70.0
+6677,Pressures,16,11.735,19.0
+6679,Pressures,16,12.91,72.0
+6680,Pressures,16,17.466,47.0
+6685,Pressures,16,22.042,91.0
+6690,Pressures,16,13.608,11.0
+6694,Pressures,16,0.245,100.0
+6697,Pressures,16,21.051,76.0
+6699,Pressures,16,12.982,73.0
+6700,Pressures,16,20.592,86.0
+6702,Pressures,16,7.86,23.0
+6707,Pressures,16,12.038,24.0
+6712,Pressures,16,24.617,94.0
+6713,Pressures,16,13.187,74.0
+6718,Pressures,16,14.818,86.0
+6720,Pressures,16,21.824,83.0
+6721,Pressures,16,12.997,29.0
+6724,Pressures,16,13.523,32.0
+6727,Pressures,16,7.231,16.0
+6728,Pressures,16,24.152,96.0
+6730,Pressures,16,0.0,7.0
+6732,Pressures,16,15.259,47.0
+6733,Pressures,16,23.465,93.0
+6734,Pressures,16,15.442,91.0
+6736,Pressures,16,17.796,51.0
+6738,Pressures,16,10.643,54.0
+6740,Pressures,16,13.244,8.0
+6742,Pressures,16,26.581,99.0
+6744,Pressures,16,18.778,76.0
+6745,Pressures,16,21.71,82.0
+6751,Pressures,16,24.702,95.0
+6752,Pressures,16,5.032,2.0
+6758,Pressures,16,27.177,99.0
+6761,Pressures,16,18.996,78.0
+6762,Pressures,16,6.706,12.0
+6764,Pressures,16,15.139,21.0
+6766,Pressures,16,15.895,58.0
+6771,Pressures,16,16.868,41.0
+6772,Pressures,16,9.831,47.0
+6775,Pressures,16,15.981,31.0
+6776,Pressures,16,13.22,75.0
+6777,Pressures,16,6.642,11.0
+6778,Pressures,16,6.012,6.0
+6784,Pressures,16,10.902,57.0
+6787,Pressures,16,14.213,82.0
+6788,Pressures,16,9.242,40.0
+6789,Pressures,16,14.601,85.0
+6791,Pressures,16,15.745,94.0
+6792,Pressures,16,0.19,91.0
+6794,Pressures,16,12.065,66.0
+6796,Pressures,16,20.806,73.0
+6797,Pressures,16,12.677,6.0
+6801,Pressures,16,20.342,72.0
+6802,Pressures,16,16.457,96.0
+6804,Pressures,16,11.256,59.0
+6805,Pressures,16,15.713,93.0
+6823,Pressures,16,0.113,70.0
+6825,Pressures,16,10.85,56.0
+6827,Pressures,16,7.471,18.0
+6828,Pressures,16,10.987,58.0
+6829,Pressures,16,22.888,88.0
+6832,Pressures,16,6.184,4.0
+6837,Pressures,16,8.906,34.0
+6838,Pressures,16,19.919,82.0
+6841,Pressures,16,20.915,88.0
+6842,Pressures,16,12.149,25.0
+6847,Pressures,16,20.82,87.0
+6852,Pressures,16,17.254,44.0
+6856,Pressures,16,14.819,87.0
+6861,Pressures,16,10.119,50.0
+6862,Pressures,16,17.727,69.0
+6865,Pressures,16,12.391,68.0
+6867,Pressures,16,17.426,45.0
+6869,Pressures,16,9.312,43.0
+6872,Pressures,16,10.574,53.0
+6873,Pressures,16,16.0,32.0
+6878,Pressures,16,10.682,55.0
+6880,Pressures,16,15.88,56.0
+6884,Pressures,16,0.095,57.0
+6898,Pressures,16,0.057,22.0
+6899,Pressures,16,17.451,46.0
+6907,Pressures,16,17.503,68.0
+6913,Pressures,16,11.533,62.0
+6914,Pressures,16,12.3,67.0
+6918,Pressures,16,11.997,21.0
+6926,Pressures,16,10.231,1.0
+6927,Pressures,16,7.978,24.0
+6928,Pressures,16,21.532,79.0
+6929,Pressures,16,14.739,19.0
+6932,Pressures,16,11.186,59.0
+6934,Pressures,16,13.313,9.0
+6935,Pressures,16,12.232,66.0
+7005,Pressures,16,13.968,81.0
+7034,Pressures,16,7.748,20.0
+7105,Pressures,16,11.235,14.0
+7141,Pressures,16,16.86,65.0
+7154,Pressures,16,26.746,98.0
+7158,Pressures,16,9.852,48.0
+7161,Pressures,16,8.901,33.0
+7577,Pressures,16,17.871,98.0
+7781,Pressures,16,12.923,28.0
+7782,Pressures,16,15.762,27.0
+7900,Pressures,16,12.517,26.0
+7906,Pressures,16,14.595,84.0
+7907,Pressures,16,8.976,36.0
+8167,Pressures,16,13.272,31.0
+8234,Pressures,16,19.131,64.0
+8419,Pressures,16,17.004,66.0
+8440,Pressures,16,7.663,19.0
+8522,Pressures,16,16.631,61.0
+8523,Pressures,16,10.405,13.0
+8584,Pressures,16,16.519,60.0
+8697,Pressures,16,0.156,78.0
+8801,Pressures,16,11.807,65.0
+8818,Pressures,16,8.775,32.0
+10037,Pressures,16,21.839,84.0
+10476,Pressures,16,7.206,15.0
+10609,Pressures,16,6.17,7.0
+10755,Pressures,16,18.357,56.0
+10763,Pressures,16,0.085,43.0
+10802,Pressures,16,21.121,77.0
+11298,Pressures,16,16.142,95.0
+11539,Pressures,16,16.755,62.0
+11542,Pressures,16,15.61,51.0
+11634,Pressures,16,11.676,64.0
+11675,Pressures,16,19.452,67.0
+13107,Pressures,16,25.366,96.0
+15805,Pressures,16,15.767,28.0
+15893,Pressures,16,20.836,74.0
+16332,Pressures,16,16.871,97.0
+16456,Pressures,16,8.427,29.0
+16539,Pressures,16,9.087,38.0
+16622,Pressures,16,7.815,22.0
+17054,Pressures,16,10.666,55.0
+18398,Pressures,16,21.64,81.0
+18724,Pressures,16,12.531,27.0
+18867,Pressures,16,18.583,58.0
+18925,Pressures,16,20.036,71.0
+19431,Pressures,16,14.224,17.0
+19454,Pressures,16,6.724,12.0
+19668,Pressures,16,23.729,93.0
+19677,Pressures,16,10.077,11.0
+20016,Pressures,16,8.257,28.0
+20064,Pressures,16,13.845,79.0
+20542,Pressures,16,9.751,7.0
+20669,Pressures,16,15.493,25.0
+21210,Pressures,16,10.327,52.0
+22819,Pressures,16,10.863,3.0
+23416,Pressures,16,9.686,6.0
+23785,Pressures,16,10.342,12.0
+23791,Pressures,16,11.381,16.0
+23800,Pressures,16,12.431,70.0
+23806,Pressures,16,17.77,50.0
+23816,Pressures,16,22.566,92.0
+23843,Pressures,16,0.084,39.0
+23848,Pressures,16,26.963,100.0
+23943,Pressures,16,22.762,94.0
+23994,Pressures,16,16.782,64.0
+24035,Pressures,16,15.833,55.0
+24070,Pressures,16,13.558,33.0
+24132,Pressures,16,8.771,31.0
+24138,Pressures,16,18.03,99.0
+24149,Pressures,16,18.307,55.0
+24173,Pressures,16,11.653,18.0
+24255,Pressures,16,0.096,61.0
+24263,Pressures,16,14.425,84.0
+24783,Pressures,16,21.539,80.0
+25134,Pressures,16,19.181,79.0
+25144,Pressures,16,0.074,35.0
+25707,Pressures,16,16.717,40.0
+25859,Pressures,16,14.111,16.0
+25881,Pressures,16,15.884,29.0
+25921,Pressures,16,16.439,59.0
+26009,Pressures,16,13.798,38.0
+26012,Pressures,16,5.432,3.0
+26020,Pressures,16,17.381,67.0
+26023,Pressures,16,8.216,27.0
+26087,Pressures,16,7.751,20.0
+26103,Pressures,16,0.07,30.0
+26211,Pressures,16,13.11,7.0
+26222,Pressures,16,9.295,42.0
+26448,Pressures,16,8.061,25.0
+26607,Pressures,16,18.881,61.0
+26633,Pressures,16,12.963,73.0
+26669,Pressures,16,8.604,30.0
+26685,Pressures,16,19.855,81.0
+26690,Pressures,16,13.774,36.0
+26723,Pressures,16,19.854,80.0
+26753,Pressures,16,0.224,96.0
+26780,Pressures,16,11.319,60.0
+26848,Pressures,16,12.961,7.0
+27054,Pressures,16,13.557,77.0
+27092,Pressures,16,15.042,88.0
+27109,Pressures,16,18.003,74.0
+27122,Pressures,16,13.546,10.0
+27144,Pressures,16,10.042,49.0
+27148,Pressures,16,16.227,34.0
+27184,Pressures,16,9.294,41.0
+27239,Pressures,16,6.528,9.0
+27241,Pressures,16,15.264,48.0
+27250,Pressures,16,14.247,42.0
+27305,Pressures,16,0.102,65.0
+27335,Pressures,16,9.673,45.0
+27341,Pressures,16,16.549,38.0
+27346,Pressures,16,27.773,100.0
+27347,Pressures,16,6.569,10.0
+27349,Pressures,16,8.971,35.0
+27403,Pressures,16,7.808,21.0
+27482,Pressures,16,9.706,46.0
+27483,Pressures,16,6.891,14.0
+27526,Pressures,16,19.91,70.0
+27656,Pressures,16,5.641,5.0
+3023,Pass completion,17,0.7477,34.0
+3063,Pass completion,17,0.8451,90.0
+3160,Pass completion,17,0.7654,37.0
+3253,Pass completion,17,0.7834,60.0
+3292,Pass completion,17,0.8354,81.0
+3302,Pass completion,17,0.6294,4.0
+3324,Pass completion,17,0.7757,53.0
+3379,Pass completion,17,0.5587,39.0
+3486,Pass completion,17,0.6427,20.0
+3497,Pass completion,17,0.68,10.0
+3601,Pass completion,17,0.7208,16.0
+3610,Pass completion,17,0.8689,91.0
+3637,Pass completion,17,0.8301,79.0
+3638,Pass completion,17,0.8099,77.0
+4320,Pass completion,17,0.7777,89.0
+4324,Pass completion,17,0.8534,91.0
+4353,Pass completion,17,0.8175,79.0
+4406,Pass completion,17,0.8233,85.0
+4498,Pass completion,17,0.8204,84.0
+4546,Pass completion,17,0.765,48.0
+4691,Pass completion,17,0.8446,100.0
+4711,Pass completion,17,0.7502,22.0
+4926,Pass completion,17,0.8535,87.0
+5199,Pass completion,17,0.7672,40.0
+5200,Pass completion,17,0.8026,98.0
+5201,Pass completion,17,0.893,98.0
+5202,Pass completion,17,0.8962,98.0
+5203,Pass completion,17,0.9069,99.0
+5207,Pass completion,17,0.7661,87.0
+5211,Pass completion,17,0.8598,93.0
+5213,Pass completion,17,0.9168,100.0
+5216,Pass completion,17,0.8743,93.0
+5217,Pass completion,17,0.7623,86.0
+5246,Pass completion,17,0.7266,69.0
+5249,Pass completion,17,0.7917,67.0
+5259,Pass completion,17,0.7472,34.0
+5456,Pass completion,17,0.9004,98.0
+5463,Pass completion,17,0.8925,97.0
+5470,Pass completion,17,0.8615,89.0
+5485,Pass completion,17,0.8839,96.0
+5487,Pass completion,17,0.7841,94.0
+5503,Pass completion,17,0.8017,96.0
+5504,Pass completion,17,0.7663,39.0
+5506,Pass completion,17,0.9157,99.0
+5539,Pass completion,17,0.8684,90.0
+5552,Pass completion,17,0.8184,82.0
+5560,Pass completion,17,0.7342,74.0
+5574,Pass completion,17,0.913,100.0
+5577,Pass completion,17,0.568,48.0
+5582,Pass completion,17,0.8097,64.0
+5588,Pass completion,17,0.7767,55.0
+5597,Pass completion,17,0.6928,87.0
+5598,Pass completion,17,0.7457,32.0
+5633,Pass completion,17,0.7599,32.0
+5671,Pass completion,17,0.7941,57.0
+5678,Pass completion,17,0.7399,21.0
+5687,Pass completion,17,0.685,45.0
+5695,Pass completion,17,0.8138,66.0
+5718,Pass completion,17,0.7017,52.0
+5719,Pass completion,17,0.7186,15.0
+5721,Pass completion,17,0.8673,95.0
+5724,Pass completion,17,0.7509,23.0
+5737,Pass completion,17,0.7843,50.0
+5741,Pass completion,17,0.8772,94.0
+6038,Pass completion,17,0.7247,64.0
+6320,Pass completion,17,0.7918,68.0
+6356,Pass completion,17,0.8052,99.0
+6357,Pass completion,17,0.7792,46.0
+6375,Pass completion,17,0.7562,42.0
+6376,Pass completion,17,0.7786,56.0
+6377,Pass completion,17,0.6667,31.0
+6378,Pass completion,17,0.5171,17.0
+6379,Pass completion,17,0.8717,92.0
+6381,Pass completion,17,0.7675,41.0
+6382,Pass completion,17,0.6555,27.0
+6384,Pass completion,17,0.8049,62.0
+6386,Pass completion,17,0.7584,45.0
+6389,Pass completion,17,0.7917,55.0
+6390,Pass completion,17,0.6968,49.0
+6391,Pass completion,17,0.6214,3.0
+6392,Pass completion,17,0.7424,79.0
+6393,Pass completion,17,0.6186,9.0
+6394,Pass completion,17,0.6271,15.0
+6396,Pass completion,17,0.7548,28.0
+6399,Pass completion,17,0.7459,82.0
+6401,Pass completion,17,0.7198,61.0
+6402,Pass completion,17,0.7271,71.0
+6557,Pass completion,17,0.7107,13.0
+6559,Pass completion,17,0.7178,14.0
+6561,Pass completion,17,0.7791,57.0
+6563,Pass completion,17,0.7383,20.0
+6566,Pass completion,17,0.694,48.0
+6569,Pass completion,17,0.7219,18.0
+6573,Pass completion,17,0.7097,13.0
+6576,Pass completion,17,0.6019,61.0
+6580,Pass completion,17,0.7916,54.0
+6581,Pass completion,17,0.59,4.0
+6592,Pass completion,17,0.7332,25.0
+6593,Pass completion,17,0.7919,69.0
+6594,Pass completion,17,0.7276,72.0
+6595,Pass completion,17,0.8154,68.0
+6596,Pass completion,17,0.7814,59.0
+6599,Pass completion,17,0.7564,29.0
+6602,Pass completion,17,0.7545,84.0
+6605,Pass completion,17,0.6886,8.0
+6608,Pass completion,17,0.7785,45.0
+6609,Pass completion,17,0.6786,9.0
+6610,Pass completion,17,0.4318,4.0
+6612,Pass completion,17,0.721,17.0
+6614,Pass completion,17,0.7909,65.0
+6622,Pass completion,17,0.7858,52.0
+6624,Pass completion,17,0.686,46.0
+6625,Pass completion,17,0.5282,26.0
+6626,Pass completion,17,0.7928,56.0
+6627,Pass completion,17,0.7595,45.0
+6630,Pass completion,17,0.6167,8.0
+6633,Pass completion,17,0.7976,59.0
+6647,Pass completion,17,0.7458,33.0
+6649,Pass completion,17,0.7293,23.0
+6651,Pass completion,17,0.7274,17.0
+6654,Pass completion,17,0.4336,9.0
+6659,Pass completion,17,0.8352,80.0
+6663,Pass completion,17,0.7759,54.0
+6665,Pass completion,17,0.7811,59.0
+6666,Pass completion,17,0.6502,25.0
+6668,Pass completion,17,0.6727,8.0
+6669,Pass completion,17,0.7736,88.0
+6671,Pass completion,17,0.7856,51.0
+6672,Pass completion,17,0.724,21.0
+6673,Pass completion,17,0.7652,36.0
+6674,Pass completion,17,0.7413,27.0
+6675,Pass completion,17,0.7137,15.0
+6677,Pass completion,17,0.6848,44.0
+6679,Pass completion,17,0.7509,38.0
+6680,Pass completion,17,0.6647,7.0
+6685,Pass completion,17,0.7006,51.0
+6690,Pass completion,17,0.7547,27.0
+6694,Pass completion,17,0.6208,65.0
+6697,Pass completion,17,0.7992,60.0
+6699,Pass completion,17,0.6254,1.0
+6700,Pass completion,17,0.6791,41.0
+6702,Pass completion,17,0.7874,62.0
+6707,Pass completion,17,0.7102,54.0
+6712,Pass completion,17,0.7295,18.0
+6713,Pass completion,17,0.8182,81.0
+6718,Pass completion,17,0.7234,19.0
+6720,Pass completion,17,0.6341,5.0
+6721,Pass completion,17,0.7382,76.0
+6724,Pass completion,17,0.6399,18.0
+6727,Pass completion,17,0.7119,14.0
+6728,Pass completion,17,0.7443,80.0
+6730,Pass completion,17,0.5521,30.0
+6732,Pass completion,17,0.7322,73.0
+6733,Pass completion,17,0.8203,74.0
+6734,Pass completion,17,0.6786,6.0
+6736,Pass completion,17,0.8176,71.0
+6738,Pass completion,17,0.6997,11.0
+6740,Pass completion,17,0.6207,2.0
+6742,Pass completion,17,0.6489,24.0
+6744,Pass completion,17,0.784,93.0
+6745,Pass completion,17,0.8126,65.0
+6751,Pass completion,17,0.8462,86.0
+6752,Pass completion,17,0.8,73.0
+6758,Pass completion,17,0.7621,34.0
+6761,Pass completion,17,0.6468,22.0
+6762,Pass completion,17,0.7454,31.0
+6764,Pass completion,17,0.7642,36.0
+6766,Pass completion,17,0.7128,56.0
+6771,Pass completion,17,0.8067,64.0
+6772,Pass completion,17,0.7452,30.0
+6775,Pass completion,17,0.7513,25.0
+6776,Pass completion,17,0.6706,4.0
+6777,Pass completion,17,0.7752,52.0
+6778,Pass completion,17,0.775,52.0
+6784,Pass completion,17,0.7235,20.0
+6787,Pass completion,17,0.7779,55.0
+6788,Pass completion,17,0.7913,66.0
+6789,Pass completion,17,0.7646,47.0
+6791,Pass completion,17,0.7173,16.0
+6792,Pass completion,17,0.5526,35.0
+6794,Pass completion,17,0.8843,97.0
+6796,Pass completion,17,0.8241,76.0
+6797,Pass completion,17,0.7808,48.0
+6801,Pass completion,17,0.7967,58.0
+6802,Pass completion,17,0.8164,78.0
+6804,Pass completion,17,0.856,91.0
+6805,Pass completion,17,0.7885,63.0
+6823,Pass completion,17,0.6647,83.0
+6825,Pass completion,17,0.8176,80.0
+6827,Pass completion,17,0.8571,92.0
+6828,Pass completion,17,0.7888,64.0
+6829,Pass completion,17,0.6551,7.0
+6832,Pass completion,17,0.7192,59.0
+6837,Pass completion,17,0.6707,5.0
+6838,Pass completion,17,0.6752,38.0
+6841,Pass completion,17,0.7255,67.0
+6842,Pass completion,17,0.8394,100.0
+6847,Pass completion,17,0.7244,62.0
+6852,Pass completion,17,0.8202,73.0
+6856,Pass completion,17,0.7554,41.0
+6861,Pass completion,17,0.7497,37.0
+6862,Pass completion,17,0.7126,55.0
+6865,Pass completion,17,0.7565,43.0
+6867,Pass completion,17,0.772,44.0
+6869,Pass completion,17,0.7351,26.0
+6872,Pass completion,17,0.7916,66.0
+6873,Pass completion,17,0.8226,75.0
+6878,Pass completion,17,0.7037,12.0
+6880,Pass completion,17,0.726,68.0
+6884,Pass completion,17,0.5834,52.0
+6898,Pass completion,17,0.5911,57.0
+6899,Pass completion,17,0.7595,31.0
+6907,Pass completion,17,0.5942,5.0
+6913,Pass completion,17,0.7449,29.0
+6914,Pass completion,17,0.7798,58.0
+6918,Pass completion,17,0.6165,7.0
+6926,Pass completion,17,0.7605,33.0
+6927,Pass completion,17,0.7961,72.0
+6928,Pass completion,17,0.8278,78.0
+6929,Pass completion,17,0.8748,93.0
+6932,Pass completion,17,0.8026,74.0
+6934,Pass completion,17,0.8181,72.0
+6935,Pass completion,17,0.756,41.0
+7005,Pass completion,17,0.7512,38.0
+7034,Pass completion,17,0.8178,80.0
+7105,Pass completion,17,0.745,81.0
+7141,Pass completion,17,0.7915,95.0
+7154,Pass completion,17,0.8596,88.0
+7158,Pass completion,17,0.6844,7.0
+7161,Pass completion,17,0.7379,27.0
+7577,Pass completion,17,0.7736,51.0
+7781,Pass completion,17,0.7365,75.0
+7782,Pass completion,17,0.6486,6.0
+7900,Pass completion,17,0.6235,13.0
+7906,Pass completion,17,0.7845,61.0
+7907,Pass completion,17,0.8364,88.0
+8167,Pass completion,17,0.7252,65.0
+8234,Pass completion,17,0.7404,21.0
+8419,Pass completion,17,0.6768,39.0
+8440,Pass completion,17,0.8317,88.0
+8522,Pass completion,17,0.7555,85.0
+8523,Pass completion,17,0.6662,29.0
+8584,Pass completion,17,0.7065,53.0
+8697,Pass completion,17,0.5669,43.0
+8801,Pass completion,17,0.702,12.0
+8818,Pass completion,17,0.7871,62.0
+10037,Pass completion,17,0.751,24.0
+10476,Pass completion,17,0.8185,83.0
+10609,Pass completion,17,0.8834,95.0
+10755,Pass completion,17,0.7914,53.0
+10763,Pass completion,17,0.4747,13.0
+10802,Pass completion,17,0.8055,63.0
+11298,Pass completion,17,0.7295,23.0
+11539,Pass completion,17,0.6307,16.0
+11542,Pass completion,17,0.7195,60.0
+11634,Pass completion,17,0.7604,46.0
+11675,Pass completion,17,0.814,67.0
+13107,Pass completion,17,0.7564,29.0
+15805,Pass completion,17,0.8434,84.0
+15893,Pass completion,17,0.8282,79.0
+16332,Pass completion,17,0.6953,9.0
+16456,Pass completion,17,0.8049,75.0
+16539,Pass completion,17,0.8202,84.0
+16622,Pass completion,17,0.7933,70.0
+17054,Pass completion,17,0.6615,3.0
+18398,Pass completion,17,0.7297,19.0
+18724,Pass completion,17,0.6265,14.0
+18867,Pass completion,17,0.6844,11.0
+18925,Pass completion,17,0.8162,69.0
+19431,Pass completion,17,0.7657,38.0
+19454,Pass completion,17,0.8146,77.0
+19668,Pass completion,17,0.8818,95.0
+19677,Pass completion,17,0.7787,91.0
+20016,Pass completion,17,0.8649,94.0
+20064,Pass completion,17,0.7481,35.0
+20542,Pass completion,17,0.6527,26.0
+20669,Pass completion,17,0.8439,85.0
+21210,Pass completion,17,0.6951,9.0
+22819,Pass completion,17,0.842,83.0
+23416,Pass completion,17,0.6931,47.0
+23785,Pass completion,17,0.7254,66.0
+23791,Pass completion,17,0.677,40.0
+23800,Pass completion,17,0.7441,28.0
+23806,Pass completion,17,0.7842,49.0
+23816,Pass completion,17,0.6227,12.0
+23843,Pass completion,17,0.6996,91.0
+23848,Pass completion,17,0.684,42.0
+23943,Pass completion,17,0.6659,28.0
+23994,Pass completion,17,0.6097,6.0
+24035,Pass completion,17,0.6747,36.0
+24070,Pass completion,17,0.5731,2.0
+24132,Pass completion,17,0.7288,22.0
+24138,Pass completion,17,0.6754,5.0
+24149,Pass completion,17,0.7702,43.0
+24173,Pass completion,17,0.7833,92.0
+24255,Pass completion,17,0.7101,96.0
+24263,Pass completion,17,0.7137,15.0
+24783,Pass completion,17,0.7074,12.0
+25134,Pass completion,17,0.5625,1.0
+25144,Pass completion,17,0.6525,74.0
+25707,Pass completion,17,0.7701,42.0
+25859,Pass completion,17,0.611,1.0
+25881,Pass completion,17,0.7855,50.0
+25921,Pass completion,17,0.7146,58.0
+26009,Pass completion,17,0.6699,32.0
+26012,Pass completion,17,0.8076,76.0
+26020,Pass completion,17,0.6413,19.0
+26023,Pass completion,17,0.6471,2.0
+26087,Pass completion,17,0.796,71.0
+26103,Pass completion,17,0.6598,78.0
+26211,Pass completion,17,0.8373,82.0
+26222,Pass completion,17,0.7515,39.0
+26448,Pass completion,17,0.8431,89.0
+26607,Pass completion,17,0.8031,61.0
+26633,Pass completion,17,0.7494,36.0
+26669,Pass completion,17,0.7238,20.0
+26685,Pass completion,17,0.7408,78.0
+26690,Pass completion,17,0.6432,21.0
+26723,Pass completion,17,0.6709,33.0
+26753,Pass completion,17,0.6241,70.0
+26780,Pass completion,17,0.7991,73.0
+26848,Pass completion,17,0.8172,70.0
+27054,Pass completion,17,0.794,70.0
+27092,Pass completion,17,0.7452,30.0
+27109,Pass completion,17,0.6719,34.0
+27122,Pass completion,17,0.7635,35.0
+27144,Pass completion,17,0.7553,40.0
+27148,Pass completion,17,0.7797,47.0
+27184,Pass completion,17,0.7734,50.0
+27239,Pass completion,17,0.6377,2.0
+27241,Pass completion,17,0.6737,35.0
+27250,Pass completion,17,0.6213,11.0
+27305,Pass completion,17,0.5264,22.0
+27335,Pass completion,17,0.7583,44.0
+27341,Pass completion,17,0.8918,96.0
+27346,Pass completion,17,0.8243,77.0
+27347,Pass completion,17,0.696,10.0
+27349,Pass completion,17,0.7713,49.0
+27403,Pass completion,17,0.8306,87.0
+27482,Pass completion,17,0.8295,86.0
+27483,Pass completion,17,0.7316,24.0
+27526,Pass completion,17,0.7515,26.0
+27656,Pass completion,17,0.7691,48.0
